@@ -1,0 +1,1080 @@
+Permission	Allowed	Denied
+Audience Builder	true	false
+Audience Builder - General	true	false
+Audience Builder - General - Access	true	false
+Audience Builder - General - Admin	true	false
+Audience Builder - General - Config Tools	true	false
+Audience Builder - General - Create	true	false
+Audience Builder - Owned Audiences	true	false
+Audience Builder - Owned Audiences - Delete	true	false
+Audience Builder - Owned Audiences - Edit	true	false
+Audience Builder - Owned Audiences - Copy	true	false
+Audience Builder - Owned Audiences - Refresh	true	false
+Audience Builder - Owned Audiences - Publish	true	false
+Audience Builder - Others Audiences	true	false
+Audience Builder - Others Audiences - Delete	true	false
+Audience Builder - Others Audiences - Edit	true	false
+Audience Builder - Others Audiences - Copy	true	false
+Audience Builder - Others Audiences - Refresh	true	false
+Audience Builder - Others Audiences - Publish	true	false
+Audience Builder - Others Audiences - ViewOnly	true	false
+Audience Builder - Data Factory Utility Tools	true	false
+Audience Builder - Data Factory Utility Tools - Access	true	false
+Audience Builder - Tools	false	false
+Audience Builder - Tools - Manage Attributes	false	false
+SocialEngage	true	false
+SocialEngage - Access	true	false
+SocialEngage - Perform Workgroup Leader Role	true	false
+Salesforce Marketing Cloud	true	false
+Salesforce Marketing Cloud - Campaigns	true	false
+Salesforce Marketing Cloud - Campaigns - General	false	false
+Salesforce Marketing Cloud - Campaigns - General - Access	false	false
+Salesforce Marketing Cloud - Campaigns - General - Delete	true	false
+Salesforce Marketing Cloud - Campaigns - General - Create and Edit	true	false
+Salesforce Marketing Cloud - Campaigns - General - Associate	true	false
+Salesforce Marketing Cloud - Campaigns - General - Administer	true	false
+Salesforce Marketing Cloud - Campaigns - General - Assign	true	false
+Salesforce Marketing Cloud - Campaigns - Comments	false	false
+Salesforce Marketing Cloud - Campaigns - Comments - View	false	false
+Salesforce Marketing Cloud - Campaigns - Comments - Create	false	false
+Salesforce Marketing Cloud - Campaigns - Comments - Update	false	false
+Salesforce Marketing Cloud - Campaigns - Comments - Delete	false	false
+Salesforce Marketing Cloud - Campaigns - Linked Assets	false	false
+Salesforce Marketing Cloud - Campaigns - Linked Assets - Create	false	false
+Salesforce Marketing Cloud - Campaigns - Linked Assets - View	false	false
+Salesforce Marketing Cloud - Campaigns - Linked Assets - Update	false	false
+Salesforce Marketing Cloud - Campaigns - Linked Assets - Delete	false	false
+Salesforce Marketing Cloud - Calendar	true	false
+Salesforce Marketing Cloud - Calendar - Delete Event	true	false
+Salesforce Marketing Cloud - Calendar - Create and Edit	true	false
+Salesforce Marketing Cloud - Contacts	true	false
+Salesforce Marketing Cloud - Contacts - Create/Update Contact List	true	false
+Salesforce Marketing Cloud - Contacts - Read Contact Data	true	false
+Salesforce Marketing Cloud - Contacts - Import Contact List	true	false
+Salesforce Marketing Cloud - Contacts - Create/Update Contact Data	true	false
+Salesforce Marketing Cloud - Contacts - Create Suppression List	true	false
+Salesforce Marketing Cloud - Contacts - View Encrypted Data	false	false
+Salesforce Marketing Cloud - Pulse	false	false
+Salesforce Marketing Cloud - Pulse - Edit Personal Pulse Settings	false	false
+Salesforce Marketing Cloud - Security	true	false
+Salesforce Marketing Cloud - Security - Administer Watchdog	true	false
+Salesforce Marketing Cloud - Security - MutualSSL	true	false
+Salesforce Marketing Cloud - General	true	false
+Salesforce Marketing Cloud - General - Access	false	false
+Salesforce Marketing Cloud - General - Pulse Access	false	false
+Salesforce Marketing Cloud - General - Calendar Access	true	false
+Salesforce Marketing Cloud - General - Assign Marketing Cloud Roles	true	false
+Salesforce Marketing Cloud - Playbooks	true	false
+Salesforce Marketing Cloud - Playbooks - Access	true	false
+Marketo	true	false
+Marketo - Access	true	false
+DeveloperApp	true	false
+DeveloperApp - Access	true	false
+MobileConnect	true	false
+MobileConnect - General	true	false
+MobileConnect - General - Access	true	false
+MobileConnect - General - Administer SMS Channel	true	false
+MobileConnect - SMS Message	true	false
+MobileConnect - SMS Message - Create and Edit	true	false
+MobileConnect - SMS Message - Delete	true	false
+MobileConnect - SMS Message - Schedule and Send Message	true	false
+MobileConnect - SMS Message - Create Keyword from Message Template	true	false
+MobileConnect - Reporting	true	false
+MobileConnect - Reporting - MobileConnect Reporting	true	false
+Automation Studio	true	false
+Automation Studio - General	true	false
+Automation Studio - General - Access	true	false
+Automation Studio - Automation	true	false
+Automation Studio - Automation - Create	false	false
+Automation Studio - Automation - Create, Edit, Execute	true	false
+Automation Studio - Automation - Delete, Execute	true	false
+Automation Studio - Automation - Execute (API)	true	false
+Automation Studio - Migration Utility	true	false
+Automation Studio - Migration Utility - Access	true	false
+Automation Studio - Migration Utility - Migrate All	true	false
+Email	true	false
+Email - Content	true	false
+Email - Content - Email	true	false
+Email - Content - Email - Create	true	false
+Email - Content - Email - View	true	false
+Email - Content - Email - Update	true	false
+Email - Content - Email - Delete	true	false
+Email - Content - Email - Preview	true	false
+Email - Content - Email - Send	true	false
+Email - Content - Email - Test Send	true	false
+Email - Content - Email - View History	true	false
+Email - Content - Email - Content Detective	true	false
+Email - Content - Email - Validate	true	false
+Email - Content - Email - Share	true	false
+Email - Content - Email - Transfer Ownership	true	false
+Email - Content - Email - Create From Existing Email	true	false
+Email - Content - Email - PreHeader Access	true	false
+Email - Content - Email - System Default Templates Access	false	false
+Email - Content - Template	true	false
+Email - Content - Template - Create	true	false
+Email - Content - Template - View	true	false
+Email - Content - Template - Update	true	false
+Email - Content - Template - Delete	true	false
+Email - Content - Template - Save Copy	true	false
+Email - Content - Template - Share	true	false
+Email - Content - Template - Transfer Ownership	true	false
+Email - Content - Portfolio	true	false
+Email - Content - Portfolio - Upload	true	false
+Email - Content - Portfolio - View	true	false
+Email - Content - Portfolio - Update	true	false
+Email - Content - Portfolio - Delete	true	false
+Email - Content - Portfolio - Share	true	false
+Email - Content - Portfolio - Transfer Ownership	true	false
+Email - Content - Image	true	false
+Email - Content - Image - Upload	true	false
+Email - Content - Image - View	true	false
+Email - Content - Image - Update	true	false
+Email - Content - Image - Delete	true	false
+Email - Content - Content Area	true	false
+Email - Content - Content Area - Create	true	false
+Email - Content - Content Area - View	true	false
+Email - Content - Content Area - Update	true	false
+Email - Content - Content Area - Delete	true	false
+Email - Content - Content Area - Share	true	false
+Email - Content - Content Area - Transfer Ownership	true	false
+Email - Content - Document	true	false
+Email - Content - Document - Upload	true	false
+Email - Content - Document - View	true	false
+Email - Content - Document - Update	true	false
+Email - Content - Document - Delete	true	false
+Email - Content - Survey	true	false
+Email - Content - Survey - Create	true	false
+Email - Content - Survey - View	true	false
+Email - Content - Survey - Update	true	false
+Email - Content - Survey - Delete	true	false
+Email - Content - Survey - Copy	true	false
+Email - Content - Microsite	true	false
+Email - Content - Microsite - Create	true	false
+Email - Content - Microsite - View	true	false
+Email - Content - Microsite - Update	true	false
+Email - Content - Microsite - Delete	true	false
+Email - Content - Microsite Layout	true	false
+Email - Content - Microsite Layout - Create	true	false
+Email - Content - Microsite Layout - View	true	false
+Email - Content - Microsite Layout - Update	true	false
+Email - Content - Microsite Layout - Delete	true	false
+Email - Content - Coupon	true	false
+Email - Content - Coupon - Create	true	false
+Email - Content - Coupon - View	true	false
+Email - Content - Coupon - Update	true	false
+Email - Content - Coupon - Delete	true	false
+Email - Content - Google Ad	true	false
+Email - Content - Google Ad - Create	true	false
+Email - Content - Google Ad - View	true	false
+Email - Content - Google Ad - Update	true	false
+Email - Content - Google Ad - Delete	true	false
+Email - Content - Header/Footer Library	true	false
+Email - Content - Header/Footer Library - Create	true	false
+Email - Content - Header/Footer Library - View	true	false
+Email - Content - Header/Footer Library - Update	true	false
+Email - Content - Header/Footer Library - Delete	true	false
+Email - Content - Live Image	true	false
+Email - Content - Live Image - Create	true	false
+Email - Content - Live Image - View	true	false
+Email - Content - Live Image - Update	true	false
+Email - Content - Live Image - Delete	true	false
+Email - Content - Omniture TnT	true	false
+Email - Content - Omniture TnT - Create	true	false
+Email - Content - Omniture TnT - View	true	false
+Email - Content - Omniture TnT - Update	true	false
+Email - Content - Omniture TnT - Delete	true	false
+Email - Content - Simple Automated Email	true	false
+Email - Content - Simple Automated Email - Create	true	false
+Email - Content - Simple Automated Email - View	true	false
+Email - Content - Simple Automated Email - Update	true	false
+Email - Content - Simple Automated Email - Delete	true	false
+Email - Content - Simple Automated Email - Preview	true	false
+Email - Content - Simple Automated Email - View Tracking	true	false
+Email - Content - Simple Automated Email - Content Detective	true	false
+Email - Content - Simple Automated Email - Validate	true	false
+Email - Content - Simple Automated Email - Create From Existing Email	true	false
+Email - Content - Simple Automated Email - Configure	true	false
+Email - Content - Simple Automated Email - Start	true	false
+Email - Content - Simple Automated Email - Stop	true	false
+Email - Content - Advanced Test Send Options	false	false
+Email - Content - Advanced Test Send Options - Test Send Multiple Versions	true	false
+Email - Content - Advanced Test Send Options - Test Send To Test List	false	false
+Email - Content - Advanced Test Send Options - Test Send To Test Data Extension	false	false
+Email - Subscribers	true	false
+Email - Subscribers - Subscriber	true	false
+Email - Subscribers - Subscriber - Create	true	false
+Email - Subscribers - Subscriber - View	true	false
+Email - Subscribers - Subscriber - Update	true	false
+Email - Subscribers - Subscriber - Delete	true	false
+Email - Subscribers - List	true	false
+Email - Subscribers - List - Create	true	false
+Email - Subscribers - List - View	true	false
+Email - Subscribers - List - Update	true	false
+Email - Subscribers - List - Delete	true	false
+Email - Subscribers - List - View Subscribers	true	false
+Email - Subscribers - List - Import Subscribers	true	false
+Email - Subscribers - List - Export Subscribers	true	false
+Email - Subscribers - List - SendEmailToList	true	false
+Email - Subscribers - List - Search Subscribers	true	false
+Email - Subscribers - List - Move Subscribers	true	false
+Email - Subscribers - List - Copy Subscribers	true	false
+Email - Subscribers - List - Manage Welcome Email	true	false
+Email - Subscribers - Publication List	true	false
+Email - Subscribers - Publication List - Create	true	false
+Email - Subscribers - Publication List - View	true	false
+Email - Subscribers - Publication List - Update	true	false
+Email - Subscribers - Publication List - Delete	true	false
+Email - Subscribers - Publication List - View Subscribers	true	false
+Email - Subscribers - Publication List - Export Subscribers	true	false
+Email - Subscribers - Publication List - Import Subscribers	true	false
+Email - Subscribers - Publication List - Share	true	false
+Email - Subscribers - Publication List - Search Subscribers	true	false
+Email - Subscribers - Publication List - Move Subscribers	true	false
+Email - Subscribers - Publication List - Copy Subscribers	true	false
+Email - Subscribers - Publication List - Transfer Ownership	true	false
+Email - Subscribers - Group	true	false
+Email - Subscribers - Group - Create	true	false
+Email - Subscribers - Group - View	true	false
+Email - Subscribers - Group - Update	true	false
+Email - Subscribers - Group - Delete	true	false
+Email - Subscribers - Group - Refresh	true	false
+Email - Subscribers - Group - View Subscribers	true	false
+Email - Subscribers - Group - Export Subscribers	true	false
+Email - Subscribers - Group - Send Email To Group	true	false
+Email - Subscribers - Group - Copy Subscribers	true	false
+Email - Subscribers - Attribute	true	false
+Email - Subscribers - Attribute - Create	true	false
+Email - Subscribers - Attribute - View	true	false
+Email - Subscribers - Attribute - Update	true	false
+Email - Subscribers - Attribute - Delete	true	false
+Email - Subscribers - Attribute - Preview	true	false
+Email - Subscribers - Data Extension	true	false
+Email - Subscribers - Data Extension - Create	true	false
+Email - Subscribers - Data Extension - View	true	false
+Email - Subscribers - Data Extension - Update	true	false
+Email - Subscribers - Data Extension - Delete	true	false
+Email - Subscribers - Data Extension - Manage Data	true	false
+Email - Subscribers - Data Extension - Manage Data Retention	true	false
+Email - Subscribers - Data Extension - Transfer Ownership	true	false
+Email - Subscribers - Data Extension - Clear Data	true	false
+Email - Subscribers - Data Extension - Import	true	false
+Email - Subscribers - Data Extension - Export	true	false
+Email - Subscribers - Data Extension - Export to Desktop	true	false
+Email - Subscribers - Data Relationship	true	false
+Email - Subscribers - Data Relationship - Create	true	false
+Email - Subscribers - Data Relationship - View	true	false
+Email - Subscribers - Data Relationship - Update	true	false
+Email - Subscribers - Data Relationship - Delete	true	false
+Email - Subscribers - Measure	true	false
+Email - Subscribers - Measure - Create	true	false
+Email - Subscribers - Measure - View	true	false
+Email - Subscribers - Measure - Update	true	false
+Email - Subscribers - Measure - Delete	true	false
+Email - Subscribers - Data Filter	true	false
+Email - Subscribers - Data Filter - Create	true	false
+Email - Subscribers - Data Filter - View	true	false
+Email - Subscribers - Data Filter - Update	true	false
+Email - Subscribers - Data Filter - Delete	true	false
+Email - Subscribers - All Subscribers	true	false
+Email - Subscribers - All Subscribers - View	true	false
+Email - Subscribers - All Subscribers - View Subscribers	true	false
+Email - Subscribers - All Subscribers - Import Subscribers	true	false
+Email - Subscribers - All Subscribers - Export Subscribers	true	false
+Email - Subscribers - All Subscribers - Search Subscribers	true	false
+Email - Subscribers - All Subscribers - Copy Subscribers	true	false
+Email - Subscribers - All Subscribers - SendEmailToList	true	false
+Email - Subscribers - All Subscribers - Manage Welcome Email	true	false
+Email - Subscribers - Audience	true	false
+Email - Subscribers - Audience - Create	true	false
+Email - Subscribers - Audience - View	true	false
+Email - Subscribers - Audience - Update	true	false
+Email - Subscribers - Audience - Delete	true	false
+Email - Subscribers - Audience - View Subscribers	true	false
+Email - Subscribers - Audience - Import Subscribers	true	false
+Email - Subscribers - Audience - Export Subscribers	true	false
+Email - Subscribers - Audience - Search Subscribers	true	false
+Email - Subscribers - Audience - Move Subscribers	true	false
+Email - Subscribers - Audience - Copy Subscribers	true	false
+Email - Subscribers - Audience - Send Email To Audience	true	false
+Email - Subscribers - Suppression List	true	false
+Email - Subscribers - Suppression List - Create	true	false
+Email - Subscribers - Suppression List - View	true	false
+Email - Subscribers - Suppression List - Update	true	false
+Email - Subscribers - Suppression List - Delete	true	false
+Email - Subscribers - Suppression List - View Subscribers	true	false
+Email - Subscribers - Suppression List - Import Subscribers	true	false
+Email - Subscribers - Suppression List - Export Subscribers	true	false
+Email - Subscribers - Suppression List - Search Subscribers	true	false
+Email - Subscribers - Suppression List - Move Subscribers	true	false
+Email - Subscribers - Suppression List - Copy Subscribers	true	false
+Email - Subscribers - Suppression List - Share	true	false
+Email - Subscribers - Suppression List - Transfer Ownership	true	false
+Email - Subscribers - Salesforce Data Extension	true	false
+Email - Subscribers - Salesforce Data Extension - Create	true	false
+Email - Subscribers - Salesforce Data Extension - View	true	false
+Email - Subscribers - Salesforce Data Extension - Update	true	false
+Email - Subscribers - Salesforce Data Extension - Delete	true	false
+Email - Subscribers - Salesforce Data Extension - Manage Data	true	false
+Email - Subscribers - Salesforce Data Extension - Manage Data Retention	true	false
+Email - Subscribers - Salesforce Data Extension - Transfer Ownership	true	false
+Email - Subscribers - Salesforce Data Extension - Clear Data	true	false
+Email - Subscribers - Salesforce Data Extension - Import	true	false
+Email - Subscribers - Salesforce Data Extension - Export	true	false
+Email - Subscribers - Salesforce Data Extension - Export to Desktop	true	false
+Email - Interactions	true	false
+Email - Interactions - Activities	true	false
+Email - Interactions - Activities - Data Extract	true	false
+Email - Interactions - Activities - Data Extract - Create	true	false
+Email - Interactions - Activities - Data Extract - View	true	false
+Email - Interactions - Activities - Data Extract - Update	true	false
+Email - Interactions - Activities - Data Extract - Delete	true	false
+Email - Interactions - Activities - Data Extract - Start	true	false
+Email - Interactions - Activities - Report	true	false
+Email - Interactions - Activities - Report - Create	true	false
+Email - Interactions - Activities - Report - View	true	false
+Email - Interactions - Activities - Report - Update	true	false
+Email - Interactions - Activities - Report - Delete	true	false
+Email - Interactions - Activities - File Transfer	true	false
+Email - Interactions - Activities - File Transfer - Create	true	false
+Email - Interactions - Activities - File Transfer - View	true	false
+Email - Interactions - Activities - File Transfer - Update	true	false
+Email - Interactions - Activities - File Transfer - Delete	true	false
+Email - Interactions - Activities - File Transfer - Start	true	false
+Email - Interactions - Activities - Import	true	false
+Email - Interactions - Activities - Import - Create	true	false
+Email - Interactions - Activities - Import - View	true	false
+Email - Interactions - Activities - Import - Update	true	false
+Email - Interactions - Activities - Import - Delete	true	false
+Email - Interactions - Activities - Import - Start	true	false
+Email - Interactions - Activities - Import - View File History	true	false
+Email - Interactions - Activities - Query	true	false
+Email - Interactions - Activities - Query - Create	true	false
+Email - Interactions - Activities - Query - View	true	false
+Email - Interactions - Activities - Query - Update	true	false
+Email - Interactions - Activities - Query - Delete	true	false
+Email - Interactions - Activities - Query - Start	true	false
+Email - Interactions - Activities - Query - Move	true	false
+Email - Interactions - Activities - Filter	true	false
+Email - Interactions - Activities - Filter - Create	true	false
+Email - Interactions - Activities - Filter - View	true	false
+Email - Interactions - Activities - Filter - Update	true	false
+Email - Interactions - Activities - Filter - Delete	true	false
+Email - Interactions - Activities - Filter - Start	true	false
+Email - Interactions - Activities - Scripts	true	false
+Email - Interactions - Activities - Scripts - Create	true	false
+Email - Interactions - Activities - Scripts - Update	true	false
+Email - Interactions - Activities - Scripts - Delete	true	false
+Email - Interactions - Activities - Scripts - View	true	false
+Email - Interactions - Activities - Scripts - Preview	true	false
+Email - Interactions - Activities - Scripts - Start	true	false
+Email - Interactions - Activities - Scripts - Stop	true	false
+Email - Interactions - Activities - Data Factory Utility	true	false
+Email - Interactions - Activities - Data Factory Utility - Create	true	false
+Email - Interactions - Activities - Data Factory Utility - Update	true	false
+Email - Interactions - Activities - Data Factory Utility - Delete	true	false
+Email - Interactions - Activities - Data Factory Utility - View	true	false
+Email - Interactions - Activities - Data Factory Utility - Preview	true	false
+Email - Interactions - Activities - Data Factory Utility - Start	true	false
+Email - Interactions - Activities - Data Factory Utility - Stop	true	false
+Email - Interactions - Activities - SegmentRecount	true	false
+Email - Interactions - Activities - SegmentRecount - Create	true	false
+Email - Interactions - Activities - SegmentRecount - Update	true	false
+Email - Interactions - Activities - SegmentRecount - Delete	true	false
+Email - Interactions - Activities - SegmentRecount - View	true	false
+Email - Interactions - Activities - SegmentRecount - Preview	true	false
+Email - Interactions - Activities - SegmentRecount - Start	true	false
+Email - Interactions - Activities - SegmentRecount - Stop	true	false
+Email - Interactions - Activities - BuildAudience	true	false
+Email - Interactions - Activities - BuildAudience - Create	true	false
+Email - Interactions - Activities - BuildAudience - Update	true	false
+Email - Interactions - Activities - BuildAudience - Delete	true	false
+Email - Interactions - Activities - BuildAudience - View	true	false
+Email - Interactions - Activities - BuildAudience - Preview	true	false
+Email - Interactions - Activities - BuildAudience - Start	true	false
+Email - Interactions - Activities - BuildAudience - Stop	true	false
+Email - Interactions - Activities - Data Verification	false	false
+Email - Interactions - Activities - Data Verification - Create	false	false
+Email - Interactions - Activities - Data Verification - Update	false	false
+Email - Interactions - Activities - Data Verification - Delete	false	false
+Email - Interactions - Activities - Data Verification - View	false	false
+Email - Interactions - Activities - Predictive Intelligence	false	false
+Email - Interactions - Activities - Predictive Intelligence - View	false	false
+Email - Interactions - Activities - Predictive Intelligence - Create	false	false
+Email - Interactions - Activities - Predictive Intelligence - Update	false	false
+Email - Interactions - Activities - Predictive Intelligence - Delete	false	false
+Email - Interactions - Activities - Predictive Intelligence - Start	false	false
+Email - Interactions - Messages	true	false
+Email - Interactions - Messages - Email	true	false
+Email - Interactions - Messages - Email - User-Initiated	true	false
+Email - Interactions - Messages - Email - User-Initiated - Create	true	false
+Email - Interactions - Messages - Email - User-Initiated - View	true	false
+Email - Interactions - Messages - Email - User-Initiated - Update	true	false
+Email - Interactions - Messages - Email - User-Initiated - Delete	true	false
+Email - Interactions - Messages - Email - User-Initiated - Send	true	false
+Email - Interactions - Messages - Email - User-Initiated - Test Send	true	false
+Email - Interactions - Messages - Email - Triggered	true	false
+Email - Interactions - Messages - Email - Triggered - Create	true	false
+Email - Interactions - Messages - Email - Triggered - View	true	false
+Email - Interactions - Messages - Email - Triggered - Update	true	false
+Email - Interactions - Messages - Email - Triggered - Delete	true	false
+Email - Interactions - Messages - Email - Triggered - Archive	true	false
+Email - Interactions - Messages - Email - Triggered - View Tracking	true	false
+Email - Interactions - Messages - Email - Triggered - Start/Restart	true	false
+Email - Interactions - Messages - Email - Triggered - Pause	true	false
+Email - Interactions - Messages - Email - Triggered - Publish Changes	true	false
+Email - Interactions - Messages - Email - Triggered - Move	true	false
+Email - Interactions - Messages - Email - Triggered - Clear Queue	true	false
+Email - Interactions - Messages - Email - SalesforceSends	false	false
+Email - Interactions - Messages - Email - SalesforceSends - Create	true	false
+Email - Interactions - Messages - Email - SalesforceSends - View	true	false
+Email - Interactions - Messages - Email - SalesforceSends - Update	true	false
+Email - Interactions - Messages - Email - SalesforceSends - Delete	true	false
+Email - Interactions - Messages - Email - SalesforceSends - Send	true	false
+Email - Interactions - Messages - Email - SalesforceSends - Test Send	true	false
+Email - Interactions - Messages - SMS	true	false
+Email - Interactions - Messages - SMS - Triggered	true	false
+Email - Interactions - Messages - SMS - Triggered - Create	true	false
+Email - Interactions - Messages - SMS - Triggered - View	true	false
+Email - Interactions - Messages - SMS - Triggered - Update	true	false
+Email - Interactions - Messages - SMS - Triggered - Delete	true	false
+Email - Interactions - Messages - SMS - Triggered - View Tracking	true	false
+Email - Interactions - Messages - SMS - Triggered - Send	true	false
+Email - Interactions - Messages - SMS - MO Keyword	true	false
+Email - Interactions - Messages - SMS - MO Keyword - Create	true	false
+Email - Interactions - Messages - SMS - MO Keyword - View	true	false
+Email - Interactions - Messages - SMS - MO Keyword - Update	true	false
+Email - Interactions - Messages - SMS - MO Keyword - Delete	true	false
+Email - Interactions - Messages - SMS - MO Keyword - Manage Keyword	true	false
+Email - Interactions - Messages - SMS - Shared Keyword	true	false
+Email - Interactions - Messages - SMS - Shared Keyword - Create	true	false
+Email - Interactions - Messages - SMS - Shared Keyword - View	true	false
+Email - Interactions - Messages - SMS - Shared Keyword - Update	true	false
+Email - Interactions - Messages - SMS - Shared Keyword - Delete	true	false
+Email - Interactions - Messages - Voice	true	false
+Email - Interactions - Messages - Voice - Triggered	true	false
+Email - Interactions - Messages - Voice - Triggered - Create	true	false
+Email - Interactions - Messages - Voice - Triggered - View	true	false
+Email - Interactions - Messages - Voice - Triggered - Update	true	false
+Email - Interactions - Messages - Voice - Triggered - Delete	true	false
+Email - Interactions - Messages - Voice - Triggered - View Tracking	true	false
+Email - Interactions - Messages - Voice - Triggered - Send	true	false
+Email - Interactions - Messages - Microsites	true	false
+Email - Interactions - Messages - Microsites - Create	true	false
+Email - Interactions - Messages - Microsites - View	true	false
+Email - Interactions - Messages - Microsites - Update	true	false
+Email - Interactions - Messages - Microsites - Delete	true	false
+Email - Interactions - Messages - Microsites - Archive	true	false
+Email - Interactions - Messages - Microsites - Start/Restart	true	false
+Email - Interactions - Messages - Microsites - Pause	true	false
+Email - Interactions - Messages - Microsites - Publish Pages	true	false
+Email - Interactions - Messages - Microsites - View Tracking	true	false
+Email - Interactions - Programs	true	false
+Email - Interactions - Programs - Create	true	false
+Email - Interactions - Programs - View	true	false
+Email - Interactions - Programs - Update	true	false
+Email - Interactions - Programs - Delete	true	false
+Email - Interactions - Programs - Start	true	false
+Email - Interactions - Programs - Stop	true	false
+Email - Interactions - Programs - Schedule	true	false
+Email - Interactions - Programs - View Activity	true	false
+Email - Tracking	true	false
+Email - Tracking - View	true	false
+Email - Tracking - Update	true	false
+Email - Tracking - Delete	true	false
+Email - Tracking - Compare Email Sends	true	false
+Email - Tracking - Enhanced Tracking	true	false
+Email - Tracking - View Subscriber Details	true	false
+Email - Tracking - Export Subscribers	true	false
+Email - Reports	true	false
+Email - Reports - View Administrative Reports	true	false
+Email - Reports - Run Report	true	false
+Email - Admin	true	false
+Email - Admin - API Access	true	false
+Email - Admin - API Access - WebService API	true	false
+Email - Admin - API Access - XML API	true	false
+Email - Admin - 3Sixty	true	false
+Email - Admin - 3Sixty - Access	true	false
+Email - Admin - Send Management	true	false
+Email - Admin - Send Management - Sender Profile	true	false
+Email - Admin - Send Management - Sender Profile - Create	true	false
+Email - Admin - Send Management - Sender Profile - View	true	false
+Email - Admin - Send Management - Sender Profile - Update	true	false
+Email - Admin - Send Management - Sender Profile - Delete	true	false
+Email - Admin - Send Management - Delivery Profile	true	false
+Email - Admin - Send Management - Delivery Profile - Create	true	false
+Email - Admin - Send Management - Delivery Profile - View	true	false
+Email - Admin - Send Management - Delivery Profile - Update	true	false
+Email - Admin - Send Management - Delivery Profile - Delete	true	false
+Email - Admin - Send Management - Send Classification	true	false
+Email - Admin - Send Management - Send Classification - Create	true	false
+Email - Admin - Send Management - Send Classification - View	true	false
+Email - Admin - Send Management - Send Classification - Update	true	false
+Email - Admin - Send Management - Send Classification - Delete	true	false
+Email - Admin - Send Management - SMS Sender Profile	true	false
+Email - Admin - Send Management - SMS Sender Profile - Create	true	false
+Email - Admin - Send Management - SMS Sender Profile - View	true	false
+Email - Admin - Send Management - SMS Sender Profile - Update	true	false
+Email - Admin - Send Management - SMS Sender Profile - Delete	true	false
+Email - Admin - Send Management - SMS Delivery Profile	true	false
+Email - Admin - Send Management - SMS Delivery Profile - Create	true	false
+Email - Admin - Send Management - SMS Delivery Profile - View	true	false
+Email - Admin - Send Management - SMS Delivery Profile - Update	true	false
+Email - Admin - Send Management - SMS Delivery Profile - Delete	true	false
+Email - Admin - Send Management - SMS Send Classification	true	false
+Email - Admin - Send Management - SMS Send Classification - Create	true	false
+Email - Admin - Send Management - SMS Send Classification - View	true	false
+Email - Admin - Send Management - SMS Send Classification - Update	true	false
+Email - Admin - Send Management - SMS Send Classification - Delete	true	false
+Email - Admin - Send Management - Voice Sender Profile	true	false
+Email - Admin - Send Management - Voice Sender Profile - Create	true	false
+Email - Admin - Send Management - Voice Sender Profile - View	true	false
+Email - Admin - Send Management - Voice Sender Profile - Update	true	false
+Email - Admin - Send Management - Voice Sender Profile - Delete	true	false
+Email - Admin - Send Management - Voice Delivery Profile	true	false
+Email - Admin - Send Management - Voice Delivery Profile - Create	true	false
+Email - Admin - Send Management - Voice Delivery Profile - View	true	false
+Email - Admin - Send Management - Voice Delivery Profile - Update	true	false
+Email - Admin - Send Management - Voice Delivery Profile - Delete	true	false
+Email - Admin - Send Management - Voice Send Classification	true	false
+Email - Admin - Send Management - Voice Send Classification - Create	true	false
+Email - Admin - Send Management - Voice Send Classification - View	true	false
+Email - Admin - Send Management - Voice Send Classification - Update	true	false
+Email - Admin - Send Management - Voice Send Classification - Delete	true	false
+Email - Admin - Send Management - Test Send Threshold	false	false
+Email - Admin - Send Management - Test Send Threshold - View	false	false
+Email - Admin - Send Management - Test Send Threshold - Update	false	false
+Email - Admin - Send Management - URL Expiration	false	false
+Email - Admin - Send Management - URL Expiration - Update	false	false
+Email - Admin - Send Management - Subject/Preheader Validation	false	false
+Email - Admin - Send Management - Subject/Preheader Validation - View	false	false
+Email - Admin - Send Management - Subject/Preheader Validation - Update	false	false
+Email - Admin - External Object Sources	true	false
+Email - Admin - External Object Sources - File Location	true	false
+Email - Admin - External Object Sources - File Location - Create	true	false
+Email - Admin - External Object Sources - File Location - View	true	false
+Email - Admin - External Object Sources - File Location - Update	true	false
+Email - Admin - External Object Sources - File Location - Delete	true	false
+Email - Admin - External Object Sources - Key Management	true	false
+Email - Admin - External Object Sources - Key Management - Create	true	false
+Email - Admin - External Object Sources - Key Management - View	true	false
+Email - Admin - External Object Sources - Key Management - Update	true	false
+Email - Admin - External Object Sources - Key Management - Delete	true	false
+Email - Admin - Page Action	true	false
+Email - Admin - Page Action - Create	true	false
+Email - Admin - Page Action - View	true	false
+Email - Admin - Page Action - Update	true	false
+Email - Admin - Page Action - Delete	true	false
+Email - Integrations	true	false
+Email - Integrations - Microsoft CRM	true	false
+Email - Integrations - Microsoft CRM - Access Marketing Cloud from External System	true	false
+Email - Integrations - Microsoft CRM - Resubscribe	true	false
+Email - Integrations - Microsoft CRM - Manage Data	true	false
+Email - Integrations - Microsoft CRM - Access	false	false
+Email - Integrations - Salesforce CRM	true	false
+Email - Integrations - Salesforce CRM - Access Marketing Cloud from External System	true	false
+Email - Integrations - Salesforce CRM - Resubscribe	true	false
+Email - Integrations - Salesforce CRM - Manage Data	true	false
+Email - Integrations - Salesforce Send	false	false
+Email - Integrations - Salesforce Send - Create	false	false
+Email - Integrations - Salesforce Send - View	false	false
+Email - Integrations - Salesforce Send - Delete	false	false
+Email - Integrations - Salesforce Send - Update	false	false
+Email - Integrations - Salesforce Send - Schedule	false	false
+Email - Integrations - Salesforce Send - Search	false	false
+Email - Shared Folders	true	false
+Email - Shared Folders - Shared Email Folders	true	false
+Email - Shared Folders - Shared Email Folders - View	true	false
+Email - Shared Folders - Shared Email Folders - Move	true	false
+Email - Shared Folders - Shared Email Folders - Delete	true	false
+Email - Shared Folders - Shared Email Folders - Rename	true	false
+Email - Shared Folders - Shared Email Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Email Folders - Share	true	false
+Email - Shared Folders - Shared Template Folders	true	false
+Email - Shared Folders - Shared Template Folders - View	true	false
+Email - Shared Folders - Shared Template Folders - Move	true	false
+Email - Shared Folders - Shared Template Folders - Delete	true	false
+Email - Shared Folders - Shared Template Folders - Rename	true	false
+Email - Shared Folders - Shared Template Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Template Folders - Share	true	false
+Email - Shared Folders - Shared Portfolio Folders	true	false
+Email - Shared Folders - Shared Portfolio Folders - View	true	false
+Email - Shared Folders - Shared Portfolio Folders - Move	true	false
+Email - Shared Folders - Shared Portfolio Folders - Delete	true	false
+Email - Shared Folders - Shared Portfolio Folders - Rename	true	false
+Email - Shared Folders - Shared Portfolio Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Portfolio Folders - Share	true	false
+Email - Shared Folders - Shared Content Area Folders	true	false
+Email - Shared Folders - Shared Content Area Folders - View	true	false
+Email - Shared Folders - Shared Content Area Folders - Move	true	false
+Email - Shared Folders - Shared Content Area Folders - Delete	true	false
+Email - Shared Folders - Shared Content Area Folders - Rename	true	false
+Email - Shared Folders - Shared Content Area Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Content Area Folders - Share	true	false
+Email - Shared Folders - Shared Data Extension Folders	true	false
+Email - Shared Folders - Shared Data Extension Folders - View	true	false
+Email - Shared Folders - Shared Data Extension Folders - Move	true	false
+Email - Shared Folders - Shared Data Extension Folders - Delete	true	false
+Email - Shared Folders - Shared Data Extension Folders - Rename	true	false
+Email - Shared Folders - Shared Data Extension Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Data Extension Folders - Share	true	false
+Email - Shared Folders - Shared Publication List Folders	true	false
+Email - Shared Folders - Shared Publication List Folders - View	true	false
+Email - Shared Folders - Shared Publication List Folders - Move	true	false
+Email - Shared Folders - Shared Publication List Folders - Delete	true	false
+Email - Shared Folders - Shared Publication List Folders - Rename	true	false
+Email - Shared Folders - Shared Publication List Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Publication List Folders - Share	true	false
+Email - Shared Folders - Shared Suppression List Folders	true	false
+Email - Shared Folders - Shared Suppression List Folders - View	true	false
+Email - Shared Folders - Shared Suppression List Folders - Move	true	false
+Email - Shared Folders - Shared Suppression List Folders - Delete	true	false
+Email - Shared Folders - Shared Suppression List Folders - Rename	true	false
+Email - Shared Folders - Shared Suppression List Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Suppression List Folders - Share	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders - View	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders - Move	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders - Delete	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders - Rename	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders - Create Sub Folder	true	false
+Email - Shared Folders - Shared Salesforce Data Extension Folders - Share	true	false
+Email - Authentication (Requires Enhanced Authentication)	true	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface	true	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	true	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	true	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	true	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	true	false
+Email - General	true	false
+Email - General - Access	true	false
+Email - A/B Testing	true	false
+Email - A/B Testing - Create/Copy	true	false
+Email - A/B Testing - Create/Copy - Subject Tests	true	false
+Email - A/B Testing - Create/Copy - Email Tests	true	false
+Email - A/B Testing - Create/Copy - Content Tests	true	false
+Email - A/B Testing - Create/Copy - From Tests	true	false
+Email - A/B Testing - Create/Copy - Send Date Tests	true	false
+Email - A/B Testing - Create/Copy - PreHeader Tests	true	false
+Email - A/B Testing - General	true	false
+Email - A/B Testing - General - Delete	true	false
+Email - A/B Testing - General - Send/Schedule	true	false
+Email - A/B Testing - General - Cancel	true	false
+Email - A/B Testing - General - Export	true	false
+Email - A/B Testing - General - View	true	false
+Email - A/B Testing - General - Access	false	false
+Email - Blockout Dates	true	false
+Email - Blockout Dates - View	true	false
+Email - Blockout Dates - Modify	true	false
+Email - Advanced Preview Options	false	false
+Email - Advanced Preview Options - Integrate with Litmus	false	false
+Email - Advanced Preview Options - Litmus Trial Previews	false	false
+Email - Proofing Tools	false	false
+Email - Proofing Tools - Region Tracking Report Access	false	false
+Discover	true	false
+Discover - Access	true	false
+Discover - View	true	false
+Discover - Create	true	false
+Discover - Delete	true	false
+Discover - Edit	true	false
+Discover - Share	true	false
+CampaignAnalytics	true	false
+CampaignAnalytics - View	true	false
+CampaignAnalytics - Share	true	false
+CampaignAnalytics - Create	true	false
+CampaignAnalytics - Edit	true	false
+CampaignAnalytics - Delete	true	false
+Administration	true	false
+Administration - Users	false	false
+Administration - Users - Create	false	false
+Administration - Users - View	false	false
+Administration - Users - Update	false	false
+Administration - Users - Disable	false	false
+Administration - Users - Manage Roles	false	false
+Administration - Users - Manage Business Units	false	false
+Administration - Business Units	false	false
+Administration - Business Units - Create	false	false
+Administration - Business Units - View	false	false
+Administration - Business Units - Update	false	false
+Administration - Business Units - Delete	false	false
+Administration - Business Units - Manage Roles	false	false
+Administration - Business Units - View Users	false	false
+Administration - Business Units - Define Subscriber Filter	false	false
+Administration - Roles	false	false
+Administration - Roles - Create	false	false
+Administration - Roles - View	false	false
+Administration - Roles - Update	false	false
+Administration - Roles - Delete	false	false
+Administration - Roles - View Assignments	false	false
+Administration - Account	false	false
+Administration - Account - Update Account and Security Settings	false	false
+Administration - Account - Create	false	false
+Administration - Account - View	false	false
+Administration - Account - Update	false	false
+Administration - Account - Delete	false	false
+Administration - Account - View Subscription Details	false	false
+Administration - General	false	false
+Administration - General - Access	false	false
+Administration - Webhooks	false	false
+Administration - Webhooks - Create Webhook	false	false
+Administration - Webhooks - View Webhook	false	false
+Administration - Webhooks - Update Webhook	false	false
+Administration - Webhooks - Delete Webhook	false	false
+Administration - Installed Packages	false	false
+Administration - Installed Packages - Administer	false	false
+Administration - Content Builder Admin	false	false
+Administration - Content Builder Admin - Access	false	false
+Administration - Custom Domains	false	false
+Administration - Custom Domains - Administer Custom Domains	false	false
+Administration - Cross Cloud Integration	false	false
+Administration - Cross Cloud Integration - External Tenant	false	false
+Administration - Cross Cloud Integration - External Tenant - Create	false	false
+Administration - Cross Cloud Integration - External Tenant - View	false	false
+Administration - Cross Cloud Integration - External Tenant - Update	false	false
+Administration - Cross Cloud Integration - External Tenant - Delete	false	false
+Administration - Cross Cloud Integration - Market Audience	false	false
+Administration - Cross Cloud Integration - Market Audience - Create	false	false
+Administration - Cross Cloud Integration - Market Audience - View	false	false
+Administration - Cross Cloud Integration - Market Audience - Update	false	false
+Administration - Cross Cloud Integration - Market Audience - Delete	false	false
+Administration - Cross Cloud Integration - Market Audience Member	false	false
+Administration - Cross Cloud Integration - Market Audience Member - Create	false	false
+Administration - Cross Cloud Integration - Market Audience Member - View	false	false
+Administration - Cross Cloud Integration - Market Audience Member - Update	false	false
+Administration - Cross Cloud Integration - Market Audience Member - Delete	false	false
+Audience Builder Enabler	true	false
+Audience Builder Enabler - Access	true	false
+Xpress	true	false
+Xpress - General	true	false
+Xpress - General - Access	true	false
+Xpress - Subscribers	true	false
+Xpress - Subscribers - CreateEditDeleteImport	true	false
+Xpress - Subscribers - View	true	false
+Xpress - Lists	true	false
+Xpress - Lists - Create	true	false
+Xpress - Lists - Delete	true	false
+Xpress - Email	true	false
+Xpress - Email - Create and Edit	true	false
+Xpress - Email - CreateWithHtmlPaste	true	false
+Xpress - Email - Send	true	false
+Xpress - Email - ExportTrackingInformation	true	false
+Xpress - Email - PostToFacebook	true	false
+Xpress - Email - PostToTwitter	true	false
+Xpress - Email - SendToDataExtensions	true	false
+Xpress - Email - SendToLists	true	false
+Xpress - Email - SendToGroups	true	false
+Xpress - Email - SendToSharedDataExtensions	true	false
+Xpress - Email - SendToFilters	true	false
+Xpress - All Subscribers	true	false
+Xpress - All Subscribers - View Subscribers	true	false
+Xpress - All Subscribers - SendEmailToList	true	false
+Xpress - All Subscribers - BuildSegmentOn	true	false
+Approvals (Email)	true	false
+Approvals (Email) - Approve and Decline	true	false
+Approvals (Email) - Bypass Approval	true	false
+Distributed Sending	true	false
+Distributed Sending - General	true	false
+Distributed Sending - General - Access	true	false
+Distributed Sending - Distributed Sending Content	true	false
+Distributed Sending - Distributed Sending Content - Edit HTML	true	false
+Distributed Sending - Distributed Sending Content - Restricted Formatting	true	false
+MobilePush	true	false
+MobilePush - General	true	false
+MobilePush - General - Access	true	false
+MobilePush - General - Administer MobilePush	true	false
+MobilePush - Message	true	false
+MobilePush - Message - Create and Edit	true	false
+MobilePush - Message - Delete	true	false
+MobilePush - Message - Schedule and Send Message	true	false
+MobilePush - Reporting	true	false
+MobilePush - Reporting - View Reports	true	false
+MobilePush - Key Management	false	false
+MobilePush - Key Management - View Key Management	false	false
+MobilePush - Key Management - Edit Key Management	false	false
+Journey Builder	true	false
+Journey Builder - General	true	false
+Journey Builder - General - Access, View	true	false
+Journey Builder - Automation	true	false
+Journey Builder - Automation - Create, Edit	true	false
+Journey Builder - Automation - Activate/Stop/Pause/Resume/Send/Schedule (journey state)	false	false
+Journey Builder - Automation - Delete	false	false
+Journey Builder - Sales And Service Cloud	false	false
+Journey Builder - Sales And Service Cloud - Create Events	false	false
+Journey Builder - Sales And Service Cloud - Create Activities	false	false
+Reports	true	false
+Reports - General	false	false
+Reports - General - Run	false	false
+Reports - General - Delete	false	false
+Reports - General - Access	false	false
+Reports - General - Subscriber-Level Data	false	false
+Reports - General - Export/Schedule	false	false
+Reports - Report Catalog	false	false
+Reports - Report Catalog - Campaigns	false	false
+Reports - Report Catalog - Campaigns - Access	false	false
+Reports - Report Catalog - Email	false	false
+Reports - Report Catalog - Email - Create Administration	false	false
+Reports - Report Catalog - Email - Create Custom	false	false
+Reports - Report Catalog - Email - Access	false	false
+Reports - Report Catalog - MobileConnect	false	false
+Reports - Report Catalog - MobileConnect - Access	false	false
+Reports - Report Catalog - SocialPages	false	false
+Reports - Report Catalog - SocialPages - Access	false	false
+Reports - Report Catalog - MobilePush	false	false
+Reports - Report Catalog - MobilePush - Access	false	false
+Reports - Report Catalog - CloudPages	false	false
+Reports - Report Catalog - CloudPages - Access	false	false
+Reports - Report Catalog - Contacts	false	false
+Reports - Report Catalog - Contacts - Access	false	false
+HubExchange	true	false
+HubExchange - View	true	false
+HubExchange - Update	true	false
+HubExchange - Delete	true	false
+HubExchange - Install	true	false
+HubExchange - HX Admin	true	false
+AdobeAnalytics	true	false
+AdobeAnalytics - View	true	false
+Tags	false	false
+Tags - Create	false	false
+Tags - Edit	false	false
+Tags - Delete	false	false
+Tags - Associate/Disassociate 	false	false
+Tags - View	false	false
+tmMessenger	true	false
+tmMessenger - General	true	false
+tmMessenger - General - Access	true	false
+tmMessenger - General - Admin Access	true	false
+LEMI	true	false
+LEMI - General	true	false
+LEMI - General - Access	true	false
+Extension Manager	true	false
+Extension Manager - Access	true	false
+GroupConnect	true	false
+GroupConnect - General	true	false
+GroupConnect - General - Access	true	false
+GroupConnect - General - Administer GroupConnect	true	false
+GroupConnect - Message	true	false
+GroupConnect - Message - Create and Edit	true	false
+GroupConnect - Message - Delete	true	false
+GroupConnect - Message - Schedule and Send Message	true	false
+GroupConnect - OTT Chat Messaging	false	false
+GroupConnect - OTT Chat Messaging - View	false	false
+GroupConnect - OTT Chat Messaging - Send	false	false
+GroupConnect - OTT Chat Message Accounts	false	false
+GroupConnect - OTT Chat Message Accounts - View	false	false
+GroupConnect - OTT Chat Message Accounts - Update	false	false
+GroupConnect - Content	false	false
+GroupConnect - Content - Rich Media	false	false
+GroupConnect - Content - Rich Media - View	false	false
+GroupConnect - Content - Rich Media - Update	false	false
+Transactional Sending	true	false
+Transactional Sending - General	true	false
+Transactional Sending - General - Access	true	false
+Transactional Sending - Overview	true	false
+Transactional Sending - Overview - View	true	false
+Transactional Sending - System Log	true	false
+Transactional Sending - System Log - View	true	false
+Transactional Sending - System Log - Export	true	false
+Transactional Sending - Paused Queue	true	false
+Transactional Sending - Paused Queue - View	true	false
+Transactional Sending - Paused Queue - Delete	true	false
+Transactional Sending - Paused Queue - Export	true	false
+Transactional Sending - Messages	true	false
+Transactional Sending - Messages - General	true	false
+Transactional Sending - Messages - General - View	true	false
+Transactional Sending - Messages - General - Create	true	false
+Transactional Sending - Messages - General - Update	true	false
+Transactional Sending - Messages - General - Delete	true	false
+Transactional Sending - Messages - Tracking	true	false
+Transactional Sending - Messages - Tracking - View	true	false
+Transactional Sending - Messages - Tracking - Export	true	false
+Transactional Sending - Messages - State Management	true	false
+Transactional Sending - Messages - State Management - Pause/Resume	true	false
+Transactional Sending - Messages - State Management - Publish	true	false
+Transactional Sending - Messages - State Management - Stop/Restart	true	false
+CloudPages	true	false
+CloudPages - General	true	false
+CloudPages - General - Report Access	true	false
+CloudPages - General - Access	true	false
+CloudPages - General - Create	false	false
+CloudPages - General - Edit	false	false
+CloudPages - General - Delete	false	false
+CloudPages - General - View	false	false
+CloudPages - General - Publish/Unpublish	false	false
+CloudPages - Admin	true	false
+CloudPages - Channel Manager	true	false
+Content Builder	true	false
+Content Builder - Assets	true	false
+Content Builder - Assets - Create	true	false
+Content Builder - Assets - Upload	true	false
+Content Builder - Assets - View	true	false
+Content Builder - Assets - Update	true	false
+Content Builder - Assets - Delete	true	false
+Content Builder - Assets - Share	true	false
+Content Builder - Assets - Transfer Ownership	true	false
+Content Builder - Assets - Publish	true	false
+Content Builder - Assets - ActivateExpire	true	false
+Content Builder - Assets - ManageVersions	true	false
+Content Builder - Assets - Download	true	false
+Content Builder - Assets - Comment	true	false
+Content Builder - Assets - Subscriber Preview	false	false
+Content Builder - Folders	true	false
+Content Builder - Folders - Create	true	false
+Content Builder - Folders - View	true	false
+Content Builder - Folders - Move	true	false
+Content Builder - Folders - Rename	true	false
+Content Builder - Folders - Delete	true	false
+Content Builder - Folders - Share Contents	false	false
+Content Builder - Folders - Update	false	false
+Content Builder - Shared Folders	false	false
+Content Builder - Shared Folders - Create	false	false
+Content Builder - Shared Folders - View	false	false
+Content Builder - Shared Folders - Move	false	false
+Content Builder - Shared Folders - Rename	false	false
+Content Builder - Shared Folders - Edit Sharing Properties	false	false
+Content Builder - Shared Folders - Delete	false	false
+Content Builder - Third-Party Content Administrator	false	false
+Content Builder - Third-Party Content Administrator - Access	false	false
+Email Send Wizard	true	false
+Email Send Wizard - General	true	false
+Email Send Wizard - General - Access	true	false
+Email Send Wizard - Content	true	false
+Email Send Wizard - Content - Subject Symbols	true	false
+Email Send Wizard - Content - Preheader	true	false
+Email Send Wizard - Content - Campaign	true	false
+Email Send Wizard - Content - Send Classificiation	true	false
+Email Send Wizard - Content - Account From and Reply	true	false
+Email Send Wizard - Audience	true	false
+Email Send Wizard - Audience - Publication List	true	false
+Email Send Wizard - Audience - Subscriber Lists	true	false
+Email Send Wizard - Audience - Data Extensions	true	false
+Email Send Wizard - Audience - Suppression List	true	false
+Email Send Wizard - Audience - Domain Exclusion	true	false
+Email Send Wizard - Audience - ExclusionScript	true	false
+Email Send Wizard - Advanced Options	true	false
+Email Send Wizard - Advanced Options - Clicks	true	false
+Email Send Wizard - Advanced Options - Multipart MIME	true	false
+Email Send Wizard - Advanced Options - Send Log	true	false
+Email Send Wizard - Advanced Options - Suppress from Send Report	true	false
+Email Send Wizard - Advanced Options - CC	true	false
+Email Send Wizard - Advanced Options - BCC	true	false
+Email Send Wizard - Advanced Options - Keyword	true	false
+Email Send Wizard - Advanced Options - Send Throttling	true	false
+Email Send Wizard - Advanced Options - Error Threshold	true	false
+Workflows and Approvals	true	false
+Workflows and Approvals - Workflow Teams	true	false
+Workflows and Approvals - Workflow Teams - Create, Edit and Copy	true	false
+Workflows and Approvals - Workflow Teams - Delete	true	false
+Workflows and Approvals - Workflow Teams - Add/Remove Users	true	false
+Workflows and Approvals - Workflow Teams - View	false	false
+Workflows and Approvals - Approvals	true	false
+Workflows and Approvals - Approvals - Comments	true	false
+Workflows and Approvals - Approvals - Comments - Edit Any User's Comments	true	false
+Workflows and Approvals - Approvals - Comments - Delete Any User's Comments	true	false
+Workflows and Approvals - Approvals - Comments - Delete Threads	true	false
+Workflows and Approvals - Approvals - Comments - View	false	false
+Workflows and Approvals - Approvals - Approval Items	true	false
+Workflows and Approvals - Approvals - Approval Items - Create and Edit	true	false
+Workflows and Approvals - Approvals - Approval Items - Delete	true	false
+Workflows and Approvals - Approvals - Approval Items - View	false	false
+Workflows and Approvals - General	true	false
+Workflows and Approvals - General - Create and Edit Workflow Definitions	true	false
+Workflows and Approvals - General - Enable Approvals for Any Channel	true	false
+Workflows and Approvals - General - View Workflow Definitions	false	false
+Workflows and Approvals - General - Delete Workflow Definitions	false	false
+Workflows and Approvals - WorkFlow Role Instance	false	false
+Workflows and Approvals - WorkFlow Role Instance - View	false	false
+Workflows and Approvals - WorkFlow Role Instance - Create	false	false
+Workflows and Approvals - WorkFlow Role Instance - Delete	false	false
+Advertising Studio Audiences	true	false
+Advertising Studio Audiences - General	true	false
+Advertising Studio Audiences - General - Delete Audience	true	false
+Advertising Studio Audiences - General - Add/Delete Ad Account	true	false
+Advertising Studio Audiences - General - Access	true	false
+Analytics	false	false
+Analytics - Reporting	false	false
+Analytics - Reporting - View	false	false
+Analytics - Google Analytics	false	false
+Analytics - Google Analytics - Administration	false	false
+Analytics - Google Analytics - Administration - View	false	false
+Analytics - Google Analytics - Administration - Edit	false	false
+Analytics - Google Analytics - Tracking	false	false
+Analytics - Google Analytics - Tracking - View	false	false
+Analytics - Google Analytics - Tracking - Create	false	false
+Analytics - Google Analytics - Audiences	false	false
+Analytics - Google Analytics - Audiences - View	false	false
+Analytics - Google Analytics - Audiences - Create	false	false
+Analytics - Google Analytics - Audiences - Edit	false	false
+Analytics - Google Analytics - Authorized Views	false	false
+Analytics - Google Analytics - Authorized Views - View	false	false
+Analytics - Tracking	false	false
+Analytics - Tracking - View	false	false
+Analytics - Tracking - Create	false	false
+Salesforce DMP	false	false
+Salesforce DMP - Audiences	false	false
+Salesforce DMP - Audiences - Create	false	false
+Salesforce DMP - Audiences - Edit	false	false
+Salesforce DMP - Integration	false	false
+Salesforce DMP - Integration - Create	false	false
+Salesforce DMP - Integration - Edit	false	false
+Salesforce DMP - Integration - View	false	false
+Interaction Studio - Legacy	false	false
+Interaction Studio - Legacy - Access	false	false
+Interaction Studio - Legacy - Access - Access (NA)	false	false
+Interaction Studio - Legacy - Access - Access (EU)	false	false
+Interaction Studio - Legacy - Access - Access (AP)	false	false
+Interaction Studio - Legacy - General	false	false
+Interaction Studio - Legacy - General - Space Admin	false	false
+Interaction Studio - Legacy - General - Create, Edit	false	false
+Interaction Studio - Legacy - General - Publish	false	false
+Interaction Studio - Legacy - General - Tenant Admin	false	false
+Event Notifications	false	false
+Event Notifications - Callbacks	false	false
+Event Notifications - Callbacks - Create	false	false
+Event Notifications - Callbacks - View	false	false
+Event Notifications - Callbacks - Update	false	false
+Event Notifications - Callbacks - Delete	false	false
+Event Notifications - Subscriptions	false	false
+Event Notifications - Subscriptions - Create	false	false
+Event Notifications - Subscriptions - View	false	false
+Event Notifications - Subscriptions - Update	false	false
+Event Notifications - Subscriptions - Delete	false	false
+Audit Trail	false	false
+Audit Trail - Administer Audit Trail	false	false
+Datorama	false	false
+Datorama - Enable Datorama Integration	false	false
+Data Factory Utility	false	false
+Data Factory Utility - Configuration	false	false
+Database Encryption	false	false
+Database Encryption - View	false	false
+Database Encryption - Rotate Key	false	false
+Database Encryption - Revoke Key	false	false
+Interaction Studio	false	false
+Interaction Studio - Access	false	false
+Interaction Studio - Admin	false	false
+Datorama Reports	false	false
+Datorama Reports - General	false	false
+Datorama Reports - General - Access, View and Export	false	false
+Datorama Reports - General - Schedule	false	false
+Datorama Reports - General - Create and Edit	false	false
+Einstein Data Analytics	false	false
+Einstein Data Analytics - Setup	false	false
+Package Manager	false	false
+Package Manager - Package	false	false
+Package Manager - Deploy	false	false
+Deep Links	false	false
+Deep Links - Assets	false	false
+Deep Links - Assets - View	false	false
+Deep Links - Assets - Create	false	false
+Deep Links - Assets - Delete	false	false
+Deep Links - Settings	false	false
+Deep Links - Settings - View	false	false
+Deep Links - Settings - Create	false	false
+Contacts	false	false
+Contacts - Contact Builder	true	false
+Contacts - Contact Builder - Administer Contact Data Model.	false	false
+Contacts - Contact Builder - View All Contacts	false	false
+Contacts - Contact Builder - Delete Contacts	false	false
+Contacts - Contact Builder - Access	false	false
+Contacts - Contact to Business Unit Mapping	false	false
+Contacts - Contact to Business Unit Mapping - Create	false	false
+Contacts - Contact to Business Unit Mapping - View	false	false
+Contacts - Contact to Business Unit Mapping - Update	false	false
+Contacts - Contact to Business Unit Mapping - Delete	false	false
