@@ -59,7 +59,7 @@ Salesforce Marketing Cloud - Pulse - Edit Personal Pulse Settings	false	false
 Salesforce Marketing Cloud - Security	false	false
 Salesforce Marketing Cloud - Security - Administer Watchdog	false	false
 Salesforce Marketing Cloud - Security - MutualSSL	false	false
-Salesforce Marketing Cloud - General	false	false
+Salesforce Marketing Cloud - General	true	false
 Salesforce Marketing Cloud - General - Access	false	false
 Salesforce Marketing Cloud - General - Pulse Access	false	false
 Salesforce Marketing Cloud - General - Calendar Access	false	false
@@ -485,10 +485,10 @@ Email - Tracking - Compare Email Sends	false	false
 Email - Tracking - Enhanced Tracking	false	false
 Email - Tracking - View Subscriber Details	false	false
 Email - Tracking - Export Subscribers	false	false
-Email - Reports	true	false
+Email - Reports	false	false
 Email - Reports - View Administrative Reports	false	false
 Email - Reports - Run Report	false	false
-Email - Admin	true	false
+Email - Admin	false	false
 Email - Admin - API Access	false	false
 Email - Admin - API Access - WebService API	false	false
 Email - Admin - API Access - XML API	false	false
@@ -646,7 +646,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
 Email - General	false	false
 Email - General - Access	false	false
-Email - A/B Testing	true	false
+Email - A/B Testing	false	false
 Email - A/B Testing - Create/Copy	false	false
 Email - A/B Testing - Create/Copy - Subject Tests	false	false
 Email - A/B Testing - Create/Copy - Email Tests	false	false
@@ -682,7 +682,7 @@ CampaignAnalytics - Share	false	false
 CampaignAnalytics - Create	false	false
 CampaignAnalytics - Edit	false	false
 CampaignAnalytics - Delete	false	false
-Administration	true	false
+Administration	false	false
 Administration - Users	false	false
 Administration - Users - Create	false	false
 Administration - Users - View	false	false
@@ -745,7 +745,7 @@ Audience Builder Enabler - Access	false	false
 Xpress	false	false
 Xpress - General	false	false
 Xpress - General - Access	false	false
-Xpress - Subscribers	true	false
+Xpress - Subscribers	false	false
 Xpress - Subscribers - CreateEditDeleteImport	false	false
 Xpress - Subscribers - View	false	false
 Xpress - Lists	false	false
@@ -771,7 +771,7 @@ Approvals (Email)	false	false
 Approvals (Email) - Approve and Decline	false	false
 Approvals (Email) - Bypass Approval	false	false
 Distributed Sending	false	false
-Distributed Sending - General	false	false
+Distributed Sending - General	true	false
 Distributed Sending - General - Access	false	false
 Distributed Sending - Distributed Sending Content	false	false
 Distributed Sending - Distributed Sending Content - Edit HTML	false	false
@@ -799,7 +799,7 @@ Journey Builder - Automation - Delete	false	false
 Journey Builder - Sales And Service Cloud	false	false
 Journey Builder - Sales And Service Cloud - Create Events	false	false
 Journey Builder - Sales And Service Cloud - Create Activities	false	false
-Reports	true	false
+Reports	false	false
 Reports - General	false	false
 Reports - General - Run	false	false
 Reports - General - Delete	false	false
@@ -821,7 +821,7 @@ Reports - Report Catalog - MobilePush	false	false
 Reports - Report Catalog - MobilePush - Access	false	false
 Reports - Report Catalog - CloudPages	false	false
 Reports - Report Catalog - CloudPages - Access	false	false
-Reports - Report Catalog - Contacts	true	false
+Reports - Report Catalog - Contacts	false	false
 Reports - Report Catalog - Contacts - Access	false	false
 HubExchange	false	false
 HubExchange - View	false	false
@@ -860,7 +860,7 @@ GroupConnect - OTT Chat Messaging - Send	false	false
 GroupConnect - OTT Chat Message Accounts	false	false
 GroupConnect - OTT Chat Message Accounts - View	false	false
 GroupConnect - OTT Chat Message Accounts - Update	false	false
-GroupConnect - Content	true	false
+GroupConnect - Content	false	false
 GroupConnect - Content - Rich Media	false	false
 GroupConnect - Content - Rich Media - View	false	false
 GroupConnect - Content - Rich Media - Update	false	false
@@ -882,7 +882,7 @@ Transactional Sending - Messages - General - View	false	false
 Transactional Sending - Messages - General - Create	false	false
 Transactional Sending - Messages - General - Update	false	false
 Transactional Sending - Messages - General - Delete	false	false
-Transactional Sending - Messages - Tracking	true	false
+Transactional Sending - Messages - Tracking	false	false
 Transactional Sending - Messages - Tracking - View	false	false
 Transactional Sending - Messages - Tracking - Export	false	false
 Transactional Sending - Messages - State Management	false	false
@@ -898,7 +898,7 @@ CloudPages - General - Edit	false	false
 CloudPages - General - Delete	false	false
 CloudPages - General - View	false	false
 CloudPages - General - Publish/Unpublish	false	false
-CloudPages - Admin	true	false
+CloudPages - Admin	false	false
 CloudPages - Channel Manager	false	false
 Content Builder	false	false
 Content Builder - Assets	false	false
@@ -923,7 +923,7 @@ Content Builder - Folders - Rename	false	false
 Content Builder - Folders - Delete	false	false
 Content Builder - Folders - Share Contents	false	false
 Content Builder - Folders - Update	false	false
-Content Builder - Shared Folders	true	false
+Content Builder - Shared Folders	false	false
 Content Builder - Shared Folders - Create	false	false
 Content Builder - Shared Folders - View	false	false
 Content Builder - Shared Folders - Move	false	false
@@ -935,7 +935,7 @@ Content Builder - Third-Party Content Administrator - Access	false	false
 Email Send Wizard	false	false
 Email Send Wizard - General	false	false
 Email Send Wizard - General - Access	false	false
-Email Send Wizard - Content	true	false
+Email Send Wizard - Content	false	false
 Email Send Wizard - Content - Subject Symbols	false	false
 Email Send Wizard - Content - Preheader	false	false
 Email Send Wizard - Content - Campaign	false	false
@@ -992,10 +992,10 @@ Analytics	false	false
 Analytics - Reporting	false	false
 Analytics - Reporting - View	false	false
 Analytics - Google Analytics	false	false
-Analytics - Google Analytics - Administration	true	false
+Analytics - Google Analytics - Administration	false	false
 Analytics - Google Analytics - Administration - View	false	false
 Analytics - Google Analytics - Administration - Edit	false	false
-Analytics - Google Analytics - Tracking	true	false
+Analytics - Google Analytics - Tracking	false	false
 Analytics - Google Analytics - Tracking - View	false	false
 Analytics - Google Analytics - Tracking - Create	false	false
 Analytics - Google Analytics - Audiences	false	false
@@ -1068,7 +1068,7 @@ Deep Links - Settings	false	false
 Deep Links - Settings - View	false	false
 Deep Links - Settings - Create	false	false
 Contacts	false	false
-Contacts - Contact Builder	true	false
+Contacts - Contact Builder	false	false
 Contacts - Contact Builder - Administer Contact Data Model.	false	false
 Contacts - Contact Builder - View All Contacts	false	false
 Contacts - Contact Builder - Delete Contacts	false	false
