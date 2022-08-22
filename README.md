@@ -8,12 +8,14 @@ You can see two folders in this repository with backups for different purposes.
 
 ### Roles Documentation
 
-Here you can find .csv files (tab separted) with full description of all the Standard Roles.
+Here you can find .tsv files (tab separted values) with full description of all the Standard Roles.
 
 In each row you can find full path to each permission along with its checkbox value (first for Allow checkbox, second for Deny checkbox). It allows you to:
 
 1. Manually check what are the differences in specific permissions between your configuration and the default one documented in this repo.
 2. Make a batch comparision by leveraging my [extaction script](https://mateuszdabrowski.pl/docs/js/js-snippet-export-import-document-sfmc-roles/#document-sfmc-roles) on your Role and comparing the outcome with the one available here in a difference comparision tool, for example, free [DiffChecker](https://www.diffchecker.com).
+
+Those files can be easily imported into Excel or Google Sheets and converted into three-column table.
 
 ### Roles Import Files
 
