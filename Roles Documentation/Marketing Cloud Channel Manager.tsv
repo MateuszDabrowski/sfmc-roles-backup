@@ -52,7 +52,7 @@ Salesforce Marketing Cloud - Contacts - Create/Update Contact List	true	false
 Salesforce Marketing Cloud - Contacts - Read Contact Data	true	false
 Salesforce Marketing Cloud - Contacts - Import Contact List	true	false
 Salesforce Marketing Cloud - Contacts - Create/Update Contact Data	true	false
-Salesforce Marketing Cloud - Contacts - Create Suppression List	true	false
+Salesforce Marketing Cloud - Contacts - Create Suppression List	false	false
 Salesforce Marketing Cloud - Contacts - View Encrypted Data	false	false
 Salesforce Marketing Cloud - Pulse	false	false
 Salesforce Marketing Cloud - Pulse - Edit Personal Pulse Settings	true	false
@@ -643,7 +643,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	false	false
-Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)	false	false
 Email - General	false	false
 Email - General - Access	true	false
 Email - A/B Testing	false	false
@@ -684,35 +684,35 @@ CampaignAnalytics - Edit	false	false
 CampaignAnalytics - Delete	false	false
 Administration	false	false
 Administration - Users	false	false
-Administration - Users - Create	false	true
+Administration - Users - Create	false	false
 Administration - Users - View	true	false
-Administration - Users - Update	false	true
-Administration - Users - Disable	false	true
-Administration - Users - Manage Roles	false	true
-Administration - Users - Manage Business Units	false	true
+Administration - Users - Update	false	false
+Administration - Users - Disable	false	false
+Administration - Users - Manage Roles	false	false
+Administration - Users - Manage Business Units	false	false
 Administration - Business Units	false	false
-Administration - Business Units - Create	false	true
-Administration - Business Units - View	false	true
-Administration - Business Units - Update	false	true
-Administration - Business Units - Delete	false	true
-Administration - Business Units - Manage Roles	false	true
-Administration - Business Units - View Users	false	true
-Administration - Business Units - Define Subscriber Filter	false	true
+Administration - Business Units - Create	false	false
+Administration - Business Units - View	false	false
+Administration - Business Units - Update	false	false
+Administration - Business Units - Delete	false	false
+Administration - Business Units - Manage Roles	false	false
+Administration - Business Units - View Users	false	false
+Administration - Business Units - Define Subscriber Filter	false	false
 Administration - Roles	false	false
-Administration - Roles - Create	false	true
-Administration - Roles - View	false	true
-Administration - Roles - Update	false	true
-Administration - Roles - Delete	false	true
-Administration - Roles - View Assignments	false	true
+Administration - Roles - Create	false	false
+Administration - Roles - View	false	false
+Administration - Roles - Update	false	false
+Administration - Roles - Delete	false	false
+Administration - Roles - View Assignments	false	false
 Administration - Account	false	false
-Administration - Account - Update Account and Security Settings	false	true
-Administration - Account - Create	false	true
-Administration - Account - View	false	true
-Administration - Account - Update	false	true
-Administration - Account - Delete	false	true
-Administration - Account - View Subscription Details	false	true
+Administration - Account - Update Account and Security Settings	false	false
+Administration - Account - Create	false	false
+Administration - Account - View	false	false
+Administration - Account - Update	false	false
+Administration - Account - Delete	false	false
+Administration - Account - View Subscription Details	false	false
 Administration - General	false	false
-Administration - General - Access	false	true
+Administration - General - Access	false	false
 Administration - Webhooks	false	false
 Administration - Webhooks - Create Webhook	false	false
 Administration - Webhooks - View Webhook	false	false
@@ -835,7 +835,7 @@ Tags	false	false
 Tags - Create	true	false
 Tags - Edit	true	false
 Tags - Delete	true	false
-Tags - Associate/Disassociate 	true	false
+Tags - Associate/Disassociate	true	false
 Tags - View	true	false
 tmMessenger	false	false
 tmMessenger - General	false	false
@@ -1038,22 +1038,22 @@ Event Notifications - Subscriptions - Update	false	false
 Event Notifications - Subscriptions - Delete	false	false
 Audit Trail	false	false
 Audit Trail - Administer Audit Trail	false	false
-Datorama	false	false
-Datorama - Enable Datorama Integration	false	false
+Intelligence	false	false
+Intelligence - Enable Intelligence Integration	false	false
 Data Factory Utility	false	false
 Data Factory Utility - Configuration	false	false
 Database Encryption	false	false
 Database Encryption - View	false	false
 Database Encryption - Rotate Key	false	false
 Database Encryption - Revoke Key	false	false
-Interaction Studio	false	false
-Interaction Studio - Access	false	false
-Interaction Studio - Admin	false	false
-Datorama Reports	false	false
-Datorama Reports - General	false	false
-Datorama Reports - General - Access, View and Export	true	false
-Datorama Reports - General - Schedule	true	false
-Datorama Reports - General - Create and Edit	true	false
+Personalization	false	false
+Personalization - Access	false	false
+Personalization - Admin	false	false
+Intelligence Reports	false	false
+Intelligence Reports - General	false	false
+Intelligence Reports - General - Access, View and Export	true	false
+Intelligence Reports - General - Schedule	true	false
+Intelligence Reports - General - Create and Edit	true	false
 Einstein Data Analytics	false	false
 Einstein Data Analytics - Setup	false	false
 Package Manager	false	false
@@ -1078,3 +1078,8 @@ Contacts - Contact to Business Unit Mapping - Create	false	false
 Contacts - Contact to Business Unit Mapping - View	false	false
 Contacts - Contact to Business Unit Mapping - Update	false	false
 Contacts - Contact to Business Unit Mapping - Delete	false	false
+Security	false	false
+Security - HTTP Headers	false	false
+Security - HTTP Headers - View	false	false
+Security - HTTP Headers - Update	false	false
+Security - HTTP Headers - Delete	false	false

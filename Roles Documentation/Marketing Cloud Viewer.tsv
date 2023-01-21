@@ -3,14 +3,14 @@ Audience Builder	false	false
 Audience Builder - General	false	false
 Audience Builder - General - Access	true	false
 Audience Builder - General - Admin	false	false
-Audience Builder - General - Config Tools	false	true
-Audience Builder - General - Create	false	true
+Audience Builder - General - Config Tools	false	false
+Audience Builder - General - Create	false	false
 Audience Builder - Owned Audiences	false	false
-Audience Builder - Owned Audiences - Delete	false	true
-Audience Builder - Owned Audiences - Edit	false	true
-Audience Builder - Owned Audiences - Copy	false	true
-Audience Builder - Owned Audiences - Refresh	false	true
-Audience Builder - Owned Audiences - Publish	false	true
+Audience Builder - Owned Audiences - Delete	false	false
+Audience Builder - Owned Audiences - Edit	false	false
+Audience Builder - Owned Audiences - Copy	false	false
+Audience Builder - Owned Audiences - Refresh	false	false
+Audience Builder - Owned Audiences - Publish	false	false
 Audience Builder - Others Audiences	false	false
 Audience Builder - Others Audiences - Delete	false	false
 Audience Builder - Others Audiences - Edit	false	false
@@ -24,16 +24,16 @@ Audience Builder - Tools	false	false
 Audience Builder - Tools - Manage Attributes	false	false
 SocialEngage	false	false
 SocialEngage - Access	true	false
-SocialEngage - Perform Workgroup Leader Role	false	true
+SocialEngage - Perform Workgroup Leader Role	false	false
 Salesforce Marketing Cloud	false	false
 Salesforce Marketing Cloud - Campaigns	false	false
 Salesforce Marketing Cloud - Campaigns - General	false	false
 Salesforce Marketing Cloud - Campaigns - General - Access	true	false
-Salesforce Marketing Cloud - Campaigns - General - Delete	false	true
-Salesforce Marketing Cloud - Campaigns - General - Create and Edit	false	true
-Salesforce Marketing Cloud - Campaigns - General - Associate	false	true
+Salesforce Marketing Cloud - Campaigns - General - Delete	false	false
+Salesforce Marketing Cloud - Campaigns - General - Create and Edit	false	false
+Salesforce Marketing Cloud - Campaigns - General - Associate	false	false
 Salesforce Marketing Cloud - Campaigns - General - Administer	false	false
-Salesforce Marketing Cloud - Campaigns - General - Assign	false	true
+Salesforce Marketing Cloud - Campaigns - General - Assign	false	false
 Salesforce Marketing Cloud - Campaigns - Comments	false	false
 Salesforce Marketing Cloud - Campaigns - Comments - View	false	false
 Salesforce Marketing Cloud - Campaigns - Comments - Create	false	false
@@ -45,25 +45,25 @@ Salesforce Marketing Cloud - Campaigns - Linked Assets - View	false	false
 Salesforce Marketing Cloud - Campaigns - Linked Assets - Update	false	false
 Salesforce Marketing Cloud - Campaigns - Linked Assets - Delete	false	false
 Salesforce Marketing Cloud - Calendar	false	false
-Salesforce Marketing Cloud - Calendar - Delete Event	false	true
-Salesforce Marketing Cloud - Calendar - Create and Edit	false	true
+Salesforce Marketing Cloud - Calendar - Delete Event	false	false
+Salesforce Marketing Cloud - Calendar - Create and Edit	false	false
 Salesforce Marketing Cloud - Contacts	false	false
-Salesforce Marketing Cloud - Contacts - Create/Update Contact List	false	true
+Salesforce Marketing Cloud - Contacts - Create/Update Contact List	false	false
 Salesforce Marketing Cloud - Contacts - Read Contact Data	true	false
-Salesforce Marketing Cloud - Contacts - Import Contact List	false	true
-Salesforce Marketing Cloud - Contacts - Create/Update Contact Data	false	true
-Salesforce Marketing Cloud - Contacts - Create Suppression List	false	true
+Salesforce Marketing Cloud - Contacts - Import Contact List	false	false
+Salesforce Marketing Cloud - Contacts - Create/Update Contact Data	false	false
+Salesforce Marketing Cloud - Contacts - Create Suppression List	false	false
 Salesforce Marketing Cloud - Contacts - View Encrypted Data	false	false
 Salesforce Marketing Cloud - Pulse	false	false
 Salesforce Marketing Cloud - Pulse - Edit Personal Pulse Settings	true	false
 Salesforce Marketing Cloud - Security	false	false
-Salesforce Marketing Cloud - Security - Administer Watchdog	false	true
+Salesforce Marketing Cloud - Security - Administer Watchdog	false	false
 Salesforce Marketing Cloud - Security - MutualSSL	false	false
 Salesforce Marketing Cloud - General	false	false
 Salesforce Marketing Cloud - General - Access	true	false
 Salesforce Marketing Cloud - General - Pulse Access	true	false
 Salesforce Marketing Cloud - General - Calendar Access	true	false
-Salesforce Marketing Cloud - General - Assign Marketing Cloud Roles	false	true
+Salesforce Marketing Cloud - General - Assign Marketing Cloud Roles	false	false
 Salesforce Marketing Cloud - Playbooks	false	false
 Salesforce Marketing Cloud - Playbooks - Access	true	false
 Marketo	false	false
@@ -73,12 +73,12 @@ DeveloperApp - Access	false	false
 MobileConnect	false	false
 MobileConnect - General	false	false
 MobileConnect - General - Access	true	false
-MobileConnect - General - Administer SMS Channel	false	true
+MobileConnect - General - Administer SMS Channel	false	false
 MobileConnect - SMS Message	false	false
-MobileConnect - SMS Message - Create and Edit	false	true
-MobileConnect - SMS Message - Delete	false	true
-MobileConnect - SMS Message - Schedule and Send Message	false	true
-MobileConnect - SMS Message - Create Keyword from Message Template	false	true
+MobileConnect - SMS Message - Create and Edit	false	false
+MobileConnect - SMS Message - Delete	false	false
+MobileConnect - SMS Message - Schedule and Send Message	false	false
+MobileConnect - SMS Message - Create Keyword from Message Template	false	false
 MobileConnect - Reporting	false	false
 MobileConnect - Reporting - MobileConnect Reporting	true	false
 Automation Studio	false	false
@@ -86,9 +86,9 @@ Automation Studio - General	false	false
 Automation Studio - General - Access	true	false
 Automation Studio - Automation	false	false
 Automation Studio - Automation - Create	false	false
-Automation Studio - Automation - Create, Edit, Execute	false	true
-Automation Studio - Automation - Delete, Execute	false	true
-Automation Studio - Automation - Execute (API)	false	true
+Automation Studio - Automation - Create, Edit, Execute	false	false
+Automation Studio - Automation - Delete, Execute	false	false
+Automation Studio - Automation - Execute (API)	false	false
 Automation Studio - Migration Utility	false	false
 Automation Studio - Migration Utility - Access	true	false
 Automation Studio - Migration Utility - Migrate All	true	false
@@ -643,7 +643,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	false	false
-Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)	false	false
 Email - General	false	false
 Email - General - Access	true	false
 Email - A/B Testing	false	false
@@ -684,35 +684,35 @@ CampaignAnalytics - Edit	false	false
 CampaignAnalytics - Delete	false	false
 Administration	false	false
 Administration - Users	false	false
-Administration - Users - Create	false	true
+Administration - Users - Create	false	false
 Administration - Users - View	true	false
-Administration - Users - Update	false	true
-Administration - Users - Disable	false	true
-Administration - Users - Manage Roles	false	true
-Administration - Users - Manage Business Units	false	true
+Administration - Users - Update	false	false
+Administration - Users - Disable	false	false
+Administration - Users - Manage Roles	false	false
+Administration - Users - Manage Business Units	false	false
 Administration - Business Units	false	false
-Administration - Business Units - Create	false	true
-Administration - Business Units - View	false	true
-Administration - Business Units - Update	false	true
-Administration - Business Units - Delete	false	true
-Administration - Business Units - Manage Roles	false	true
-Administration - Business Units - View Users	false	true
-Administration - Business Units - Define Subscriber Filter	false	true
+Administration - Business Units - Create	false	false
+Administration - Business Units - View	false	false
+Administration - Business Units - Update	false	false
+Administration - Business Units - Delete	false	false
+Administration - Business Units - Manage Roles	false	false
+Administration - Business Units - View Users	false	false
+Administration - Business Units - Define Subscriber Filter	false	false
 Administration - Roles	false	false
-Administration - Roles - Create	false	true
-Administration - Roles - View	false	true
-Administration - Roles - Update	false	true
-Administration - Roles - Delete	false	true
-Administration - Roles - View Assignments	false	true
+Administration - Roles - Create	false	false
+Administration - Roles - View	false	false
+Administration - Roles - Update	false	false
+Administration - Roles - Delete	false	false
+Administration - Roles - View Assignments	false	false
 Administration - Account	false	false
-Administration - Account - Update Account and Security Settings	false	true
-Administration - Account - Create	false	true
-Administration - Account - View	false	true
-Administration - Account - Update	false	true
-Administration - Account - Delete	false	true
-Administration - Account - View Subscription Details	false	true
+Administration - Account - Update Account and Security Settings	false	false
+Administration - Account - Create	false	false
+Administration - Account - View	false	false
+Administration - Account - Update	false	false
+Administration - Account - Delete	false	false
+Administration - Account - View Subscription Details	false	false
 Administration - General	false	false
-Administration - General - Access	false	true
+Administration - General - Access	false	false
 Administration - Webhooks	false	false
 Administration - Webhooks - Create Webhook	false	false
 Administration - Webhooks - View Webhook	false	false
@@ -746,27 +746,27 @@ Xpress	false	false
 Xpress - General	false	false
 Xpress - General - Access	true	false
 Xpress - Subscribers	false	false
-Xpress - Subscribers - CreateEditDeleteImport	false	true
-Xpress - Subscribers - View	false	true
+Xpress - Subscribers - CreateEditDeleteImport	false	false
+Xpress - Subscribers - View	false	false
 Xpress - Lists	false	false
-Xpress - Lists - Create	false	true
-Xpress - Lists - Delete	false	true
+Xpress - Lists - Create	false	false
+Xpress - Lists - Delete	false	false
 Xpress - Email	false	false
-Xpress - Email - Create and Edit	false	true
-Xpress - Email - CreateWithHtmlPaste	false	true
-Xpress - Email - Send	false	true
-Xpress - Email - ExportTrackingInformation	false	true
-Xpress - Email - PostToFacebook	false	true
-Xpress - Email - PostToTwitter	false	true
-Xpress - Email - SendToDataExtensions	false	true
-Xpress - Email - SendToLists	false	true
-Xpress - Email - SendToGroups	false	true
-Xpress - Email - SendToSharedDataExtensions	false	true
-Xpress - Email - SendToFilters	false	true
+Xpress - Email - Create and Edit	false	false
+Xpress - Email - CreateWithHtmlPaste	false	false
+Xpress - Email - Send	false	false
+Xpress - Email - ExportTrackingInformation	false	false
+Xpress - Email - PostToFacebook	false	false
+Xpress - Email - PostToTwitter	false	false
+Xpress - Email - SendToDataExtensions	false	false
+Xpress - Email - SendToLists	false	false
+Xpress - Email - SendToGroups	false	false
+Xpress - Email - SendToSharedDataExtensions	false	false
+Xpress - Email - SendToFilters	false	false
 Xpress - All Subscribers	false	false
 Xpress - All Subscribers - View Subscribers	false	false
 Xpress - All Subscribers - SendEmailToList	false	false
-Xpress - All Subscribers - BuildSegmentOn	false	true
+Xpress - All Subscribers - BuildSegmentOn	false	false
 Approvals (Email)	false	false
 Approvals (Email) - Approve and Decline	false	false
 Approvals (Email) - Bypass Approval	false	false
@@ -779,11 +779,11 @@ Distributed Sending - Distributed Sending Content - Restricted Formatting	false	
 MobilePush	false	false
 MobilePush - General	false	false
 MobilePush - General - Access	true	false
-MobilePush - General - Administer MobilePush	false	true
+MobilePush - General - Administer MobilePush	false	false
 MobilePush - Message	false	false
-MobilePush - Message - Create and Edit	false	true
-MobilePush - Message - Delete	false	true
-MobilePush - Message - Schedule and Send Message	false	true
+MobilePush - Message - Create and Edit	false	false
+MobilePush - Message - Delete	false	false
+MobilePush - Message - Schedule and Send Message	false	false
 MobilePush - Reporting	false	false
 MobilePush - Reporting - View Reports	true	false
 MobilePush - Key Management	false	false
@@ -802,10 +802,10 @@ Journey Builder - Sales And Service Cloud - Create Activities	false	false
 Reports	false	false
 Reports - General	false	false
 Reports - General - Run	false	false
-Reports - General - Delete	false	true
+Reports - General - Delete	false	false
 Reports - General - Access	true	false
-Reports - General - Subscriber-Level Data	false	true
-Reports - General - Export/Schedule	false	true
+Reports - General - Subscriber-Level Data	false	false
+Reports - General - Export/Schedule	false	false
 Reports - Report Catalog	false	false
 Reports - Report Catalog - Campaigns	false	false
 Reports - Report Catalog - Campaigns - Access	false	false
@@ -832,10 +832,10 @@ HubExchange - HX Admin	false	false
 AdobeAnalytics	false	false
 AdobeAnalytics - View	false	false
 Tags	false	false
-Tags - Create	false	true
-Tags - Edit	false	true
-Tags - Delete	false	true
-Tags - Associate/Disassociate 	false	true
+Tags - Create	false	false
+Tags - Edit	false	false
+Tags - Delete	false	false
+Tags - Associate/Disassociate	false	false
 Tags - View	true	false
 tmMessenger	false	false
 tmMessenger - General	false	false
@@ -849,11 +849,11 @@ Extension Manager - Access	false	false
 GroupConnect	false	false
 GroupConnect - General	false	false
 GroupConnect - General - Access	true	false
-GroupConnect - General - Administer GroupConnect	false	true
+GroupConnect - General - Administer GroupConnect	false	false
 GroupConnect - Message	false	false
-GroupConnect - Message - Create and Edit	false	true
-GroupConnect - Message - Delete	false	true
-GroupConnect - Message - Schedule and Send Message	false	true
+GroupConnect - Message - Create and Edit	false	false
+GroupConnect - Message - Delete	false	false
+GroupConnect - Message - Schedule and Send Message	false	false
 GroupConnect - OTT Chat Messaging	false	false
 GroupConnect - OTT Chat Messaging - View	false	false
 GroupConnect - OTT Chat Messaging - Send	false	false
@@ -1038,22 +1038,22 @@ Event Notifications - Subscriptions - Update	false	false
 Event Notifications - Subscriptions - Delete	false	false
 Audit Trail	false	false
 Audit Trail - Administer Audit Trail	false	false
-Datorama	false	false
-Datorama - Enable Datorama Integration	false	false
+Intelligence	false	false
+Intelligence - Enable Intelligence Integration	false	false
 Data Factory Utility	false	false
 Data Factory Utility - Configuration	false	false
 Database Encryption	false	false
 Database Encryption - View	false	false
 Database Encryption - Rotate Key	false	false
 Database Encryption - Revoke Key	false	false
-Interaction Studio	false	false
-Interaction Studio - Access	false	false
-Interaction Studio - Admin	false	false
-Datorama Reports	false	false
-Datorama Reports - General	false	false
-Datorama Reports - General - Access, View and Export	true	false
-Datorama Reports - General - Schedule	true	false
-Datorama Reports - General - Create and Edit	false	false
+Personalization	false	false
+Personalization - Access	false	false
+Personalization - Admin	false	false
+Intelligence Reports	false	false
+Intelligence Reports - General	false	false
+Intelligence Reports - General - Access, View and Export	true	false
+Intelligence Reports - General - Schedule	true	false
+Intelligence Reports - General - Create and Edit	false	false
 Einstein Data Analytics	false	false
 Einstein Data Analytics - Setup	false	false
 Package Manager	false	false
@@ -1069,7 +1069,7 @@ Deep Links - Settings - View	false	false
 Deep Links - Settings - Create	false	false
 Contacts	false	false
 Contacts - Contact Builder	false	false
-Contacts - Contact Builder - Administer Contact Data Model.	false	true
+Contacts - Contact Builder - Administer Contact Data Model.	false	false
 Contacts - Contact Builder - View All Contacts	false	false
 Contacts - Contact Builder - Delete Contacts	false	false
 Contacts - Contact Builder - Access	true	false
@@ -1078,3 +1078,8 @@ Contacts - Contact to Business Unit Mapping - Create	false	false
 Contacts - Contact to Business Unit Mapping - View	false	false
 Contacts - Contact to Business Unit Mapping - Update	false	false
 Contacts - Contact to Business Unit Mapping - Delete	false	false
+Security	false	false
+Security - HTTP Headers	false	false
+Security - HTTP Headers - View	false	false
+Security - HTTP Headers - Update	false	false
+Security - HTTP Headers - Delete	false	false

@@ -643,7 +643,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	false	false
-Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)	false	false
 Email - General	true	false
 Email - General - Access	false	false
 Email - A/B Testing	false	false
@@ -835,7 +835,7 @@ Tags	false	false
 Tags - Create	false	false
 Tags - Edit	false	false
 Tags - Delete	false	false
-Tags - Associate/Disassociate 	false	false
+Tags - Associate/Disassociate	false	false
 Tags - View	false	false
 tmMessenger	false	false
 tmMessenger - General	false	false
@@ -1038,22 +1038,22 @@ Event Notifications - Subscriptions - Update	false	false
 Event Notifications - Subscriptions - Delete	false	false
 Audit Trail	false	false
 Audit Trail - Administer Audit Trail	false	false
-Datorama	false	false
-Datorama - Enable Datorama Integration	false	false
+Intelligence	false	false
+Intelligence - Enable Intelligence Integration	false	false
 Data Factory Utility	false	false
 Data Factory Utility - Configuration	false	false
 Database Encryption	false	false
 Database Encryption - View	false	false
 Database Encryption - Rotate Key	false	false
 Database Encryption - Revoke Key	false	false
-Interaction Studio	false	false
-Interaction Studio - Access	false	false
-Interaction Studio - Admin	false	false
-Datorama Reports	false	false
-Datorama Reports - General	false	false
-Datorama Reports - General - Access, View and Export	false	false
-Datorama Reports - General - Schedule	false	false
-Datorama Reports - General - Create and Edit	false	false
+Personalization	false	false
+Personalization - Access	false	false
+Personalization - Admin	false	false
+Intelligence Reports	false	false
+Intelligence Reports - General	false	false
+Intelligence Reports - General - Access, View and Export	false	false
+Intelligence Reports - General - Schedule	false	false
+Intelligence Reports - General - Create and Edit	false	false
 Einstein Data Analytics	false	false
 Einstein Data Analytics - Setup	false	false
 Package Manager	false	false
@@ -1078,3 +1078,8 @@ Contacts - Contact to Business Unit Mapping - Create	false	false
 Contacts - Contact to Business Unit Mapping - View	false	false
 Contacts - Contact to Business Unit Mapping - Update	false	false
 Contacts - Contact to Business Unit Mapping - Delete	false	false
+Security	false	false
+Security - HTTP Headers	false	false
+Security - HTTP Headers - View	false	false
+Security - HTTP Headers - Update	false	false
+Security - HTTP Headers - Delete	false	false
