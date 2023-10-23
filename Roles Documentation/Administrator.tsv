@@ -22,6 +22,8 @@ Audience Builder - Data Factory Utility Tools	false	false
 Audience Builder - Data Factory Utility Tools - Access	false	false
 Audience Builder - Tools	false	false
 Audience Builder - Tools - Manage Attributes	false	false
+Audience Builder - Audience Builder Offloading Utilization Tool	false	false
+Audience Builder - Audience Builder Offloading Utilization Tool - Access	false	false
 SocialEngage	false	false
 SocialEngage - Access	false	false
 SocialEngage - Perform Workgroup Leader Role	false	false
@@ -643,7 +645,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	false	false
-Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)	false	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
 Email - General	false	false
 Email - General - Access	false	false
 Email - A/B Testing	true	false
@@ -711,6 +713,7 @@ Administration - Account - View	false	false
 Administration - Account - Update	false	false
 Administration - Account - Delete	false	false
 Administration - Account - View Subscription Details	false	false
+Administration - Account - Download Data Extension Storage Details	false	false
 Administration - General	false	false
 Administration - General - Access	false	false
 Administration - Webhooks	false	false
@@ -796,6 +799,7 @@ Journey Builder - Automation	false	false
 Journey Builder - Automation - Create, Edit	false	false
 Journey Builder - Automation - Activate/Stop/Pause/Resume/Send/Schedule (journey state)	false	false
 Journey Builder - Automation - Delete	false	false
+Journey Builder - Automation - Adjust System Priority	false	false
 Journey Builder - Sales And Service Cloud	false	false
 Journey Builder - Sales And Service Cloud - Create Events	false	false
 Journey Builder - Sales And Service Cloud - Create Activities	false	false
@@ -835,7 +839,7 @@ Tags	false	false
 Tags - Create	false	false
 Tags - Edit	false	false
 Tags - Delete	false	false
-Tags - Associate/Disassociate	false	false
+Tags - Associate/Disassociate 	false	false
 Tags - View	false	false
 tmMessenger	false	false
 tmMessenger - General	false	false
@@ -1083,3 +1087,7 @@ Security - HTTP Headers	false	false
 Security - HTTP Headers - View	false	false
 Security - HTTP Headers - Update	false	false
 Security - HTTP Headers - Delete	false	false
+E360 Analytics Provisioning API	false	false
+E360 Analytics Provisioning API - View	false	false
+E360 Analytics Provisioning API - Update	false	false
+E360 Analytics Provisioning API - Delete	false	false
