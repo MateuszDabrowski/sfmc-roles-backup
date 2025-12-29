@@ -645,7 +645,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	false	false
-Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)	false	false
 Email - General	false	false
 Email - General - Access	false	false
 Email - A/B Testing	true	false
@@ -839,7 +839,7 @@ Tags	false	false
 Tags - Create	false	false
 Tags - Edit	false	false
 Tags - Delete	false	false
-Tags - Associate/Disassociate 	false	false
+Tags - Associate/Disassociate	false	false
 Tags - View	false	false
 tmMessenger	false	false
 tmMessenger - General	false	false
@@ -1087,7 +1087,14 @@ Security - HTTP Headers	false	false
 Security - HTTP Headers - View	false	false
 Security - HTTP Headers - Update	false	false
 Security - HTTP Headers - Delete	false	false
-E360 Analytics Provisioning API	false	false
-E360 Analytics Provisioning API - View	false	false
-E360 Analytics Provisioning API - Update	false	false
-E360 Analytics Provisioning API - Delete	false	false
+Marketing Cloud Next	false	false
+Marketing Cloud Next - Agentforce Builder	false	false
+Marketing Cloud Next - Agentforce Builder - Access	false	false
+Marketing Cloud Next - Campaigns	false	false
+Marketing Cloud Next - Campaigns - Access	false	false
+Marketing Cloud Next - Flows	false	false
+Marketing Cloud Next - Flows - Access	false	false
+Marketing Cloud Next - Marketing Performance	false	false
+Marketing Cloud Next - Marketing Performance - Access	false	false
+Marketing Cloud Next - Analytics	false	false
+Marketing Cloud Next - Analytics - Access	false	false
