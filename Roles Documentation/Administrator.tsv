@@ -645,7 +645,7 @@ Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Int
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)	false	false
 Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)	false	false
-Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)	false	false
+Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3) 	false	false
 Email - General	false	false
 Email - General - Access	false	false
 Email - A/B Testing	true	false
@@ -839,7 +839,7 @@ Tags	false	false
 Tags - Create	false	false
 Tags - Edit	false	false
 Tags - Delete	false	false
-Tags - Associate/Disassociate	false	false
+Tags - Associate/Disassociate 	false	false
 Tags - View	false	false
 tmMessenger	false	false
 tmMessenger - General	false	false
@@ -1098,3 +1098,11 @@ Marketing Cloud Next - Marketing Performance	false	false
 Marketing Cloud Next - Marketing Performance - Access	false	false
 Marketing Cloud Next - Analytics	false	false
 Marketing Cloud Next - Analytics - Access	false	false
+Marketing Cloud Next - Segments	false	false
+Marketing Cloud Next - Segments - Access	false	false
+Consent Syncup	false	false
+Consent Syncup - View	false	false
+Consent Syncup - Update	false	false
+Consent Syncup - Delete	false	false
+SOAP Retrieve	false	false
+SOAP Retrieve - View	false	false
