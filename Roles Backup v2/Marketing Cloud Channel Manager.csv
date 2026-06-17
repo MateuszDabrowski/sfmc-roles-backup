@@ -1,0 +1,1114 @@
+Index,PermissionPath,AllowID,DenyID,AllowValue,DenyValue
+1,"Audience Builder",a_1,d_1,FALSE,FALSE
+2,"Audience Builder - General",a_2,d_2,FALSE,FALSE
+3,"Audience Builder - General - Access",a_3,d_3,TRUE,FALSE
+4,"Audience Builder - General - Admin",a_4,d_4,FALSE,FALSE
+5,"Audience Builder - General - Config Tools",a_5,d_5,TRUE,FALSE
+6,"Audience Builder - General - Create",a_6,d_6,TRUE,FALSE
+7,"Audience Builder - Owned Audiences",a_7,d_7,FALSE,FALSE
+8,"Audience Builder - Owned Audiences - Delete",a_8,d_8,TRUE,FALSE
+9,"Audience Builder - Owned Audiences - Edit",a_9,d_9,TRUE,FALSE
+10,"Audience Builder - Owned Audiences - Copy",a_10,d_10,TRUE,FALSE
+11,"Audience Builder - Owned Audiences - Refresh",a_11,d_11,TRUE,FALSE
+12,"Audience Builder - Owned Audiences - Publish",a_12,d_12,TRUE,FALSE
+13,"Audience Builder - Others Audiences",a_13,d_13,FALSE,FALSE
+14,"Audience Builder - Others Audiences - Delete",a_14,d_14,FALSE,FALSE
+15,"Audience Builder - Others Audiences - Edit",a_15,d_15,FALSE,FALSE
+16,"Audience Builder - Others Audiences - Copy",a_16,d_16,FALSE,FALSE
+17,"Audience Builder - Others Audiences - Refresh",a_17,d_17,FALSE,FALSE
+18,"Audience Builder - Others Audiences - Publish",a_18,d_18,FALSE,FALSE
+19,"Audience Builder - Others Audiences - ViewOnly",a_19,d_19,FALSE,FALSE
+20,"Audience Builder - Data Factory Utility Tools",a_20,d_20,FALSE,FALSE
+21,"Audience Builder - Data Factory Utility Tools - Access",a_21,d_21,FALSE,FALSE
+22,"Audience Builder - Tools",a_22,d_22,FALSE,FALSE
+23,"Audience Builder - Tools - Manage Attributes",a_23,d_23,FALSE,FALSE
+24,"Audience Builder - Audience Builder Offloading Utilization Tool",a_24,d_24,FALSE,FALSE
+25,"Audience Builder - Audience Builder Offloading Utilization Tool - Access",a_25,d_25,FALSE,FALSE
+26,"SocialEngage",a_26,d_26,FALSE,FALSE
+27,"SocialEngage - Access",a_27,d_27,TRUE,FALSE
+28,"SocialEngage - Perform Workgroup Leader Role",a_28,d_28,TRUE,FALSE
+29,"Salesforce Marketing Cloud",a_29,d_29,FALSE,FALSE
+30,"Salesforce Marketing Cloud - Campaigns",a_30,d_30,FALSE,FALSE
+31,"Salesforce Marketing Cloud - Campaigns - General",a_31,d_31,FALSE,FALSE
+32,"Salesforce Marketing Cloud - Campaigns - General - Access",a_32,d_32,TRUE,FALSE
+33,"Salesforce Marketing Cloud - Campaigns - General - Delete",a_33,d_33,TRUE,FALSE
+34,"Salesforce Marketing Cloud - Campaigns - General - Create and Edit",a_34,d_34,TRUE,FALSE
+35,"Salesforce Marketing Cloud - Campaigns - General - Associate",a_35,d_35,TRUE,FALSE
+36,"Salesforce Marketing Cloud - Campaigns - General - Administer",a_36,d_36,FALSE,FALSE
+37,"Salesforce Marketing Cloud - Campaigns - General - Assign",a_37,d_37,TRUE,FALSE
+38,"Salesforce Marketing Cloud - Campaigns - Comments",a_38,d_38,FALSE,FALSE
+39,"Salesforce Marketing Cloud - Campaigns - Comments - View",a_39,d_39,FALSE,FALSE
+40,"Salesforce Marketing Cloud - Campaigns - Comments - Create",a_40,d_40,FALSE,FALSE
+41,"Salesforce Marketing Cloud - Campaigns - Comments - Update",a_41,d_41,FALSE,FALSE
+42,"Salesforce Marketing Cloud - Campaigns - Comments - Delete",a_42,d_42,FALSE,FALSE
+43,"Salesforce Marketing Cloud - Campaigns - Linked Assets",a_43,d_43,FALSE,FALSE
+44,"Salesforce Marketing Cloud - Campaigns - Linked Assets - Create",a_44,d_44,FALSE,FALSE
+45,"Salesforce Marketing Cloud - Campaigns - Linked Assets - View",a_45,d_45,FALSE,FALSE
+46,"Salesforce Marketing Cloud - Campaigns - Linked Assets - Update",a_46,d_46,FALSE,FALSE
+47,"Salesforce Marketing Cloud - Campaigns - Linked Assets - Delete",a_47,d_47,FALSE,FALSE
+48,"Salesforce Marketing Cloud - Calendar",a_48,d_48,FALSE,FALSE
+49,"Salesforce Marketing Cloud - Calendar - Delete Event",a_49,d_49,TRUE,FALSE
+50,"Salesforce Marketing Cloud - Calendar - Create and Edit",a_50,d_50,TRUE,FALSE
+51,"Salesforce Marketing Cloud - Contacts",a_51,d_51,FALSE,FALSE
+52,"Salesforce Marketing Cloud - Contacts - Create/Update Contact List",a_52,d_52,TRUE,FALSE
+53,"Salesforce Marketing Cloud - Contacts - Read Contact Data",a_53,d_53,TRUE,FALSE
+54,"Salesforce Marketing Cloud - Contacts - Import Contact List",a_54,d_54,TRUE,FALSE
+55,"Salesforce Marketing Cloud - Contacts - Create/Update Contact Data",a_55,d_55,TRUE,FALSE
+56,"Salesforce Marketing Cloud - Contacts - Create Suppression List",a_56,d_56,FALSE,FALSE
+57,"Salesforce Marketing Cloud - Contacts - View Encrypted Data",a_57,d_57,FALSE,FALSE
+58,"Salesforce Marketing Cloud - Pulse",a_58,d_58,FALSE,FALSE
+59,"Salesforce Marketing Cloud - Pulse - Edit Personal Pulse Settings",a_59,d_59,TRUE,FALSE
+60,"Salesforce Marketing Cloud - Security",a_60,d_60,FALSE,FALSE
+61,"Salesforce Marketing Cloud - Security - Administer Watchdog",a_61,d_61,FALSE,FALSE
+62,"Salesforce Marketing Cloud - Security - MutualSSL",a_62,d_62,FALSE,FALSE
+63,"Salesforce Marketing Cloud - General",a_63,d_63,FALSE,FALSE
+64,"Salesforce Marketing Cloud - General - Access",a_64,d_64,TRUE,FALSE
+65,"Salesforce Marketing Cloud - General - Pulse Access",a_65,d_65,TRUE,FALSE
+66,"Salesforce Marketing Cloud - General - Calendar Access",a_66,d_66,TRUE,FALSE
+67,"Salesforce Marketing Cloud - General - Assign Marketing Cloud Roles",a_67,d_67,FALSE,FALSE
+68,"Salesforce Marketing Cloud - Playbooks",a_68,d_68,FALSE,FALSE
+69,"Salesforce Marketing Cloud - Playbooks - Access",a_69,d_69,TRUE,FALSE
+70,"Marketo",a_70,d_70,FALSE,FALSE
+71,"Marketo - Access",a_71,d_71,TRUE,FALSE
+72,"DeveloperApp",a_72,d_72,FALSE,FALSE
+73,"DeveloperApp - Access",a_73,d_73,FALSE,FALSE
+74,"MobileConnect",a_74,d_74,FALSE,FALSE
+75,"MobileConnect - General",a_75,d_75,FALSE,FALSE
+76,"MobileConnect - General - Access",a_76,d_76,TRUE,FALSE
+77,"MobileConnect - General - Administer SMS Channel",a_77,d_77,TRUE,FALSE
+78,"MobileConnect - SMS Message",a_78,d_78,FALSE,FALSE
+79,"MobileConnect - SMS Message - Create and Edit",a_79,d_79,TRUE,FALSE
+80,"MobileConnect - SMS Message - Delete",a_80,d_80,TRUE,FALSE
+81,"MobileConnect - SMS Message - Schedule and Send Message",a_81,d_81,TRUE,FALSE
+82,"MobileConnect - SMS Message - Create Keyword from Message Template",a_82,d_82,TRUE,FALSE
+83,"MobileConnect - Reporting",a_83,d_83,FALSE,FALSE
+84,"MobileConnect - Reporting - MobileConnect Reporting",a_84,d_84,TRUE,FALSE
+85,"Automation Studio",a_85,d_85,FALSE,FALSE
+86,"Automation Studio - General",a_86,d_86,FALSE,FALSE
+87,"Automation Studio - General - Access",a_87,d_87,TRUE,FALSE
+88,"Automation Studio - Automation",a_88,d_88,FALSE,FALSE
+89,"Automation Studio - Automation - Create",a_89,d_89,FALSE,FALSE
+90,"Automation Studio - Automation - Create, Edit, Execute",a_90,d_90,TRUE,FALSE
+91,"Automation Studio - Automation - Delete, Execute",a_91,d_91,TRUE,FALSE
+92,"Automation Studio - Automation - Execute (API)",a_92,d_92,TRUE,FALSE
+93,"Automation Studio - Migration Utility",a_93,d_93,FALSE,FALSE
+94,"Automation Studio - Migration Utility - Access",a_94,d_94,TRUE,FALSE
+95,"Automation Studio - Migration Utility - Migrate All",a_95,d_95,TRUE,FALSE
+96,"Email",a_96,d_96,FALSE,FALSE
+97,"Email - Content",a_97,d_97,FALSE,FALSE
+98,"Email - Content - Email",a_98,d_98,FALSE,FALSE
+99,"Email - Content - Email - Create",a_99,d_99,FALSE,FALSE
+100,"Email - Content - Email - View",a_100,d_100,FALSE,FALSE
+101,"Email - Content - Email - Update",a_101,d_101,FALSE,FALSE
+102,"Email - Content - Email - Delete",a_102,d_102,FALSE,FALSE
+103,"Email - Content - Email - Preview",a_103,d_103,FALSE,FALSE
+104,"Email - Content - Email - Send",a_104,d_104,FALSE,FALSE
+105,"Email - Content - Email - Test Send",a_105,d_105,FALSE,FALSE
+106,"Email - Content - Email - View History",a_106,d_106,FALSE,FALSE
+107,"Email - Content - Email - Content Detective",a_107,d_107,FALSE,FALSE
+108,"Email - Content - Email - Validate",a_108,d_108,FALSE,FALSE
+109,"Email - Content - Email - Share",a_109,d_109,FALSE,FALSE
+110,"Email - Content - Email - Transfer Ownership",a_110,d_110,FALSE,FALSE
+111,"Email - Content - Email - Create From Existing Email",a_111,d_111,FALSE,FALSE
+112,"Email - Content - Email - PreHeader Access",a_112,d_112,FALSE,FALSE
+113,"Email - Content - Email - System Default Templates Access",a_113,d_113,TRUE,FALSE
+114,"Email - Content - Template",a_114,d_114,FALSE,FALSE
+115,"Email - Content - Template - Create",a_115,d_115,FALSE,FALSE
+116,"Email - Content - Template - View",a_116,d_116,FALSE,FALSE
+117,"Email - Content - Template - Update",a_117,d_117,FALSE,FALSE
+118,"Email - Content - Template - Delete",a_118,d_118,FALSE,FALSE
+119,"Email - Content - Template - Save Copy",a_119,d_119,FALSE,FALSE
+120,"Email - Content - Template - Share",a_120,d_120,FALSE,FALSE
+121,"Email - Content - Template - Transfer Ownership",a_121,d_121,FALSE,FALSE
+122,"Email - Content - Portfolio",a_122,d_122,FALSE,FALSE
+123,"Email - Content - Portfolio - Upload",a_123,d_123,FALSE,FALSE
+124,"Email - Content - Portfolio - View",a_124,d_124,FALSE,FALSE
+125,"Email - Content - Portfolio - Update",a_125,d_125,FALSE,FALSE
+126,"Email - Content - Portfolio - Delete",a_126,d_126,FALSE,FALSE
+127,"Email - Content - Portfolio - Share",a_127,d_127,FALSE,FALSE
+128,"Email - Content - Portfolio - Transfer Ownership",a_128,d_128,FALSE,FALSE
+129,"Email - Content - Image",a_129,d_129,FALSE,FALSE
+130,"Email - Content - Image - Upload",a_130,d_130,FALSE,FALSE
+131,"Email - Content - Image - View",a_131,d_131,FALSE,FALSE
+132,"Email - Content - Image - Update",a_132,d_132,FALSE,FALSE
+133,"Email - Content - Image - Delete",a_133,d_133,FALSE,FALSE
+134,"Email - Content - Content Area",a_134,d_134,FALSE,FALSE
+135,"Email - Content - Content Area - Create",a_135,d_135,FALSE,FALSE
+136,"Email - Content - Content Area - View",a_136,d_136,FALSE,FALSE
+137,"Email - Content - Content Area - Update",a_137,d_137,FALSE,FALSE
+138,"Email - Content - Content Area - Delete",a_138,d_138,FALSE,FALSE
+139,"Email - Content - Content Area - Share",a_139,d_139,FALSE,FALSE
+140,"Email - Content - Content Area - Transfer Ownership",a_140,d_140,FALSE,FALSE
+141,"Email - Content - Document",a_141,d_141,FALSE,FALSE
+142,"Email - Content - Document - Upload",a_142,d_142,FALSE,FALSE
+143,"Email - Content - Document - View",a_143,d_143,FALSE,FALSE
+144,"Email - Content - Document - Update",a_144,d_144,FALSE,FALSE
+145,"Email - Content - Document - Delete",a_145,d_145,FALSE,FALSE
+146,"Email - Content - Survey",a_146,d_146,FALSE,FALSE
+147,"Email - Content - Survey - Create",a_147,d_147,FALSE,FALSE
+148,"Email - Content - Survey - View",a_148,d_148,FALSE,FALSE
+149,"Email - Content - Survey - Update",a_149,d_149,FALSE,FALSE
+150,"Email - Content - Survey - Delete",a_150,d_150,FALSE,FALSE
+151,"Email - Content - Survey - Copy",a_151,d_151,FALSE,FALSE
+152,"Email - Content - Microsite",a_152,d_152,FALSE,FALSE
+153,"Email - Content - Microsite - Create",a_153,d_153,FALSE,FALSE
+154,"Email - Content - Microsite - View",a_154,d_154,FALSE,FALSE
+155,"Email - Content - Microsite - Update",a_155,d_155,FALSE,FALSE
+156,"Email - Content - Microsite - Delete",a_156,d_156,FALSE,FALSE
+157,"Email - Content - Microsite Layout",a_157,d_157,FALSE,FALSE
+158,"Email - Content - Microsite Layout - Create",a_158,d_158,FALSE,FALSE
+159,"Email - Content - Microsite Layout - View",a_159,d_159,FALSE,FALSE
+160,"Email - Content - Microsite Layout - Update",a_160,d_160,FALSE,FALSE
+161,"Email - Content - Microsite Layout - Delete",a_161,d_161,FALSE,FALSE
+162,"Email - Content - Coupon",a_162,d_162,FALSE,FALSE
+163,"Email - Content - Coupon - Create",a_163,d_163,FALSE,FALSE
+164,"Email - Content - Coupon - View",a_164,d_164,FALSE,FALSE
+165,"Email - Content - Coupon - Update",a_165,d_165,FALSE,FALSE
+166,"Email - Content - Coupon - Delete",a_166,d_166,FALSE,FALSE
+167,"Email - Content - Google Ad",a_167,d_167,FALSE,FALSE
+168,"Email - Content - Google Ad - Create",a_168,d_168,FALSE,FALSE
+169,"Email - Content - Google Ad - View",a_169,d_169,FALSE,FALSE
+170,"Email - Content - Google Ad - Update",a_170,d_170,FALSE,FALSE
+171,"Email - Content - Google Ad - Delete",a_171,d_171,FALSE,FALSE
+172,"Email - Content - Header/Footer Library",a_172,d_172,FALSE,FALSE
+173,"Email - Content - Header/Footer Library - Create",a_173,d_173,FALSE,FALSE
+174,"Email - Content - Header/Footer Library - View",a_174,d_174,FALSE,FALSE
+175,"Email - Content - Header/Footer Library - Update",a_175,d_175,FALSE,FALSE
+176,"Email - Content - Header/Footer Library - Delete",a_176,d_176,FALSE,FALSE
+177,"Email - Content - Live Image",a_177,d_177,FALSE,FALSE
+178,"Email - Content - Live Image - Create",a_178,d_178,FALSE,FALSE
+179,"Email - Content - Live Image - View",a_179,d_179,FALSE,FALSE
+180,"Email - Content - Live Image - Update",a_180,d_180,FALSE,FALSE
+181,"Email - Content - Live Image - Delete",a_181,d_181,FALSE,FALSE
+182,"Email - Content - Omniture TnT",a_182,d_182,FALSE,FALSE
+183,"Email - Content - Omniture TnT - Create",a_183,d_183,FALSE,FALSE
+184,"Email - Content - Omniture TnT - View",a_184,d_184,FALSE,FALSE
+185,"Email - Content - Omniture TnT - Update",a_185,d_185,FALSE,FALSE
+186,"Email - Content - Omniture TnT - Delete",a_186,d_186,FALSE,FALSE
+187,"Email - Content - Simple Automated Email",a_187,d_187,FALSE,FALSE
+188,"Email - Content - Simple Automated Email - Create",a_188,d_188,FALSE,FALSE
+189,"Email - Content - Simple Automated Email - View",a_189,d_189,FALSE,FALSE
+190,"Email - Content - Simple Automated Email - Update",a_190,d_190,FALSE,FALSE
+191,"Email - Content - Simple Automated Email - Delete",a_191,d_191,FALSE,FALSE
+192,"Email - Content - Simple Automated Email - Preview",a_192,d_192,FALSE,FALSE
+193,"Email - Content - Simple Automated Email - View Tracking",a_193,d_193,FALSE,FALSE
+194,"Email - Content - Simple Automated Email - Content Detective",a_194,d_194,FALSE,FALSE
+195,"Email - Content - Simple Automated Email - Validate",a_195,d_195,FALSE,FALSE
+196,"Email - Content - Simple Automated Email - Create From Existing Email",a_196,d_196,FALSE,FALSE
+197,"Email - Content - Simple Automated Email - Configure",a_197,d_197,FALSE,FALSE
+198,"Email - Content - Simple Automated Email - Start",a_198,d_198,FALSE,FALSE
+199,"Email - Content - Simple Automated Email - Stop",a_199,d_199,FALSE,FALSE
+200,"Email - Content - Advanced Test Send Options",a_200,d_200,FALSE,FALSE
+201,"Email - Content - Advanced Test Send Options - Test Send Multiple Versions",a_201,d_201,FALSE,FALSE
+202,"Email - Content - Advanced Test Send Options - Test Send To Test List",a_202,d_202,FALSE,FALSE
+203,"Email - Content - Advanced Test Send Options - Test Send To Test Data Extension",a_203,d_203,FALSE,FALSE
+204,"Email - Subscribers",a_204,d_204,FALSE,FALSE
+205,"Email - Subscribers - Subscriber",a_205,d_205,FALSE,FALSE
+206,"Email - Subscribers - Subscriber - Create",a_206,d_206,FALSE,FALSE
+207,"Email - Subscribers - Subscriber - View",a_207,d_207,FALSE,FALSE
+208,"Email - Subscribers - Subscriber - Update",a_208,d_208,FALSE,FALSE
+209,"Email - Subscribers - Subscriber - Delete",a_209,d_209,FALSE,FALSE
+210,"Email - Subscribers - List",a_210,d_210,FALSE,FALSE
+211,"Email - Subscribers - List - Create",a_211,d_211,FALSE,FALSE
+212,"Email - Subscribers - List - View",a_212,d_212,FALSE,FALSE
+213,"Email - Subscribers - List - Update",a_213,d_213,FALSE,FALSE
+214,"Email - Subscribers - List - Delete",a_214,d_214,FALSE,FALSE
+215,"Email - Subscribers - List - View Subscribers",a_215,d_215,FALSE,FALSE
+216,"Email - Subscribers - List - Import Subscribers",a_216,d_216,FALSE,FALSE
+217,"Email - Subscribers - List - Export Subscribers",a_217,d_217,FALSE,FALSE
+218,"Email - Subscribers - List - SendEmailToList",a_218,d_218,FALSE,FALSE
+219,"Email - Subscribers - List - Search Subscribers",a_219,d_219,FALSE,FALSE
+220,"Email - Subscribers - List - Move Subscribers",a_220,d_220,FALSE,FALSE
+221,"Email - Subscribers - List - Copy Subscribers",a_221,d_221,FALSE,FALSE
+222,"Email - Subscribers - List - Manage Welcome Email",a_222,d_222,FALSE,FALSE
+223,"Email - Subscribers - Publication List",a_223,d_223,FALSE,FALSE
+224,"Email - Subscribers - Publication List - Create",a_224,d_224,FALSE,FALSE
+225,"Email - Subscribers - Publication List - View",a_225,d_225,FALSE,FALSE
+226,"Email - Subscribers - Publication List - Update",a_226,d_226,FALSE,FALSE
+227,"Email - Subscribers - Publication List - Delete",a_227,d_227,FALSE,FALSE
+228,"Email - Subscribers - Publication List - View Subscribers",a_228,d_228,FALSE,FALSE
+229,"Email - Subscribers - Publication List - Export Subscribers",a_229,d_229,FALSE,FALSE
+230,"Email - Subscribers - Publication List - Import Subscribers",a_230,d_230,FALSE,FALSE
+231,"Email - Subscribers - Publication List - Share",a_231,d_231,FALSE,FALSE
+232,"Email - Subscribers - Publication List - Search Subscribers",a_232,d_232,FALSE,FALSE
+233,"Email - Subscribers - Publication List - Move Subscribers",a_233,d_233,FALSE,FALSE
+234,"Email - Subscribers - Publication List - Copy Subscribers",a_234,d_234,FALSE,FALSE
+235,"Email - Subscribers - Publication List - Transfer Ownership",a_235,d_235,FALSE,FALSE
+236,"Email - Subscribers - Group",a_236,d_236,FALSE,FALSE
+237,"Email - Subscribers - Group - Create",a_237,d_237,FALSE,FALSE
+238,"Email - Subscribers - Group - View",a_238,d_238,FALSE,FALSE
+239,"Email - Subscribers - Group - Update",a_239,d_239,FALSE,FALSE
+240,"Email - Subscribers - Group - Delete",a_240,d_240,FALSE,FALSE
+241,"Email - Subscribers - Group - Refresh",a_241,d_241,FALSE,FALSE
+242,"Email - Subscribers - Group - View Subscribers",a_242,d_242,FALSE,FALSE
+243,"Email - Subscribers - Group - Export Subscribers",a_243,d_243,FALSE,FALSE
+244,"Email - Subscribers - Group - Send Email To Group",a_244,d_244,FALSE,FALSE
+245,"Email - Subscribers - Group - Copy Subscribers",a_245,d_245,FALSE,FALSE
+246,"Email - Subscribers - Attribute",a_246,d_246,FALSE,FALSE
+247,"Email - Subscribers - Attribute - Create",a_247,d_247,FALSE,FALSE
+248,"Email - Subscribers - Attribute - View",a_248,d_248,FALSE,FALSE
+249,"Email - Subscribers - Attribute - Update",a_249,d_249,FALSE,FALSE
+250,"Email - Subscribers - Attribute - Delete",a_250,d_250,FALSE,FALSE
+251,"Email - Subscribers - Attribute - Preview",a_251,d_251,FALSE,FALSE
+252,"Email - Subscribers - Data Extension",a_252,d_252,FALSE,FALSE
+253,"Email - Subscribers - Data Extension - Create",a_253,d_253,FALSE,FALSE
+254,"Email - Subscribers - Data Extension - View",a_254,d_254,FALSE,FALSE
+255,"Email - Subscribers - Data Extension - Update",a_255,d_255,FALSE,FALSE
+256,"Email - Subscribers - Data Extension - Delete",a_256,d_256,FALSE,FALSE
+257,"Email - Subscribers - Data Extension - Manage Data",a_257,d_257,FALSE,FALSE
+258,"Email - Subscribers - Data Extension - Manage Data Retention",a_258,d_258,FALSE,FALSE
+259,"Email - Subscribers - Data Extension - Transfer Ownership",a_259,d_259,FALSE,FALSE
+260,"Email - Subscribers - Data Extension - Clear Data",a_260,d_260,FALSE,FALSE
+261,"Email - Subscribers - Data Extension - Import",a_261,d_261,FALSE,FALSE
+262,"Email - Subscribers - Data Extension - Export",a_262,d_262,FALSE,FALSE
+263,"Email - Subscribers - Data Extension - Export to Desktop",a_263,d_263,FALSE,FALSE
+264,"Email - Subscribers - Data Relationship",a_264,d_264,FALSE,FALSE
+265,"Email - Subscribers - Data Relationship - Create",a_265,d_265,FALSE,FALSE
+266,"Email - Subscribers - Data Relationship - View",a_266,d_266,FALSE,FALSE
+267,"Email - Subscribers - Data Relationship - Update",a_267,d_267,FALSE,FALSE
+268,"Email - Subscribers - Data Relationship - Delete",a_268,d_268,FALSE,FALSE
+269,"Email - Subscribers - Measure",a_269,d_269,FALSE,FALSE
+270,"Email - Subscribers - Measure - Create",a_270,d_270,FALSE,FALSE
+271,"Email - Subscribers - Measure - View",a_271,d_271,FALSE,FALSE
+272,"Email - Subscribers - Measure - Update",a_272,d_272,FALSE,FALSE
+273,"Email - Subscribers - Measure - Delete",a_273,d_273,FALSE,FALSE
+274,"Email - Subscribers - Data Filter",a_274,d_274,FALSE,FALSE
+275,"Email - Subscribers - Data Filter - Create",a_275,d_275,FALSE,FALSE
+276,"Email - Subscribers - Data Filter - View",a_276,d_276,FALSE,FALSE
+277,"Email - Subscribers - Data Filter - Update",a_277,d_277,FALSE,FALSE
+278,"Email - Subscribers - Data Filter - Delete",a_278,d_278,FALSE,FALSE
+279,"Email - Subscribers - All Subscribers",a_279,d_279,FALSE,FALSE
+280,"Email - Subscribers - All Subscribers - View",a_280,d_280,FALSE,FALSE
+281,"Email - Subscribers - All Subscribers - View Subscribers",a_281,d_281,FALSE,FALSE
+282,"Email - Subscribers - All Subscribers - Import Subscribers",a_282,d_282,FALSE,FALSE
+283,"Email - Subscribers - All Subscribers - Export Subscribers",a_283,d_283,FALSE,FALSE
+284,"Email - Subscribers - All Subscribers - Search Subscribers",a_284,d_284,FALSE,FALSE
+285,"Email - Subscribers - All Subscribers - Copy Subscribers",a_285,d_285,FALSE,FALSE
+286,"Email - Subscribers - All Subscribers - SendEmailToList",a_286,d_286,FALSE,FALSE
+287,"Email - Subscribers - All Subscribers - Manage Welcome Email",a_287,d_287,FALSE,FALSE
+288,"Email - Subscribers - Audience",a_288,d_288,FALSE,FALSE
+289,"Email - Subscribers - Audience - Create",a_289,d_289,FALSE,FALSE
+290,"Email - Subscribers - Audience - View",a_290,d_290,FALSE,FALSE
+291,"Email - Subscribers - Audience - Update",a_291,d_291,FALSE,FALSE
+292,"Email - Subscribers - Audience - Delete",a_292,d_292,FALSE,FALSE
+293,"Email - Subscribers - Audience - View Subscribers",a_293,d_293,FALSE,FALSE
+294,"Email - Subscribers - Audience - Import Subscribers",a_294,d_294,FALSE,FALSE
+295,"Email - Subscribers - Audience - Export Subscribers",a_295,d_295,FALSE,FALSE
+296,"Email - Subscribers - Audience - Search Subscribers",a_296,d_296,FALSE,FALSE
+297,"Email - Subscribers - Audience - Move Subscribers",a_297,d_297,FALSE,FALSE
+298,"Email - Subscribers - Audience - Copy Subscribers",a_298,d_298,FALSE,FALSE
+299,"Email - Subscribers - Audience - Send Email To Audience",a_299,d_299,FALSE,FALSE
+300,"Email - Subscribers - Suppression List",a_300,d_300,FALSE,FALSE
+301,"Email - Subscribers - Suppression List - Create",a_301,d_301,FALSE,FALSE
+302,"Email - Subscribers - Suppression List - View",a_302,d_302,FALSE,FALSE
+303,"Email - Subscribers - Suppression List - Update",a_303,d_303,FALSE,FALSE
+304,"Email - Subscribers - Suppression List - Delete",a_304,d_304,FALSE,FALSE
+305,"Email - Subscribers - Suppression List - View Subscribers",a_305,d_305,FALSE,FALSE
+306,"Email - Subscribers - Suppression List - Import Subscribers",a_306,d_306,FALSE,FALSE
+307,"Email - Subscribers - Suppression List - Export Subscribers",a_307,d_307,FALSE,FALSE
+308,"Email - Subscribers - Suppression List - Search Subscribers",a_308,d_308,FALSE,FALSE
+309,"Email - Subscribers - Suppression List - Move Subscribers",a_309,d_309,FALSE,FALSE
+310,"Email - Subscribers - Suppression List - Copy Subscribers",a_310,d_310,FALSE,FALSE
+311,"Email - Subscribers - Suppression List - Share",a_311,d_311,FALSE,FALSE
+312,"Email - Subscribers - Suppression List - Transfer Ownership",a_312,d_312,FALSE,FALSE
+313,"Email - Subscribers - Salesforce Data Extension",a_313,d_313,FALSE,FALSE
+314,"Email - Subscribers - Salesforce Data Extension - Create",a_314,d_314,FALSE,FALSE
+315,"Email - Subscribers - Salesforce Data Extension - View",a_315,d_315,FALSE,FALSE
+316,"Email - Subscribers - Salesforce Data Extension - Update",a_316,d_316,FALSE,FALSE
+317,"Email - Subscribers - Salesforce Data Extension - Delete",a_317,d_317,FALSE,FALSE
+318,"Email - Subscribers - Salesforce Data Extension - Manage Data",a_318,d_318,FALSE,FALSE
+319,"Email - Subscribers - Salesforce Data Extension - Manage Data Retention",a_319,d_319,FALSE,FALSE
+320,"Email - Subscribers - Salesforce Data Extension - Transfer Ownership",a_320,d_320,FALSE,FALSE
+321,"Email - Subscribers - Salesforce Data Extension - Clear Data",a_321,d_321,FALSE,FALSE
+322,"Email - Subscribers - Salesforce Data Extension - Import",a_322,d_322,FALSE,FALSE
+323,"Email - Subscribers - Salesforce Data Extension - Export",a_323,d_323,FALSE,FALSE
+324,"Email - Subscribers - Salesforce Data Extension - Export to Desktop",a_324,d_324,FALSE,FALSE
+325,"Email - Interactions",a_325,d_325,FALSE,FALSE
+326,"Email - Interactions - Activities",a_326,d_326,FALSE,FALSE
+327,"Email - Interactions - Activities - Data Extract",a_327,d_327,FALSE,FALSE
+328,"Email - Interactions - Activities - Data Extract - Create",a_328,d_328,FALSE,FALSE
+329,"Email - Interactions - Activities - Data Extract - View",a_329,d_329,FALSE,FALSE
+330,"Email - Interactions - Activities - Data Extract - Update",a_330,d_330,FALSE,FALSE
+331,"Email - Interactions - Activities - Data Extract - Delete",a_331,d_331,FALSE,FALSE
+332,"Email - Interactions - Activities - Data Extract - Start",a_332,d_332,FALSE,FALSE
+333,"Email - Interactions - Activities - Report",a_333,d_333,FALSE,FALSE
+334,"Email - Interactions - Activities - Report - Create",a_334,d_334,FALSE,FALSE
+335,"Email - Interactions - Activities - Report - View",a_335,d_335,FALSE,FALSE
+336,"Email - Interactions - Activities - Report - Update",a_336,d_336,FALSE,FALSE
+337,"Email - Interactions - Activities - Report - Delete",a_337,d_337,FALSE,FALSE
+338,"Email - Interactions - Activities - File Transfer",a_338,d_338,FALSE,FALSE
+339,"Email - Interactions - Activities - File Transfer - Create",a_339,d_339,FALSE,FALSE
+340,"Email - Interactions - Activities - File Transfer - View",a_340,d_340,FALSE,FALSE
+341,"Email - Interactions - Activities - File Transfer - Update",a_341,d_341,FALSE,FALSE
+342,"Email - Interactions - Activities - File Transfer - Delete",a_342,d_342,FALSE,FALSE
+343,"Email - Interactions - Activities - File Transfer - Start",a_343,d_343,FALSE,FALSE
+344,"Email - Interactions - Activities - Import",a_344,d_344,FALSE,FALSE
+345,"Email - Interactions - Activities - Import - Create",a_345,d_345,FALSE,FALSE
+346,"Email - Interactions - Activities - Import - View",a_346,d_346,FALSE,FALSE
+347,"Email - Interactions - Activities - Import - Update",a_347,d_347,FALSE,FALSE
+348,"Email - Interactions - Activities - Import - Delete",a_348,d_348,FALSE,FALSE
+349,"Email - Interactions - Activities - Import - Start",a_349,d_349,FALSE,FALSE
+350,"Email - Interactions - Activities - Import - View File History",a_350,d_350,FALSE,FALSE
+351,"Email - Interactions - Activities - Query",a_351,d_351,FALSE,FALSE
+352,"Email - Interactions - Activities - Query - Create",a_352,d_352,FALSE,FALSE
+353,"Email - Interactions - Activities - Query - View",a_353,d_353,FALSE,FALSE
+354,"Email - Interactions - Activities - Query - Update",a_354,d_354,FALSE,FALSE
+355,"Email - Interactions - Activities - Query - Delete",a_355,d_355,FALSE,FALSE
+356,"Email - Interactions - Activities - Query - Start",a_356,d_356,FALSE,FALSE
+357,"Email - Interactions - Activities - Query - Move",a_357,d_357,FALSE,FALSE
+358,"Email - Interactions - Activities - Filter",a_358,d_358,FALSE,FALSE
+359,"Email - Interactions - Activities - Filter - Create",a_359,d_359,FALSE,FALSE
+360,"Email - Interactions - Activities - Filter - View",a_360,d_360,FALSE,FALSE
+361,"Email - Interactions - Activities - Filter - Update",a_361,d_361,FALSE,FALSE
+362,"Email - Interactions - Activities - Filter - Delete",a_362,d_362,FALSE,FALSE
+363,"Email - Interactions - Activities - Filter - Start",a_363,d_363,FALSE,FALSE
+364,"Email - Interactions - Activities - Scripts",a_364,d_364,FALSE,FALSE
+365,"Email - Interactions - Activities - Scripts - Create",a_365,d_365,FALSE,FALSE
+366,"Email - Interactions - Activities - Scripts - Update",a_366,d_366,FALSE,FALSE
+367,"Email - Interactions - Activities - Scripts - Delete",a_367,d_367,FALSE,FALSE
+368,"Email - Interactions - Activities - Scripts - View",a_368,d_368,TRUE,FALSE
+369,"Email - Interactions - Activities - Scripts - Preview",a_369,d_369,FALSE,FALSE
+370,"Email - Interactions - Activities - Scripts - Start",a_370,d_370,FALSE,FALSE
+371,"Email - Interactions - Activities - Scripts - Stop",a_371,d_371,FALSE,FALSE
+372,"Email - Interactions - Activities - Data Factory Utility",a_372,d_372,FALSE,FALSE
+373,"Email - Interactions - Activities - Data Factory Utility - Create",a_373,d_373,FALSE,FALSE
+374,"Email - Interactions - Activities - Data Factory Utility - Update",a_374,d_374,FALSE,FALSE
+375,"Email - Interactions - Activities - Data Factory Utility - Delete",a_375,d_375,FALSE,FALSE
+376,"Email - Interactions - Activities - Data Factory Utility - View",a_376,d_376,FALSE,FALSE
+377,"Email - Interactions - Activities - Data Factory Utility - Preview",a_377,d_377,FALSE,FALSE
+378,"Email - Interactions - Activities - Data Factory Utility - Start",a_378,d_378,FALSE,FALSE
+379,"Email - Interactions - Activities - Data Factory Utility - Stop",a_379,d_379,FALSE,FALSE
+380,"Email - Interactions - Activities - SegmentRecount",a_380,d_380,FALSE,FALSE
+381,"Email - Interactions - Activities - SegmentRecount - Create",a_381,d_381,FALSE,FALSE
+382,"Email - Interactions - Activities - SegmentRecount - Update",a_382,d_382,FALSE,FALSE
+383,"Email - Interactions - Activities - SegmentRecount - Delete",a_383,d_383,FALSE,FALSE
+384,"Email - Interactions - Activities - SegmentRecount - View",a_384,d_384,FALSE,FALSE
+385,"Email - Interactions - Activities - SegmentRecount - Preview",a_385,d_385,FALSE,FALSE
+386,"Email - Interactions - Activities - SegmentRecount - Start",a_386,d_386,FALSE,FALSE
+387,"Email - Interactions - Activities - SegmentRecount - Stop",a_387,d_387,FALSE,FALSE
+388,"Email - Interactions - Activities - BuildAudience",a_388,d_388,FALSE,FALSE
+389,"Email - Interactions - Activities - BuildAudience - Create",a_389,d_389,FALSE,FALSE
+390,"Email - Interactions - Activities - BuildAudience - Update",a_390,d_390,FALSE,FALSE
+391,"Email - Interactions - Activities - BuildAudience - Delete",a_391,d_391,FALSE,FALSE
+392,"Email - Interactions - Activities - BuildAudience - View",a_392,d_392,FALSE,FALSE
+393,"Email - Interactions - Activities - BuildAudience - Preview",a_393,d_393,FALSE,FALSE
+394,"Email - Interactions - Activities - BuildAudience - Start",a_394,d_394,FALSE,FALSE
+395,"Email - Interactions - Activities - BuildAudience - Stop",a_395,d_395,FALSE,FALSE
+396,"Email - Interactions - Activities - Data Verification",a_396,d_396,FALSE,FALSE
+397,"Email - Interactions - Activities - Data Verification - Create",a_397,d_397,TRUE,FALSE
+398,"Email - Interactions - Activities - Data Verification - Update",a_398,d_398,TRUE,FALSE
+399,"Email - Interactions - Activities - Data Verification - Delete",a_399,d_399,TRUE,FALSE
+400,"Email - Interactions - Activities - Data Verification - View",a_400,d_400,TRUE,FALSE
+401,"Email - Interactions - Activities - Predictive Intelligence",a_401,d_401,FALSE,FALSE
+402,"Email - Interactions - Activities - Predictive Intelligence - View",a_402,d_402,FALSE,FALSE
+403,"Email - Interactions - Activities - Predictive Intelligence - Create",a_403,d_403,FALSE,FALSE
+404,"Email - Interactions - Activities - Predictive Intelligence - Update",a_404,d_404,FALSE,FALSE
+405,"Email - Interactions - Activities - Predictive Intelligence - Delete",a_405,d_405,FALSE,FALSE
+406,"Email - Interactions - Activities - Predictive Intelligence - Start",a_406,d_406,FALSE,FALSE
+407,"Email - Interactions - Messages",a_407,d_407,FALSE,FALSE
+408,"Email - Interactions - Messages - Email",a_408,d_408,FALSE,FALSE
+409,"Email - Interactions - Messages - Email - User-Initiated",a_409,d_409,FALSE,FALSE
+410,"Email - Interactions - Messages - Email - User-Initiated - Create",a_410,d_410,FALSE,FALSE
+411,"Email - Interactions - Messages - Email - User-Initiated - View",a_411,d_411,FALSE,FALSE
+412,"Email - Interactions - Messages - Email - User-Initiated - Update",a_412,d_412,FALSE,FALSE
+413,"Email - Interactions - Messages - Email - User-Initiated - Delete",a_413,d_413,FALSE,FALSE
+414,"Email - Interactions - Messages - Email - User-Initiated - Send",a_414,d_414,FALSE,FALSE
+415,"Email - Interactions - Messages - Email - User-Initiated - Test Send",a_415,d_415,FALSE,FALSE
+416,"Email - Interactions - Messages - Email - Triggered",a_416,d_416,FALSE,FALSE
+417,"Email - Interactions - Messages - Email - Triggered - Create",a_417,d_417,FALSE,FALSE
+418,"Email - Interactions - Messages - Email - Triggered - View",a_418,d_418,FALSE,FALSE
+419,"Email - Interactions - Messages - Email - Triggered - Update",a_419,d_419,FALSE,FALSE
+420,"Email - Interactions - Messages - Email - Triggered - Delete",a_420,d_420,FALSE,FALSE
+421,"Email - Interactions - Messages - Email - Triggered - Archive",a_421,d_421,FALSE,FALSE
+422,"Email - Interactions - Messages - Email - Triggered - View Tracking",a_422,d_422,FALSE,FALSE
+423,"Email - Interactions - Messages - Email - Triggered - Start/Restart",a_423,d_423,FALSE,FALSE
+424,"Email - Interactions - Messages - Email - Triggered - Pause",a_424,d_424,FALSE,FALSE
+425,"Email - Interactions - Messages - Email - Triggered - Publish Changes",a_425,d_425,FALSE,FALSE
+426,"Email - Interactions - Messages - Email - Triggered - Move",a_426,d_426,FALSE,FALSE
+427,"Email - Interactions - Messages - Email - Triggered - Clear Queue",a_427,d_427,FALSE,FALSE
+428,"Email - Interactions - Messages - Email - SalesforceSends",a_428,d_428,FALSE,FALSE
+429,"Email - Interactions - Messages - Email - SalesforceSends - Create",a_429,d_429,FALSE,FALSE
+430,"Email - Interactions - Messages - Email - SalesforceSends - View",a_430,d_430,FALSE,FALSE
+431,"Email - Interactions - Messages - Email - SalesforceSends - Update",a_431,d_431,FALSE,FALSE
+432,"Email - Interactions - Messages - Email - SalesforceSends - Delete",a_432,d_432,FALSE,FALSE
+433,"Email - Interactions - Messages - Email - SalesforceSends - Send",a_433,d_433,FALSE,FALSE
+434,"Email - Interactions - Messages - Email - SalesforceSends - Test Send",a_434,d_434,FALSE,FALSE
+435,"Email - Interactions - Messages - SMS",a_435,d_435,FALSE,FALSE
+436,"Email - Interactions - Messages - SMS - Triggered",a_436,d_436,FALSE,FALSE
+437,"Email - Interactions - Messages - SMS - Triggered - Create",a_437,d_437,FALSE,FALSE
+438,"Email - Interactions - Messages - SMS - Triggered - View",a_438,d_438,FALSE,FALSE
+439,"Email - Interactions - Messages - SMS - Triggered - Update",a_439,d_439,FALSE,FALSE
+440,"Email - Interactions - Messages - SMS - Triggered - Delete",a_440,d_440,FALSE,FALSE
+441,"Email - Interactions - Messages - SMS - Triggered - View Tracking",a_441,d_441,FALSE,FALSE
+442,"Email - Interactions - Messages - SMS - Triggered - Send",a_442,d_442,FALSE,FALSE
+443,"Email - Interactions - Messages - SMS - MO Keyword",a_443,d_443,FALSE,FALSE
+444,"Email - Interactions - Messages - SMS - MO Keyword - Create",a_444,d_444,FALSE,FALSE
+445,"Email - Interactions - Messages - SMS - MO Keyword - View",a_445,d_445,FALSE,FALSE
+446,"Email - Interactions - Messages - SMS - MO Keyword - Update",a_446,d_446,FALSE,FALSE
+447,"Email - Interactions - Messages - SMS - MO Keyword - Delete",a_447,d_447,FALSE,FALSE
+448,"Email - Interactions - Messages - SMS - MO Keyword - Manage Keyword",a_448,d_448,FALSE,FALSE
+449,"Email - Interactions - Messages - SMS - Shared Keyword",a_449,d_449,FALSE,FALSE
+450,"Email - Interactions - Messages - SMS - Shared Keyword - Create",a_450,d_450,FALSE,FALSE
+451,"Email - Interactions - Messages - SMS - Shared Keyword - View",a_451,d_451,FALSE,FALSE
+452,"Email - Interactions - Messages - SMS - Shared Keyword - Update",a_452,d_452,FALSE,FALSE
+453,"Email - Interactions - Messages - SMS - Shared Keyword - Delete",a_453,d_453,FALSE,FALSE
+454,"Email - Interactions - Messages - Voice",a_454,d_454,FALSE,FALSE
+455,"Email - Interactions - Messages - Voice - Triggered",a_455,d_455,FALSE,FALSE
+456,"Email - Interactions - Messages - Voice - Triggered - Create",a_456,d_456,FALSE,FALSE
+457,"Email - Interactions - Messages - Voice - Triggered - View",a_457,d_457,FALSE,FALSE
+458,"Email - Interactions - Messages - Voice - Triggered - Update",a_458,d_458,FALSE,FALSE
+459,"Email - Interactions - Messages - Voice - Triggered - Delete",a_459,d_459,FALSE,FALSE
+460,"Email - Interactions - Messages - Voice - Triggered - View Tracking",a_460,d_460,FALSE,FALSE
+461,"Email - Interactions - Messages - Voice - Triggered - Send",a_461,d_461,FALSE,FALSE
+462,"Email - Interactions - Messages - Microsites",a_462,d_462,FALSE,FALSE
+463,"Email - Interactions - Messages - Microsites - Create",a_463,d_463,FALSE,FALSE
+464,"Email - Interactions - Messages - Microsites - View",a_464,d_464,FALSE,FALSE
+465,"Email - Interactions - Messages - Microsites - Update",a_465,d_465,FALSE,FALSE
+466,"Email - Interactions - Messages - Microsites - Delete",a_466,d_466,FALSE,FALSE
+467,"Email - Interactions - Messages - Microsites - Archive",a_467,d_467,FALSE,FALSE
+468,"Email - Interactions - Messages - Microsites - Start/Restart",a_468,d_468,FALSE,FALSE
+469,"Email - Interactions - Messages - Microsites - Pause",a_469,d_469,FALSE,FALSE
+470,"Email - Interactions - Messages - Microsites - Publish Pages",a_470,d_470,FALSE,FALSE
+471,"Email - Interactions - Messages - Microsites - View Tracking",a_471,d_471,FALSE,FALSE
+472,"Email - Interactions - Programs",a_472,d_472,FALSE,FALSE
+473,"Email - Interactions - Programs - Create",a_473,d_473,FALSE,FALSE
+474,"Email - Interactions - Programs - View",a_474,d_474,FALSE,FALSE
+475,"Email - Interactions - Programs - Update",a_475,d_475,FALSE,FALSE
+476,"Email - Interactions - Programs - Delete",a_476,d_476,FALSE,FALSE
+477,"Email - Interactions - Programs - Start",a_477,d_477,FALSE,FALSE
+478,"Email - Interactions - Programs - Stop",a_478,d_478,FALSE,FALSE
+479,"Email - Interactions - Programs - Schedule",a_479,d_479,FALSE,FALSE
+480,"Email - Interactions - Programs - View Activity",a_480,d_480,FALSE,FALSE
+481,"Email - Tracking",a_481,d_481,FALSE,FALSE
+482,"Email - Tracking - View",a_482,d_482,FALSE,FALSE
+483,"Email - Tracking - Update",a_483,d_483,FALSE,FALSE
+484,"Email - Tracking - Delete",a_484,d_484,FALSE,FALSE
+485,"Email - Tracking - Compare Email Sends",a_485,d_485,FALSE,FALSE
+486,"Email - Tracking - Enhanced Tracking",a_486,d_486,FALSE,FALSE
+487,"Email - Tracking - View Subscriber Details",a_487,d_487,FALSE,FALSE
+488,"Email - Tracking - Export Subscribers",a_488,d_488,FALSE,FALSE
+489,"Email - Reports",a_489,d_489,FALSE,FALSE
+490,"Email - Reports - View Administrative Reports",a_490,d_490,TRUE,FALSE
+491,"Email - Reports - Run Report",a_491,d_491,TRUE,FALSE
+492,"Email - Admin",a_492,d_492,FALSE,FALSE
+493,"Email - Admin - API Access",a_493,d_493,FALSE,FALSE
+494,"Email - Admin - API Access - WebService API",a_494,d_494,FALSE,FALSE
+495,"Email - Admin - API Access - XML API",a_495,d_495,FALSE,FALSE
+496,"Email - Admin - 3Sixty",a_496,d_496,FALSE,FALSE
+497,"Email - Admin - 3Sixty - Access",a_497,d_497,FALSE,FALSE
+498,"Email - Admin - Send Management",a_498,d_498,FALSE,FALSE
+499,"Email - Admin - Send Management - Sender Profile",a_499,d_499,FALSE,FALSE
+500,"Email - Admin - Send Management - Sender Profile - Create",a_500,d_500,FALSE,FALSE
+501,"Email - Admin - Send Management - Sender Profile - View",a_501,d_501,FALSE,FALSE
+502,"Email - Admin - Send Management - Sender Profile - Update",a_502,d_502,FALSE,FALSE
+503,"Email - Admin - Send Management - Sender Profile - Delete",a_503,d_503,FALSE,FALSE
+504,"Email - Admin - Send Management - Delivery Profile",a_504,d_504,FALSE,FALSE
+505,"Email - Admin - Send Management - Delivery Profile - Create",a_505,d_505,FALSE,FALSE
+506,"Email - Admin - Send Management - Delivery Profile - View",a_506,d_506,FALSE,FALSE
+507,"Email - Admin - Send Management - Delivery Profile - Update",a_507,d_507,FALSE,FALSE
+508,"Email - Admin - Send Management - Delivery Profile - Delete",a_508,d_508,FALSE,FALSE
+509,"Email - Admin - Send Management - Send Classification",a_509,d_509,FALSE,FALSE
+510,"Email - Admin - Send Management - Send Classification - Create",a_510,d_510,FALSE,FALSE
+511,"Email - Admin - Send Management - Send Classification - View",a_511,d_511,FALSE,FALSE
+512,"Email - Admin - Send Management - Send Classification - Update",a_512,d_512,FALSE,FALSE
+513,"Email - Admin - Send Management - Send Classification - Delete",a_513,d_513,FALSE,FALSE
+514,"Email - Admin - Send Management - SMS Sender Profile",a_514,d_514,FALSE,FALSE
+515,"Email - Admin - Send Management - SMS Sender Profile - Create",a_515,d_515,FALSE,FALSE
+516,"Email - Admin - Send Management - SMS Sender Profile - View",a_516,d_516,FALSE,FALSE
+517,"Email - Admin - Send Management - SMS Sender Profile - Update",a_517,d_517,FALSE,FALSE
+518,"Email - Admin - Send Management - SMS Sender Profile - Delete",a_518,d_518,FALSE,FALSE
+519,"Email - Admin - Send Management - SMS Delivery Profile",a_519,d_519,FALSE,FALSE
+520,"Email - Admin - Send Management - SMS Delivery Profile - Create",a_520,d_520,FALSE,FALSE
+521,"Email - Admin - Send Management - SMS Delivery Profile - View",a_521,d_521,FALSE,FALSE
+522,"Email - Admin - Send Management - SMS Delivery Profile - Update",a_522,d_522,FALSE,FALSE
+523,"Email - Admin - Send Management - SMS Delivery Profile - Delete",a_523,d_523,FALSE,FALSE
+524,"Email - Admin - Send Management - SMS Send Classification",a_524,d_524,FALSE,FALSE
+525,"Email - Admin - Send Management - SMS Send Classification - Create",a_525,d_525,FALSE,FALSE
+526,"Email - Admin - Send Management - SMS Send Classification - View",a_526,d_526,FALSE,FALSE
+527,"Email - Admin - Send Management - SMS Send Classification - Update",a_527,d_527,FALSE,FALSE
+528,"Email - Admin - Send Management - SMS Send Classification - Delete",a_528,d_528,FALSE,FALSE
+529,"Email - Admin - Send Management - Voice Sender Profile",a_529,d_529,FALSE,FALSE
+530,"Email - Admin - Send Management - Voice Sender Profile - Create",a_530,d_530,FALSE,FALSE
+531,"Email - Admin - Send Management - Voice Sender Profile - View",a_531,d_531,FALSE,FALSE
+532,"Email - Admin - Send Management - Voice Sender Profile - Update",a_532,d_532,FALSE,FALSE
+533,"Email - Admin - Send Management - Voice Sender Profile - Delete",a_533,d_533,FALSE,FALSE
+534,"Email - Admin - Send Management - Voice Delivery Profile",a_534,d_534,FALSE,FALSE
+535,"Email - Admin - Send Management - Voice Delivery Profile - Create",a_535,d_535,FALSE,FALSE
+536,"Email - Admin - Send Management - Voice Delivery Profile - View",a_536,d_536,FALSE,FALSE
+537,"Email - Admin - Send Management - Voice Delivery Profile - Update",a_537,d_537,FALSE,FALSE
+538,"Email - Admin - Send Management - Voice Delivery Profile - Delete",a_538,d_538,FALSE,FALSE
+539,"Email - Admin - Send Management - Voice Send Classification",a_539,d_539,FALSE,FALSE
+540,"Email - Admin - Send Management - Voice Send Classification - Create",a_540,d_540,FALSE,FALSE
+541,"Email - Admin - Send Management - Voice Send Classification - View",a_541,d_541,FALSE,FALSE
+542,"Email - Admin - Send Management - Voice Send Classification - Update",a_542,d_542,FALSE,FALSE
+543,"Email - Admin - Send Management - Voice Send Classification - Delete",a_543,d_543,FALSE,FALSE
+544,"Email - Admin - Send Management - Test Send Threshold",a_544,d_544,FALSE,FALSE
+545,"Email - Admin - Send Management - Test Send Threshold - View",a_545,d_545,FALSE,FALSE
+546,"Email - Admin - Send Management - Test Send Threshold - Update",a_546,d_546,FALSE,FALSE
+547,"Email - Admin - Send Management - URL Expiration",a_547,d_547,FALSE,FALSE
+548,"Email - Admin - Send Management - URL Expiration - Update",a_548,d_548,FALSE,FALSE
+549,"Email - Admin - Send Management - Subject/Preheader Validation",a_549,d_549,FALSE,FALSE
+550,"Email - Admin - Send Management - Subject/Preheader Validation - View",a_550,d_550,FALSE,FALSE
+551,"Email - Admin - Send Management - Subject/Preheader Validation - Update",a_551,d_551,FALSE,FALSE
+552,"Email - Admin - External Object Sources",a_552,d_552,FALSE,FALSE
+553,"Email - Admin - External Object Sources - File Location",a_553,d_553,FALSE,FALSE
+554,"Email - Admin - External Object Sources - File Location - Create",a_554,d_554,FALSE,FALSE
+555,"Email - Admin - External Object Sources - File Location - View",a_555,d_555,FALSE,FALSE
+556,"Email - Admin - External Object Sources - File Location - Update",a_556,d_556,FALSE,FALSE
+557,"Email - Admin - External Object Sources - File Location - Delete",a_557,d_557,FALSE,FALSE
+558,"Email - Admin - External Object Sources - Key Management",a_558,d_558,FALSE,FALSE
+559,"Email - Admin - External Object Sources - Key Management - Create",a_559,d_559,FALSE,FALSE
+560,"Email - Admin - External Object Sources - Key Management - View",a_560,d_560,FALSE,FALSE
+561,"Email - Admin - External Object Sources - Key Management - Update",a_561,d_561,FALSE,FALSE
+562,"Email - Admin - External Object Sources - Key Management - Delete",a_562,d_562,FALSE,FALSE
+563,"Email - Admin - Page Action",a_563,d_563,FALSE,FALSE
+564,"Email - Admin - Page Action - Create",a_564,d_564,FALSE,FALSE
+565,"Email - Admin - Page Action - View",a_565,d_565,FALSE,FALSE
+566,"Email - Admin - Page Action - Update",a_566,d_566,FALSE,FALSE
+567,"Email - Admin - Page Action - Delete",a_567,d_567,FALSE,FALSE
+568,"Email - Integrations",a_568,d_568,FALSE,FALSE
+569,"Email - Integrations - Microsoft CRM",a_569,d_569,FALSE,FALSE
+570,"Email - Integrations - Microsoft CRM - Access Marketing Cloud from External System",a_570,d_570,FALSE,FALSE
+571,"Email - Integrations - Microsoft CRM - Resubscribe",a_571,d_571,FALSE,FALSE
+572,"Email - Integrations - Microsoft CRM - Manage Data",a_572,d_572,FALSE,FALSE
+573,"Email - Integrations - Microsoft CRM - Access",a_573,d_573,FALSE,FALSE
+574,"Email - Integrations - Salesforce CRM",a_574,d_574,FALSE,FALSE
+575,"Email - Integrations - Salesforce CRM - Access Marketing Cloud from External System",a_575,d_575,TRUE,FALSE
+576,"Email - Integrations - Salesforce CRM - Resubscribe",a_576,d_576,FALSE,FALSE
+577,"Email - Integrations - Salesforce CRM - Manage Data",a_577,d_577,FALSE,FALSE
+578,"Email - Integrations - Salesforce Send",a_578,d_578,FALSE,FALSE
+579,"Email - Integrations - Salesforce Send - Create",a_579,d_579,FALSE,FALSE
+580,"Email - Integrations - Salesforce Send - View",a_580,d_580,FALSE,FALSE
+581,"Email - Integrations - Salesforce Send - Delete",a_581,d_581,FALSE,FALSE
+582,"Email - Integrations - Salesforce Send - Update",a_582,d_582,FALSE,FALSE
+583,"Email - Integrations - Salesforce Send - Schedule",a_583,d_583,FALSE,FALSE
+584,"Email - Integrations - Salesforce Send - Search",a_584,d_584,FALSE,FALSE
+585,"Email - Shared Folders",a_585,d_585,FALSE,FALSE
+586,"Email - Shared Folders - Shared Email Folders",a_586,d_586,FALSE,FALSE
+587,"Email - Shared Folders - Shared Email Folders - View",a_587,d_587,FALSE,FALSE
+588,"Email - Shared Folders - Shared Email Folders - Move",a_588,d_588,FALSE,FALSE
+589,"Email - Shared Folders - Shared Email Folders - Delete",a_589,d_589,FALSE,FALSE
+590,"Email - Shared Folders - Shared Email Folders - Rename",a_590,d_590,FALSE,FALSE
+591,"Email - Shared Folders - Shared Email Folders - Create Sub Folder",a_591,d_591,FALSE,FALSE
+592,"Email - Shared Folders - Shared Email Folders - Share",a_592,d_592,FALSE,FALSE
+593,"Email - Shared Folders - Shared Template Folders",a_593,d_593,FALSE,FALSE
+594,"Email - Shared Folders - Shared Template Folders - View",a_594,d_594,FALSE,FALSE
+595,"Email - Shared Folders - Shared Template Folders - Move",a_595,d_595,FALSE,FALSE
+596,"Email - Shared Folders - Shared Template Folders - Delete",a_596,d_596,FALSE,FALSE
+597,"Email - Shared Folders - Shared Template Folders - Rename",a_597,d_597,FALSE,FALSE
+598,"Email - Shared Folders - Shared Template Folders - Create Sub Folder",a_598,d_598,FALSE,FALSE
+599,"Email - Shared Folders - Shared Template Folders - Share",a_599,d_599,FALSE,FALSE
+600,"Email - Shared Folders - Shared Portfolio Folders",a_600,d_600,FALSE,FALSE
+601,"Email - Shared Folders - Shared Portfolio Folders - View",a_601,d_601,FALSE,FALSE
+602,"Email - Shared Folders - Shared Portfolio Folders - Move",a_602,d_602,FALSE,FALSE
+603,"Email - Shared Folders - Shared Portfolio Folders - Delete",a_603,d_603,FALSE,FALSE
+604,"Email - Shared Folders - Shared Portfolio Folders - Rename",a_604,d_604,FALSE,FALSE
+605,"Email - Shared Folders - Shared Portfolio Folders - Create Sub Folder",a_605,d_605,FALSE,FALSE
+606,"Email - Shared Folders - Shared Portfolio Folders - Share",a_606,d_606,FALSE,FALSE
+607,"Email - Shared Folders - Shared Content Area Folders",a_607,d_607,FALSE,FALSE
+608,"Email - Shared Folders - Shared Content Area Folders - View",a_608,d_608,FALSE,FALSE
+609,"Email - Shared Folders - Shared Content Area Folders - Move",a_609,d_609,FALSE,FALSE
+610,"Email - Shared Folders - Shared Content Area Folders - Delete",a_610,d_610,FALSE,FALSE
+611,"Email - Shared Folders - Shared Content Area Folders - Rename",a_611,d_611,FALSE,FALSE
+612,"Email - Shared Folders - Shared Content Area Folders - Create Sub Folder",a_612,d_612,FALSE,FALSE
+613,"Email - Shared Folders - Shared Content Area Folders - Share",a_613,d_613,FALSE,FALSE
+614,"Email - Shared Folders - Shared Data Extension Folders",a_614,d_614,FALSE,FALSE
+615,"Email - Shared Folders - Shared Data Extension Folders - View",a_615,d_615,FALSE,FALSE
+616,"Email - Shared Folders - Shared Data Extension Folders - Move",a_616,d_616,FALSE,FALSE
+617,"Email - Shared Folders - Shared Data Extension Folders - Delete",a_617,d_617,FALSE,FALSE
+618,"Email - Shared Folders - Shared Data Extension Folders - Rename",a_618,d_618,FALSE,FALSE
+619,"Email - Shared Folders - Shared Data Extension Folders - Create Sub Folder",a_619,d_619,FALSE,FALSE
+620,"Email - Shared Folders - Shared Data Extension Folders - Share",a_620,d_620,FALSE,FALSE
+621,"Email - Shared Folders - Shared Publication List Folders",a_621,d_621,FALSE,FALSE
+622,"Email - Shared Folders - Shared Publication List Folders - View",a_622,d_622,FALSE,FALSE
+623,"Email - Shared Folders - Shared Publication List Folders - Move",a_623,d_623,FALSE,FALSE
+624,"Email - Shared Folders - Shared Publication List Folders - Delete",a_624,d_624,FALSE,FALSE
+625,"Email - Shared Folders - Shared Publication List Folders - Rename",a_625,d_625,FALSE,FALSE
+626,"Email - Shared Folders - Shared Publication List Folders - Create Sub Folder",a_626,d_626,FALSE,FALSE
+627,"Email - Shared Folders - Shared Publication List Folders - Share",a_627,d_627,FALSE,FALSE
+628,"Email - Shared Folders - Shared Suppression List Folders",a_628,d_628,FALSE,FALSE
+629,"Email - Shared Folders - Shared Suppression List Folders - View",a_629,d_629,FALSE,FALSE
+630,"Email - Shared Folders - Shared Suppression List Folders - Move",a_630,d_630,FALSE,FALSE
+631,"Email - Shared Folders - Shared Suppression List Folders - Delete",a_631,d_631,FALSE,FALSE
+632,"Email - Shared Folders - Shared Suppression List Folders - Rename",a_632,d_632,FALSE,FALSE
+633,"Email - Shared Folders - Shared Suppression List Folders - Create Sub Folder",a_633,d_633,FALSE,FALSE
+634,"Email - Shared Folders - Shared Suppression List Folders - Share",a_634,d_634,FALSE,FALSE
+635,"Email - Shared Folders - Shared Salesforce Data Extension Folders",a_635,d_635,FALSE,FALSE
+636,"Email - Shared Folders - Shared Salesforce Data Extension Folders - View",a_636,d_636,FALSE,FALSE
+637,"Email - Shared Folders - Shared Salesforce Data Extension Folders - Move",a_637,d_637,FALSE,FALSE
+638,"Email - Shared Folders - Shared Salesforce Data Extension Folders - Delete",a_638,d_638,FALSE,FALSE
+639,"Email - Shared Folders - Shared Salesforce Data Extension Folders - Rename",a_639,d_639,FALSE,FALSE
+640,"Email - Shared Folders - Shared Salesforce Data Extension Folders - Create Sub Folder",a_640,d_640,FALSE,FALSE
+641,"Email - Shared Folders - Shared Salesforce Data Extension Folders - Share",a_641,d_641,FALSE,FALSE
+642,"Email - Authentication (Requires Enhanced Authentication)",a_642,d_642,FALSE,FALSE
+643,"Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface",a_643,d_643,FALSE,FALSE
+644,"Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 1; UsernameOverTransport (Default)",a_644,d_644,FALSE,FALSE
+645,"Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 2; UsernameForCertificate (overrides policy 1)",a_645,d_645,FALSE,FALSE
+646,"Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 3; SecPol 2 + Client Cert* (overrides policy 2)",a_646,d_646,FALSE,FALSE
+647,"Email - Authentication (Requires Enhanced Authentication) - SOAP Web Service Interface - SecPol 4; Username Token + Client and Server Signature (overrides policy 3)",a_647,d_647,FALSE,FALSE
+648,"Email - General",a_648,d_648,FALSE,FALSE
+649,"Email - General - Access",a_649,d_649,TRUE,FALSE
+650,"Email - A/B Testing",a_650,d_650,FALSE,FALSE
+651,"Email - A/B Testing - Create/Copy",a_651,d_651,FALSE,FALSE
+652,"Email - A/B Testing - Create/Copy - Subject Tests",a_652,d_652,FALSE,FALSE
+653,"Email - A/B Testing - Create/Copy - Email Tests",a_653,d_653,FALSE,FALSE
+654,"Email - A/B Testing - Create/Copy - Content Tests",a_654,d_654,FALSE,FALSE
+655,"Email - A/B Testing - Create/Copy - From Tests",a_655,d_655,FALSE,FALSE
+656,"Email - A/B Testing - Create/Copy - Send Date Tests",a_656,d_656,FALSE,FALSE
+657,"Email - A/B Testing - Create/Copy - PreHeader Tests",a_657,d_657,FALSE,FALSE
+658,"Email - A/B Testing - General",a_658,d_658,FALSE,FALSE
+659,"Email - A/B Testing - General - Delete",a_659,d_659,FALSE,FALSE
+660,"Email - A/B Testing - General - Send/Schedule",a_660,d_660,FALSE,FALSE
+661,"Email - A/B Testing - General - Cancel",a_661,d_661,FALSE,FALSE
+662,"Email - A/B Testing - General - Export",a_662,d_662,FALSE,FALSE
+663,"Email - A/B Testing - General - View",a_663,d_663,FALSE,FALSE
+664,"Email - A/B Testing - General - Access",a_664,d_664,TRUE,FALSE
+665,"Email - Blockout Dates",a_665,d_665,FALSE,FALSE
+666,"Email - Blockout Dates - View",a_666,d_666,FALSE,FALSE
+667,"Email - Blockout Dates - Modify",a_667,d_667,FALSE,FALSE
+668,"Email - Advanced Preview Options",a_668,d_668,FALSE,FALSE
+669,"Email - Advanced Preview Options - Integrate with Litmus",a_669,d_669,TRUE,FALSE
+670,"Email - Advanced Preview Options - Litmus Trial Previews",a_670,d_670,TRUE,FALSE
+671,"Email - Proofing Tools",a_671,d_671,FALSE,FALSE
+672,"Email - Proofing Tools - Region Tracking Report Access",a_672,d_672,FALSE,FALSE
+673,"Discover",a_673,d_673,FALSE,FALSE
+674,"Discover - Access",a_674,d_674,TRUE,FALSE
+675,"Discover - View",a_675,d_675,FALSE,FALSE
+676,"Discover - Create",a_676,d_676,TRUE,FALSE
+677,"Discover - Delete",a_677,d_677,FALSE,FALSE
+678,"Discover - Edit",a_678,d_678,FALSE,FALSE
+679,"Discover - Share",a_679,d_679,FALSE,FALSE
+680,"CampaignAnalytics",a_680,d_680,FALSE,FALSE
+681,"CampaignAnalytics - View",a_681,d_681,FALSE,FALSE
+682,"CampaignAnalytics - Share",a_682,d_682,FALSE,FALSE
+683,"CampaignAnalytics - Create",a_683,d_683,FALSE,FALSE
+684,"CampaignAnalytics - Edit",a_684,d_684,FALSE,FALSE
+685,"CampaignAnalytics - Delete",a_685,d_685,FALSE,FALSE
+686,"Administration",a_686,d_686,FALSE,FALSE
+687,"Administration - Users",a_687,d_687,FALSE,FALSE
+688,"Administration - Users - Create",a_688,d_688,FALSE,FALSE
+689,"Administration - Users - View",a_689,d_689,TRUE,FALSE
+690,"Administration - Users - Update",a_690,d_690,FALSE,FALSE
+691,"Administration - Users - Disable",a_691,d_691,FALSE,FALSE
+692,"Administration - Users - Manage Roles",a_692,d_692,FALSE,FALSE
+693,"Administration - Users - Manage Business Units",a_693,d_693,FALSE,FALSE
+694,"Administration - Business Units",a_694,d_694,FALSE,FALSE
+695,"Administration - Business Units - Create",a_695,d_695,FALSE,FALSE
+696,"Administration - Business Units - View",a_696,d_696,FALSE,FALSE
+697,"Administration - Business Units - Update",a_697,d_697,FALSE,FALSE
+698,"Administration - Business Units - Delete",a_698,d_698,FALSE,FALSE
+699,"Administration - Business Units - Manage Roles",a_699,d_699,FALSE,FALSE
+700,"Administration - Business Units - View Users",a_700,d_700,FALSE,FALSE
+701,"Administration - Business Units - Define Subscriber Filter",a_701,d_701,FALSE,FALSE
+702,"Administration - Roles",a_702,d_702,FALSE,FALSE
+703,"Administration - Roles - Create",a_703,d_703,FALSE,FALSE
+704,"Administration - Roles - View",a_704,d_704,FALSE,FALSE
+705,"Administration - Roles - Update",a_705,d_705,FALSE,FALSE
+706,"Administration - Roles - Delete",a_706,d_706,FALSE,FALSE
+707,"Administration - Roles - View Assignments",a_707,d_707,FALSE,FALSE
+708,"Administration - Account",a_708,d_708,FALSE,FALSE
+709,"Administration - Account - Update Account and Security Settings",a_709,d_709,FALSE,FALSE
+710,"Administration - Account - Create",a_710,d_710,FALSE,FALSE
+711,"Administration - Account - View",a_711,d_711,FALSE,FALSE
+712,"Administration - Account - Update",a_712,d_712,FALSE,FALSE
+713,"Administration - Account - Delete",a_713,d_713,FALSE,FALSE
+714,"Administration - Account - View Subscription Details",a_714,d_714,FALSE,FALSE
+715,"Administration - Account - Download Data Extension Storage Details",a_715,d_715,FALSE,FALSE
+716,"Administration - General",a_716,d_716,FALSE,FALSE
+717,"Administration - General - Access",a_717,d_717,FALSE,FALSE
+718,"Administration - Webhooks",a_718,d_718,FALSE,FALSE
+719,"Administration - Webhooks - Create Webhook",a_719,d_719,FALSE,FALSE
+720,"Administration - Webhooks - View Webhook",a_720,d_720,FALSE,FALSE
+721,"Administration - Webhooks - Update Webhook",a_721,d_721,FALSE,FALSE
+722,"Administration - Webhooks - Delete Webhook",a_722,d_722,FALSE,FALSE
+723,"Administration - Installed Packages",a_723,d_723,FALSE,FALSE
+724,"Administration - Installed Packages - Administer",a_724,d_724,FALSE,FALSE
+725,"Administration - Content Builder Admin",a_725,d_725,FALSE,FALSE
+726,"Administration - Content Builder Admin - Access",a_726,d_726,FALSE,FALSE
+727,"Administration - Custom Domains",a_727,d_727,FALSE,FALSE
+728,"Administration - Custom Domains - Administer Custom Domains",a_728,d_728,FALSE,FALSE
+729,"Administration - Cross Cloud Integration",a_729,d_729,FALSE,FALSE
+730,"Administration - Cross Cloud Integration - External Tenant",a_730,d_730,FALSE,FALSE
+731,"Administration - Cross Cloud Integration - External Tenant - Create",a_731,d_731,FALSE,FALSE
+732,"Administration - Cross Cloud Integration - External Tenant - View",a_732,d_732,FALSE,FALSE
+733,"Administration - Cross Cloud Integration - External Tenant - Update",a_733,d_733,FALSE,FALSE
+734,"Administration - Cross Cloud Integration - External Tenant - Delete",a_734,d_734,FALSE,FALSE
+735,"Administration - Cross Cloud Integration - Market Audience",a_735,d_735,FALSE,FALSE
+736,"Administration - Cross Cloud Integration - Market Audience - Create",a_736,d_736,FALSE,FALSE
+737,"Administration - Cross Cloud Integration - Market Audience - View",a_737,d_737,FALSE,FALSE
+738,"Administration - Cross Cloud Integration - Market Audience - Update",a_738,d_738,FALSE,FALSE
+739,"Administration - Cross Cloud Integration - Market Audience - Delete",a_739,d_739,FALSE,FALSE
+740,"Administration - Cross Cloud Integration - Market Audience Member",a_740,d_740,FALSE,FALSE
+741,"Administration - Cross Cloud Integration - Market Audience Member - Create",a_741,d_741,FALSE,FALSE
+742,"Administration - Cross Cloud Integration - Market Audience Member - View",a_742,d_742,FALSE,FALSE
+743,"Administration - Cross Cloud Integration - Market Audience Member - Update",a_743,d_743,FALSE,FALSE
+744,"Administration - Cross Cloud Integration - Market Audience Member - Delete",a_744,d_744,FALSE,FALSE
+745,"Audience Builder Enabler",a_745,d_745,FALSE,FALSE
+746,"Audience Builder Enabler - Access",a_746,d_746,FALSE,FALSE
+747,"Xpress",a_747,d_747,FALSE,FALSE
+748,"Xpress - General",a_748,d_748,FALSE,FALSE
+749,"Xpress - General - Access",a_749,d_749,TRUE,FALSE
+750,"Xpress - Subscribers",a_750,d_750,FALSE,FALSE
+751,"Xpress - Subscribers - CreateEditDeleteImport",a_751,d_751,TRUE,FALSE
+752,"Xpress - Subscribers - View",a_752,d_752,TRUE,FALSE
+753,"Xpress - Lists",a_753,d_753,FALSE,FALSE
+754,"Xpress - Lists - Create",a_754,d_754,TRUE,FALSE
+755,"Xpress - Lists - Delete",a_755,d_755,TRUE,FALSE
+756,"Xpress - Email",a_756,d_756,FALSE,FALSE
+757,"Xpress - Email - Create and Edit",a_757,d_757,TRUE,FALSE
+758,"Xpress - Email - CreateWithHtmlPaste",a_758,d_758,TRUE,FALSE
+759,"Xpress - Email - Send",a_759,d_759,TRUE,FALSE
+760,"Xpress - Email - ExportTrackingInformation",a_760,d_760,TRUE,FALSE
+761,"Xpress - Email - PostToFacebook",a_761,d_761,TRUE,FALSE
+762,"Xpress - Email - PostToTwitter",a_762,d_762,TRUE,FALSE
+763,"Xpress - Email - SendToDataExtensions",a_763,d_763,TRUE,FALSE
+764,"Xpress - Email - SendToLists",a_764,d_764,TRUE,FALSE
+765,"Xpress - Email - SendToGroups",a_765,d_765,TRUE,FALSE
+766,"Xpress - Email - SendToSharedDataExtensions",a_766,d_766,TRUE,FALSE
+767,"Xpress - Email - SendToFilters",a_767,d_767,TRUE,FALSE
+768,"Xpress - All Subscribers",a_768,d_768,FALSE,FALSE
+769,"Xpress - All Subscribers - View Subscribers",a_769,d_769,FALSE,FALSE
+770,"Xpress - All Subscribers - SendEmailToList",a_770,d_770,FALSE,FALSE
+771,"Xpress - All Subscribers - BuildSegmentOn",a_771,d_771,TRUE,FALSE
+772,"Approvals (Email)",a_772,d_772,FALSE,FALSE
+773,"Approvals (Email) - Approve and Decline",a_773,d_773,FALSE,FALSE
+774,"Approvals (Email) - Bypass Approval",a_774,d_774,FALSE,FALSE
+775,"Distributed Sending",a_775,d_775,FALSE,FALSE
+776,"Distributed Sending - General",a_776,d_776,FALSE,FALSE
+777,"Distributed Sending - General - Access",a_777,d_777,TRUE,FALSE
+778,"Distributed Sending - Distributed Sending Content",a_778,d_778,FALSE,FALSE
+779,"Distributed Sending - Distributed Sending Content - Edit HTML",a_779,d_779,FALSE,FALSE
+780,"Distributed Sending - Distributed Sending Content - Restricted Formatting",a_780,d_780,FALSE,FALSE
+781,"MobilePush",a_781,d_781,FALSE,FALSE
+782,"MobilePush - General",a_782,d_782,FALSE,FALSE
+783,"MobilePush - General - Access",a_783,d_783,TRUE,FALSE
+784,"MobilePush - General - Administer MobilePush",a_784,d_784,TRUE,FALSE
+785,"MobilePush - Message",a_785,d_785,FALSE,FALSE
+786,"MobilePush - Message - Create and Edit",a_786,d_786,TRUE,FALSE
+787,"MobilePush - Message - Delete",a_787,d_787,TRUE,FALSE
+788,"MobilePush - Message - Schedule and Send Message",a_788,d_788,TRUE,FALSE
+789,"MobilePush - Reporting",a_789,d_789,FALSE,FALSE
+790,"MobilePush - Reporting - View Reports",a_790,d_790,TRUE,FALSE
+791,"MobilePush - Key Management",a_791,d_791,FALSE,FALSE
+792,"MobilePush - Key Management - View Key Management",a_792,d_792,FALSE,FALSE
+793,"MobilePush - Key Management - Edit Key Management",a_793,d_793,FALSE,FALSE
+794,"Journey Builder",a_794,d_794,FALSE,FALSE
+795,"Journey Builder - General",a_795,d_795,FALSE,FALSE
+796,"Journey Builder - General - Access, View",a_796,d_796,TRUE,FALSE
+797,"Journey Builder - Automation",a_797,d_797,FALSE,FALSE
+798,"Journey Builder - Automation - Create, Edit",a_798,d_798,TRUE,FALSE
+799,"Journey Builder - Automation - Activate/Stop/Pause/Resume/Send/Schedule (journey state)",a_799,d_799,FALSE,FALSE
+800,"Journey Builder - Automation - Delete",a_800,d_800,FALSE,FALSE
+801,"Journey Builder - Automation - Adjust System Priority",a_801,d_801,FALSE,FALSE
+802,"Journey Builder - Sales And Service Cloud",a_802,d_802,FALSE,FALSE
+803,"Journey Builder - Sales And Service Cloud - Create Events",a_803,d_803,FALSE,FALSE
+804,"Journey Builder - Sales And Service Cloud - Create Activities",a_804,d_804,FALSE,FALSE
+805,"Reports",a_805,d_805,FALSE,FALSE
+806,"Reports - General",a_806,d_806,FALSE,FALSE
+807,"Reports - General - Run",a_807,d_807,TRUE,FALSE
+808,"Reports - General - Delete",a_808,d_808,TRUE,FALSE
+809,"Reports - General - Access",a_809,d_809,TRUE,FALSE
+810,"Reports - General - Subscriber-Level Data",a_810,d_810,TRUE,FALSE
+811,"Reports - General - Export/Schedule",a_811,d_811,TRUE,FALSE
+812,"Reports - Report Catalog",a_812,d_812,FALSE,FALSE
+813,"Reports - Report Catalog - Campaigns",a_813,d_813,FALSE,FALSE
+814,"Reports - Report Catalog - Campaigns - Access",a_814,d_814,TRUE,FALSE
+815,"Reports - Report Catalog - Email",a_815,d_815,FALSE,FALSE
+816,"Reports - Report Catalog - Email - Create Administration",a_816,d_816,FALSE,FALSE
+817,"Reports - Report Catalog - Email - Create Custom",a_817,d_817,TRUE,FALSE
+818,"Reports - Report Catalog - Email - Access",a_818,d_818,TRUE,FALSE
+819,"Reports - Report Catalog - MobileConnect",a_819,d_819,FALSE,FALSE
+820,"Reports - Report Catalog - MobileConnect - Access",a_820,d_820,TRUE,FALSE
+821,"Reports - Report Catalog - SocialPages",a_821,d_821,FALSE,FALSE
+822,"Reports - Report Catalog - SocialPages - Access",a_822,d_822,TRUE,FALSE
+823,"Reports - Report Catalog - MobilePush",a_823,d_823,FALSE,FALSE
+824,"Reports - Report Catalog - MobilePush - Access",a_824,d_824,TRUE,FALSE
+825,"Reports - Report Catalog - CloudPages",a_825,d_825,FALSE,FALSE
+826,"Reports - Report Catalog - CloudPages - Access",a_826,d_826,TRUE,FALSE
+827,"Reports - Report Catalog - Contacts",a_827,d_827,FALSE,FALSE
+828,"Reports - Report Catalog - Contacts - Access",a_828,d_828,TRUE,FALSE
+829,"HubExchange",a_829,d_829,FALSE,FALSE
+830,"HubExchange - View",a_830,d_830,TRUE,FALSE
+831,"HubExchange - Update",a_831,d_831,FALSE,FALSE
+832,"HubExchange - Delete",a_832,d_832,FALSE,FALSE
+833,"HubExchange - Install",a_833,d_833,FALSE,FALSE
+834,"HubExchange - HX Admin",a_834,d_834,FALSE,FALSE
+835,"AdobeAnalytics",a_835,d_835,FALSE,FALSE
+836,"AdobeAnalytics - View",a_836,d_836,FALSE,FALSE
+837,"Tags",a_837,d_837,FALSE,FALSE
+838,"Tags - Create",a_838,d_838,TRUE,FALSE
+839,"Tags - Edit",a_839,d_839,TRUE,FALSE
+840,"Tags - Delete",a_840,d_840,TRUE,FALSE
+841,"Tags - Associate/Disassociate",a_841,d_841,TRUE,FALSE
+842,"Tags - View",a_842,d_842,TRUE,FALSE
+843,"tmMessenger",a_843,d_843,FALSE,FALSE
+844,"tmMessenger - General",a_844,d_844,FALSE,FALSE
+845,"tmMessenger - General - Access",a_845,d_845,FALSE,FALSE
+846,"tmMessenger - General - Admin Access",a_846,d_846,FALSE,FALSE
+847,"LEMI",a_847,d_847,FALSE,FALSE
+848,"LEMI - General",a_848,d_848,FALSE,FALSE
+849,"LEMI - General - Access",a_849,d_849,FALSE,FALSE
+850,"Extension Manager",a_850,d_850,FALSE,FALSE
+851,"Extension Manager - Access",a_851,d_851,FALSE,FALSE
+852,"GroupConnect",a_852,d_852,FALSE,FALSE
+853,"GroupConnect - General",a_853,d_853,FALSE,FALSE
+854,"GroupConnect - General - Access",a_854,d_854,TRUE,FALSE
+855,"GroupConnect - General - Administer GroupConnect",a_855,d_855,TRUE,FALSE
+856,"GroupConnect - Message",a_856,d_856,FALSE,FALSE
+857,"GroupConnect - Message - Create and Edit",a_857,d_857,TRUE,FALSE
+858,"GroupConnect - Message - Delete",a_858,d_858,TRUE,FALSE
+859,"GroupConnect - Message - Schedule and Send Message",a_859,d_859,TRUE,FALSE
+860,"GroupConnect - OTT Chat Messaging",a_860,d_860,FALSE,FALSE
+861,"GroupConnect - OTT Chat Messaging - View",a_861,d_861,TRUE,FALSE
+862,"GroupConnect - OTT Chat Messaging - Send",a_862,d_862,TRUE,FALSE
+863,"GroupConnect - OTT Chat Message Accounts",a_863,d_863,FALSE,FALSE
+864,"GroupConnect - OTT Chat Message Accounts - View",a_864,d_864,TRUE,FALSE
+865,"GroupConnect - OTT Chat Message Accounts - Update",a_865,d_865,TRUE,FALSE
+866,"GroupConnect - Content",a_866,d_866,FALSE,FALSE
+867,"GroupConnect - Content - Rich Media",a_867,d_867,FALSE,FALSE
+868,"GroupConnect - Content - Rich Media - View",a_868,d_868,FALSE,FALSE
+869,"GroupConnect - Content - Rich Media - Update",a_869,d_869,FALSE,FALSE
+870,"Transactional Sending",a_870,d_870,FALSE,FALSE
+871,"Transactional Sending - General",a_871,d_871,FALSE,FALSE
+872,"Transactional Sending - General - Access",a_872,d_872,TRUE,FALSE
+873,"Transactional Sending - Overview",a_873,d_873,FALSE,FALSE
+874,"Transactional Sending - Overview - View",a_874,d_874,TRUE,FALSE
+875,"Transactional Sending - System Log",a_875,d_875,FALSE,FALSE
+876,"Transactional Sending - System Log - View",a_876,d_876,TRUE,FALSE
+877,"Transactional Sending - System Log - Export",a_877,d_877,TRUE,FALSE
+878,"Transactional Sending - Paused Queue",a_878,d_878,FALSE,FALSE
+879,"Transactional Sending - Paused Queue - View",a_879,d_879,TRUE,FALSE
+880,"Transactional Sending - Paused Queue - Delete",a_880,d_880,TRUE,FALSE
+881,"Transactional Sending - Paused Queue - Export",a_881,d_881,TRUE,FALSE
+882,"Transactional Sending - Messages",a_882,d_882,FALSE,FALSE
+883,"Transactional Sending - Messages - General",a_883,d_883,FALSE,FALSE
+884,"Transactional Sending - Messages - General - View",a_884,d_884,TRUE,FALSE
+885,"Transactional Sending - Messages - General - Create",a_885,d_885,TRUE,FALSE
+886,"Transactional Sending - Messages - General - Update",a_886,d_886,TRUE,FALSE
+887,"Transactional Sending - Messages - General - Delete",a_887,d_887,TRUE,FALSE
+888,"Transactional Sending - Messages - Tracking",a_888,d_888,FALSE,FALSE
+889,"Transactional Sending - Messages - Tracking - View",a_889,d_889,TRUE,FALSE
+890,"Transactional Sending - Messages - Tracking - Export",a_890,d_890,TRUE,FALSE
+891,"Transactional Sending - Messages - State Management",a_891,d_891,FALSE,FALSE
+892,"Transactional Sending - Messages - State Management - Pause/Resume",a_892,d_892,TRUE,FALSE
+893,"Transactional Sending - Messages - State Management - Publish",a_893,d_893,TRUE,FALSE
+894,"Transactional Sending - Messages - State Management - Stop/Restart",a_894,d_894,TRUE,FALSE
+895,"CloudPages",a_895,d_895,FALSE,FALSE
+896,"CloudPages - General",a_896,d_896,FALSE,FALSE
+897,"CloudPages - General - Report Access",a_897,d_897,TRUE,FALSE
+898,"CloudPages - General - Access",a_898,d_898,TRUE,FALSE
+899,"CloudPages - General - Create",a_899,d_899,TRUE,FALSE
+900,"CloudPages - General - Edit",a_900,d_900,TRUE,FALSE
+901,"CloudPages - General - Delete",a_901,d_901,TRUE,FALSE
+902,"CloudPages - General - View",a_902,d_902,TRUE,FALSE
+903,"CloudPages - General - Publish/Unpublish",a_903,d_903,TRUE,FALSE
+904,"CloudPages - Admin",a_904,d_904,FALSE,FALSE
+905,"CloudPages - Channel Manager",a_905,d_905,FALSE,FALSE
+906,"Content Builder",a_906,d_906,FALSE,FALSE
+907,"Content Builder - Assets",a_907,d_907,FALSE,FALSE
+908,"Content Builder - Assets - Create",a_908,d_908,FALSE,FALSE
+909,"Content Builder - Assets - Upload",a_909,d_909,FALSE,FALSE
+910,"Content Builder - Assets - View",a_910,d_910,FALSE,FALSE
+911,"Content Builder - Assets - Update",a_911,d_911,FALSE,FALSE
+912,"Content Builder - Assets - Delete",a_912,d_912,FALSE,FALSE
+913,"Content Builder - Assets - Share",a_913,d_913,FALSE,FALSE
+914,"Content Builder - Assets - Transfer Ownership",a_914,d_914,FALSE,FALSE
+915,"Content Builder - Assets - Publish",a_915,d_915,FALSE,FALSE
+916,"Content Builder - Assets - ActivateExpire",a_916,d_916,FALSE,FALSE
+917,"Content Builder - Assets - ManageVersions",a_917,d_917,FALSE,FALSE
+918,"Content Builder - Assets - Download",a_918,d_918,FALSE,FALSE
+919,"Content Builder - Assets - Comment",a_919,d_919,FALSE,FALSE
+920,"Content Builder - Assets - Subscriber Preview",a_920,d_920,TRUE,FALSE
+921,"Content Builder - Folders",a_921,d_921,FALSE,FALSE
+922,"Content Builder - Folders - Create",a_922,d_922,FALSE,FALSE
+923,"Content Builder - Folders - View",a_923,d_923,TRUE,FALSE
+924,"Content Builder - Folders - Move",a_924,d_924,FALSE,FALSE
+925,"Content Builder - Folders - Rename",a_925,d_925,FALSE,FALSE
+926,"Content Builder - Folders - Delete",a_926,d_926,FALSE,FALSE
+927,"Content Builder - Folders - Share Contents",a_927,d_927,FALSE,FALSE
+928,"Content Builder - Folders - Update",a_928,d_928,FALSE,FALSE
+929,"Content Builder - Shared Folders",a_929,d_929,FALSE,FALSE
+930,"Content Builder - Shared Folders - Create",a_930,d_930,FALSE,FALSE
+931,"Content Builder - Shared Folders - View",a_931,d_931,FALSE,FALSE
+932,"Content Builder - Shared Folders - Move",a_932,d_932,FALSE,FALSE
+933,"Content Builder - Shared Folders - Rename",a_933,d_933,FALSE,FALSE
+934,"Content Builder - Shared Folders - Edit Sharing Properties",a_934,d_934,FALSE,FALSE
+935,"Content Builder - Shared Folders - Delete",a_935,d_935,FALSE,FALSE
+936,"Content Builder - Third-Party Content Administrator",a_936,d_936,FALSE,FALSE
+937,"Content Builder - Third-Party Content Administrator - Access",a_937,d_937,FALSE,FALSE
+938,"Email Send Wizard",a_938,d_938,FALSE,FALSE
+939,"Email Send Wizard - General",a_939,d_939,FALSE,FALSE
+940,"Email Send Wizard - General - Access",a_940,d_940,TRUE,FALSE
+941,"Email Send Wizard - Content",a_941,d_941,FALSE,FALSE
+942,"Email Send Wizard - Content - Subject Symbols",a_942,d_942,TRUE,FALSE
+943,"Email Send Wizard - Content - Preheader",a_943,d_943,TRUE,FALSE
+944,"Email Send Wizard - Content - Campaign",a_944,d_944,TRUE,FALSE
+945,"Email Send Wizard - Content - Send Classificiation",a_945,d_945,TRUE,FALSE
+946,"Email Send Wizard - Content - Account From and Reply",a_946,d_946,TRUE,FALSE
+947,"Email Send Wizard - Audience",a_947,d_947,FALSE,FALSE
+948,"Email Send Wizard - Audience - Publication List",a_948,d_948,TRUE,FALSE
+949,"Email Send Wizard - Audience - Subscriber Lists",a_949,d_949,FALSE,FALSE
+950,"Email Send Wizard - Audience - Data Extensions",a_950,d_950,FALSE,FALSE
+951,"Email Send Wizard - Audience - Suppression List",a_951,d_951,FALSE,FALSE
+952,"Email Send Wizard - Audience - Domain Exclusion",a_952,d_952,FALSE,FALSE
+953,"Email Send Wizard - Audience - ExclusionScript",a_953,d_953,FALSE,FALSE
+954,"Email Send Wizard - Advanced Options",a_954,d_954,FALSE,FALSE
+955,"Email Send Wizard - Advanced Options - Clicks",a_955,d_955,TRUE,FALSE
+956,"Email Send Wizard - Advanced Options - Multipart MIME",a_956,d_956,FALSE,FALSE
+957,"Email Send Wizard - Advanced Options - Send Log",a_957,d_957,FALSE,FALSE
+958,"Email Send Wizard - Advanced Options - Suppress from Send Report",a_958,d_958,FALSE,FALSE
+959,"Email Send Wizard - Advanced Options - CC",a_959,d_959,FALSE,FALSE
+960,"Email Send Wizard - Advanced Options - BCC",a_960,d_960,FALSE,FALSE
+961,"Email Send Wizard - Advanced Options - Keyword",a_961,d_961,FALSE,FALSE
+962,"Email Send Wizard - Advanced Options - Send Throttling",a_962,d_962,FALSE,FALSE
+963,"Email Send Wizard - Advanced Options - Error Threshold",a_963,d_963,FALSE,FALSE
+964,"Workflows and Approvals",a_964,d_964,FALSE,FALSE
+965,"Workflows and Approvals - Workflow Teams",a_965,d_965,FALSE,FALSE
+966,"Workflows and Approvals - Workflow Teams - Create, Edit and Copy",a_966,d_966,FALSE,FALSE
+967,"Workflows and Approvals - Workflow Teams - Delete",a_967,d_967,FALSE,FALSE
+968,"Workflows and Approvals - Workflow Teams - Add/Remove Users",a_968,d_968,TRUE,FALSE
+969,"Workflows and Approvals - Workflow Teams - View",a_969,d_969,FALSE,FALSE
+970,"Workflows and Approvals - Approvals",a_970,d_970,FALSE,FALSE
+971,"Workflows and Approvals - Approvals - Comments",a_971,d_971,FALSE,FALSE
+972,"Workflows and Approvals - Approvals - Comments - Edit Any User's Comments",a_972,d_972,TRUE,FALSE
+973,"Workflows and Approvals - Approvals - Comments - Delete Any User's Comments",a_973,d_973,TRUE,FALSE
+974,"Workflows and Approvals - Approvals - Comments - Delete Threads",a_974,d_974,TRUE,FALSE
+975,"Workflows and Approvals - Approvals - Comments - View",a_975,d_975,TRUE,FALSE
+976,"Workflows and Approvals - Approvals - Approval Items",a_976,d_976,FALSE,FALSE
+977,"Workflows and Approvals - Approvals - Approval Items - Create and Edit",a_977,d_977,TRUE,FALSE
+978,"Workflows and Approvals - Approvals - Approval Items - Delete",a_978,d_978,TRUE,FALSE
+979,"Workflows and Approvals - Approvals - Approval Items - View",a_979,d_979,TRUE,FALSE
+980,"Workflows and Approvals - General",a_980,d_980,FALSE,FALSE
+981,"Workflows and Approvals - General - Create and Edit Workflow Definitions",a_981,d_981,FALSE,FALSE
+982,"Workflows and Approvals - General - Enable Approvals for Any Channel",a_982,d_982,FALSE,FALSE
+983,"Workflows and Approvals - General - View Workflow Definitions",a_983,d_983,FALSE,FALSE
+984,"Workflows and Approvals - General - Delete Workflow Definitions",a_984,d_984,FALSE,FALSE
+985,"Workflows and Approvals - WorkFlow Role Instance",a_985,d_985,FALSE,FALSE
+986,"Workflows and Approvals - WorkFlow Role Instance - View",a_986,d_986,FALSE,FALSE
+987,"Workflows and Approvals - WorkFlow Role Instance - Create",a_987,d_987,FALSE,FALSE
+988,"Workflows and Approvals - WorkFlow Role Instance - Delete",a_988,d_988,FALSE,FALSE
+989,"Advertising Studio Audiences",a_989,d_989,FALSE,FALSE
+990,"Advertising Studio Audiences - General",a_990,d_990,FALSE,FALSE
+991,"Advertising Studio Audiences - General - Delete Audience",a_991,d_991,FALSE,FALSE
+992,"Advertising Studio Audiences - General - Add/Delete Ad Account",a_992,d_992,FALSE,FALSE
+993,"Advertising Studio Audiences - General - Access",a_993,d_993,TRUE,FALSE
+994,"Analytics",a_994,d_994,FALSE,FALSE
+995,"Analytics - Reporting",a_995,d_995,FALSE,FALSE
+996,"Analytics - Reporting - View",a_996,d_996,TRUE,FALSE
+997,"Analytics - Google Analytics",a_997,d_997,FALSE,FALSE
+998,"Analytics - Google Analytics - Administration",a_998,d_998,FALSE,FALSE
+999,"Analytics - Google Analytics - Administration - View",a_999,d_999,FALSE,FALSE
+1000,"Analytics - Google Analytics - Administration - Edit",a_1000,d_1000,FALSE,FALSE
+1001,"Analytics - Google Analytics - Tracking",a_1001,d_1001,FALSE,FALSE
+1002,"Analytics - Google Analytics - Tracking - View",a_1002,d_1002,FALSE,FALSE
+1003,"Analytics - Google Analytics - Tracking - Create",a_1003,d_1003,FALSE,FALSE
+1004,"Analytics - Google Analytics - Audiences",a_1004,d_1004,FALSE,FALSE
+1005,"Analytics - Google Analytics - Audiences - View",a_1005,d_1005,FALSE,FALSE
+1006,"Analytics - Google Analytics - Audiences - Create",a_1006,d_1006,FALSE,FALSE
+1007,"Analytics - Google Analytics - Audiences - Edit",a_1007,d_1007,FALSE,FALSE
+1008,"Analytics - Google Analytics - Authorized Views",a_1008,d_1008,FALSE,FALSE
+1009,"Analytics - Google Analytics - Authorized Views - View",a_1009,d_1009,TRUE,FALSE
+1010,"Analytics - Tracking",a_1010,d_1010,FALSE,FALSE
+1011,"Analytics - Tracking - View",a_1011,d_1011,FALSE,FALSE
+1012,"Analytics - Tracking - Create",a_1012,d_1012,FALSE,FALSE
+1013,"Salesforce DMP",a_1013,d_1013,FALSE,FALSE
+1014,"Salesforce DMP - Audiences",a_1014,d_1014,FALSE,FALSE
+1015,"Salesforce DMP - Audiences - Create",a_1015,d_1015,FALSE,FALSE
+1016,"Salesforce DMP - Audiences - Edit",a_1016,d_1016,FALSE,FALSE
+1017,"Salesforce DMP - Integration",a_1017,d_1017,FALSE,FALSE
+1018,"Salesforce DMP - Integration - Create",a_1018,d_1018,FALSE,FALSE
+1019,"Salesforce DMP - Integration - Edit",a_1019,d_1019,FALSE,FALSE
+1020,"Salesforce DMP - Integration - View",a_1020,d_1020,FALSE,FALSE
+1021,"Interaction Studio - Legacy",a_1021,d_1021,FALSE,FALSE
+1022,"Interaction Studio - Legacy - Access",a_1022,d_1022,FALSE,FALSE
+1023,"Interaction Studio - Legacy - Access - Access (NA)",a_1023,d_1023,FALSE,FALSE
+1024,"Interaction Studio - Legacy - Access - Access (EU)",a_1024,d_1024,FALSE,FALSE
+1025,"Interaction Studio - Legacy - Access - Access (AP)",a_1025,d_1025,FALSE,FALSE
+1026,"Interaction Studio - Legacy - General",a_1026,d_1026,FALSE,FALSE
+1027,"Interaction Studio - Legacy - General - Space Admin",a_1027,d_1027,FALSE,FALSE
+1028,"Interaction Studio - Legacy - General - Create, Edit",a_1028,d_1028,FALSE,FALSE
+1029,"Interaction Studio - Legacy - General - Publish",a_1029,d_1029,FALSE,FALSE
+1030,"Interaction Studio - Legacy - General - Tenant Admin",a_1030,d_1030,FALSE,FALSE
+1031,"Event Notifications",a_1031,d_1031,FALSE,FALSE
+1032,"Event Notifications - Callbacks",a_1032,d_1032,FALSE,FALSE
+1033,"Event Notifications - Callbacks - Create",a_1033,d_1033,FALSE,FALSE
+1034,"Event Notifications - Callbacks - View",a_1034,d_1034,FALSE,FALSE
+1035,"Event Notifications - Callbacks - Update",a_1035,d_1035,FALSE,FALSE
+1036,"Event Notifications - Callbacks - Delete",a_1036,d_1036,FALSE,FALSE
+1037,"Event Notifications - Subscriptions",a_1037,d_1037,FALSE,FALSE
+1038,"Event Notifications - Subscriptions - Create",a_1038,d_1038,FALSE,FALSE
+1039,"Event Notifications - Subscriptions - View",a_1039,d_1039,FALSE,FALSE
+1040,"Event Notifications - Subscriptions - Update",a_1040,d_1040,FALSE,FALSE
+1041,"Event Notifications - Subscriptions - Delete",a_1041,d_1041,FALSE,FALSE
+1042,"Audit Trail",a_1042,d_1042,FALSE,FALSE
+1043,"Audit Trail - Administer Audit Trail",a_1043,d_1043,FALSE,FALSE
+1044,"Intelligence",a_1044,d_1044,FALSE,FALSE
+1045,"Intelligence - Enable Intelligence Integration",a_1045,d_1045,FALSE,FALSE
+1046,"Data Factory Utility",a_1046,d_1046,FALSE,FALSE
+1047,"Data Factory Utility - Configuration",a_1047,d_1047,FALSE,FALSE
+1048,"Database Encryption",a_1048,d_1048,FALSE,FALSE
+1049,"Database Encryption - View",a_1049,d_1049,FALSE,FALSE
+1050,"Database Encryption - Rotate Key",a_1050,d_1050,FALSE,FALSE
+1051,"Database Encryption - Revoke Key",a_1051,d_1051,FALSE,FALSE
+1052,"Personalization",a_1052,d_1052,FALSE,FALSE
+1053,"Personalization - Access",a_1053,d_1053,FALSE,FALSE
+1054,"Personalization - Admin",a_1054,d_1054,FALSE,FALSE
+1055,"Intelligence Reports",a_1055,d_1055,FALSE,FALSE
+1056,"Intelligence Reports - General",a_1056,d_1056,FALSE,FALSE
+1057,"Intelligence Reports - General - Access, View and Export",a_1057,d_1057,TRUE,FALSE
+1058,"Intelligence Reports - General - Schedule",a_1058,d_1058,TRUE,FALSE
+1059,"Intelligence Reports - General - Create and Edit",a_1059,d_1059,TRUE,FALSE
+1060,"Einstein Data Analytics",a_1060,d_1060,FALSE,FALSE
+1061,"Einstein Data Analytics - Setup",a_1061,d_1061,FALSE,FALSE
+1062,"Package Manager",a_1062,d_1062,FALSE,FALSE
+1063,"Package Manager - Package",a_1063,d_1063,FALSE,FALSE
+1064,"Package Manager - Deploy",a_1064,d_1064,FALSE,FALSE
+1065,"Deep Links",a_1065,d_1065,FALSE,FALSE
+1066,"Deep Links - Assets",a_1066,d_1066,FALSE,FALSE
+1067,"Deep Links - Assets - View",a_1067,d_1067,FALSE,FALSE
+1068,"Deep Links - Assets - Create",a_1068,d_1068,FALSE,FALSE
+1069,"Deep Links - Assets - Delete",a_1069,d_1069,FALSE,FALSE
+1070,"Deep Links - Settings",a_1070,d_1070,FALSE,FALSE
+1071,"Deep Links - Settings - View",a_1071,d_1071,FALSE,FALSE
+1072,"Deep Links - Settings - Create",a_1072,d_1072,FALSE,FALSE
+1073,"Contacts",a_1073,d_1073,FALSE,FALSE
+1074,"Contacts - Contact Builder",a_1074,d_1074,FALSE,FALSE
+1075,"Contacts - Contact Builder - Administer Contact Data Model.",a_1075,d_1075,TRUE,FALSE
+1076,"Contacts - Contact Builder - View All Contacts",a_1076,d_1076,FALSE,FALSE
+1077,"Contacts - Contact Builder - Delete Contacts",a_1077,d_1077,TRUE,FALSE
+1078,"Contacts - Contact Builder - Access",a_1078,d_1078,TRUE,FALSE
+1079,"Contacts - Contact to Business Unit Mapping",a_1079,d_1079,FALSE,FALSE
+1080,"Contacts - Contact to Business Unit Mapping - Create",a_1080,d_1080,FALSE,FALSE
+1081,"Contacts - Contact to Business Unit Mapping - View",a_1081,d_1081,FALSE,FALSE
+1082,"Contacts - Contact to Business Unit Mapping - Update",a_1082,d_1082,FALSE,FALSE
+1083,"Contacts - Contact to Business Unit Mapping - Delete",a_1083,d_1083,FALSE,FALSE
+1084,"Security",a_1084,d_1084,FALSE,FALSE
+1085,"Security - HTTP Headers",a_1085,d_1085,FALSE,FALSE
+1086,"Security - HTTP Headers - View",a_1086,d_1086,FALSE,FALSE
+1087,"Security - HTTP Headers - Update",a_1087,d_1087,FALSE,FALSE
+1088,"Security - HTTP Headers - Delete",a_1088,d_1088,FALSE,FALSE
+1089,"Marketing Cloud Next",a_1089,d_1089,FALSE,FALSE
+1090,"Marketing Cloud Next - Agentforce Builder",a_1090,d_1090,FALSE,FALSE
+1091,"Marketing Cloud Next - Agentforce Builder - Access",a_1091,d_1091,FALSE,FALSE
+1092,"Marketing Cloud Next - Campaigns",a_1092,d_1092,FALSE,FALSE
+1093,"Marketing Cloud Next - Campaigns - Access",a_1093,d_1093,FALSE,FALSE
+1094,"Marketing Cloud Next - Flows",a_1094,d_1094,FALSE,FALSE
+1095,"Marketing Cloud Next - Flows - Access",a_1095,d_1095,FALSE,FALSE
+1096,"Marketing Cloud Next - Marketing Performance",a_1096,d_1096,FALSE,FALSE
+1097,"Marketing Cloud Next - Marketing Performance - Access",a_1097,d_1097,FALSE,FALSE
+1098,"Marketing Cloud Next - Analytics",a_1098,d_1098,FALSE,FALSE
+1099,"Marketing Cloud Next - Analytics - Access",a_1099,d_1099,FALSE,FALSE
+1100,"Marketing Cloud Next - Segments",a_1100,d_1100,FALSE,FALSE
+1101,"Marketing Cloud Next - Segments - Access",a_1101,d_1101,FALSE,FALSE
+1102,"Consent Syncup",a_1102,d_1102,FALSE,FALSE
+1103,"Consent Syncup - View",a_1103,d_1103,FALSE,FALSE
+1104,"Consent Syncup - Update",a_1104,d_1104,FALSE,FALSE
+1105,"Consent Syncup - Delete",a_1105,d_1105,FALSE,FALSE
+1106,"Consent Syncup - View",a_1106,d_1106,FALSE,FALSE
+1107,"Consent Syncup - Update",a_1107,d_1107,FALSE,FALSE
+1108,"Consent Syncup - Delete",a_1108,d_1108,FALSE,FALSE
+1109,"SOAP Retrieve",a_1109,d_1109,FALSE,FALSE
+1110,"SOAP Retrieve - View",a_1110,d_1110,FALSE,FALSE
+1111,"SOAP Retrieve - View",a_1111,d_1111,FALSE,FALSE
+1112,"SOAP Retrieve - View",a_1112,d_1112,FALSE,FALSE
+1113,"SOAP Retrieve - View",a_1113,d_1113,FALSE,FALSE
